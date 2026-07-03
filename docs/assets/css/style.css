@@ -146,8 +146,10 @@ li::marker { color: var(--text-mute); }
 
 /* ---------------------------------------------------------- figures */
 figure { margin: 34px 0; }
-/* break a figure out of the reading column so charts render large */
-.fig-wide { width: min(1160px, 94vw); margin-left: 50%; transform: translateX(-50%); }
+/* break a figure out of the reading column so charts render large.
+   Centered with margins only (no transform) so the reveal animation,
+   which resets transform, cannot knock it sideways. */
+.fig-wide { width: min(1160px, 94vw); margin-left: calc(50% - min(1160px, 94vw) / 2); margin-right: 0; }
 .fig-card {
   background: #f7f8fa; border: 1px solid var(--line); border-radius: 12px;
   padding: 14px; overflow: hidden;
