@@ -11,9 +11,9 @@
 <meta property="og:title" content="Winning the block on Solana" />
 <meta property="og:description" content="17 transaction senders raced head to head. 380k timed attempts, measured in Proof-of-History ticks. What actually decides inclusion." />
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://JakubJaksik.github.io/solana-sender-analysis/assets/figures/fan-synthesis-quadrant.png" />
+<meta property="og:image" content="https://JakubJaksik.github.io/solana-sender-analysis/assets/figures/geo-world-map.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://JakubJaksik.github.io/solana-sender-analysis/assets/figures/fan-synthesis-quadrant.png" />
+<meta name="twitter:image" content="https://JakubJaksik.github.io/solana-sender-analysis/assets/figures/geo-world-map.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -31,7 +31,7 @@
       <a href="#latency">Latency</a>
       <a href="#fanout">The race</a>
       <a href="#dedup">Dedup</a>
-      <a href="#next">Takeaways</a>
+      <a href="#takeaways">Takeaways</a>
       <a href="#code">Code</a>
     </div>
     <a class="nav-cta" href="https://github.com/JakubJaksik/solana-sender-analysis">GitHub</a>
@@ -41,18 +41,19 @@
 <!-- ============================================ HERO -->
 <header class="hero">
   <div class="wrap-wide">
-    <div class="hero-tag"><span class="dot"></span>Measurement study &middot; Solana mainnet</div>
+    <div class="hero-tag"><span class="dot"></span>Solana mainnet &middot; measurement notes &middot; June 2026</div>
     <h1>Winning the block on Solana: <span class="grad">what actually decides inclusion</span></h1>
     <p class="hero-lede">
-      On Solana a leader validator builds a block every 400 milliseconds. If you trade on it, getting your
-      transaction into the right block, fast and reliably, is most of the game. I spent a few weeks measuring
-      the sending path end to end: where the validators live, which data firehose sees the chain first, how
-      quickly one sender lands a transaction, and what happens when you race seventeen of them at once.
+      On Solana a leader validator builds a block roughly every 400 milliseconds, and there is no shared
+      mempool to wait in. You have to reach that specific validator before it rotates, which turns transaction
+      sending into a surprisingly deep measurement problem. These notes work through it end to end: where the
+      validators sit, which data stream sees the chain first, how fast a single sender lands, and what happens
+      when you race seventeen of them at once.
     </p>
     <p class="hero-meta">
-      By Jakub Jaksik &middot; every number here comes from synthetic self-transfers, so it measures the
-      <em>sending path</em>, not any trading strategy &middot;
-      <a href="https://github.com/JakubJaksik/solana-sender-analysis">source &amp; data on GitHub</a>
+      Every number comes from synthetic self-transfers, so it measures the <em>sending path</em>, not any
+      trading strategy &middot;
+      <a href="https://github.com/JakubJaksik/solana-sender-analysis">source on GitHub</a>
     </p>
 
     <div class="statband reveal">
@@ -69,16 +70,21 @@
   <div class="wrap">
     <div class="sec-head"><span class="sec-num">00</span></div>
     <h2>The problem, in one slot</h2>
-    <p class="dek">A validator is chosen as leader, holds the microphone for four slots, and everyone who wants
-      in has to reach that specific machine before the block closes.</p>
+    <p class="dek">There is no shared mempool. The leader is fixed by the schedule an epoch in advance, produces
+      a short run of consecutive slots, and your transaction has to reach that validator directly before it
+      hands off.</p>
 
-    <p>Solana does not have a mempool in the Ethereum sense. There is no shared waiting room where a fee market
-      quietly sorts pending transactions. Instead, a schedule (known an epoch ahead) assigns every slot to a
-      leader, and that leader holds four consecutive slots, roughly 1.6 seconds, before the next one takes over.
-      To land a transaction you send it toward the current leader's transaction-processing port and hope it
-      arrives, survives the queue, and makes it into an entry before the leader moves on.</p>
+    <p>Solana has no global mempool, no shared queue where a fee market sorts pending transactions. The leader
+      schedule is computed an epoch ahead, so the network always knows which validator is producing blocks now
+      and which few come next. Clients push transactions straight at the current and upcoming leaders (this is
+      Gulf Stream) instead of gossiping them around, and each leader ingests them at its Transaction Processing
+      Unit (TPU) over QUIC. A leader produces four consecutive slots, about 1.6 seconds at the 400 ms slot
+      target, before rotation moves on, and staked connections get preferential treatment at ingest through
+      stake-weighted quality of service (swQoS).</p>
 
-    <p>That framing raises very concrete, measurable questions, and this study answers four of them:</p>
+    <p>So landing a transaction comes down to one thing: get it to that specific machine, over whatever path
+      actually reaches it, and into a block before the leader rotates. There is no second queue to catch it.
+      That turns a vague goal into four concrete, measurable questions:</p>
     <ul>
       <li><strong>Does geography matter?</strong> If most of the stake sits in Europe, does a client in
         Frankfurt already cover the network, or is it worth duplicating infrastructure across continents?</li>
@@ -280,6 +286,15 @@
       (0slot, Triton, Nozomi, Astralane, BlockRazor, bloXroute, Syncro), and direct QUIC to the leader's TPU
       (AllenHark and others, in four regions). Each got its own tip and its own rate-limit budget.</p>
 
+    <h3>How the bench works</h3>
+    <p>Three stages run concurrently. The observer watches the chain, the dispatcher fires on schedule, and the
+      recorder writes one row per attempt.</p>
+
+    <div class="diagram">  1 - <b>observe</b>   merge ShredStream + Yellowstone gRPC (dedup by slot + entry hash, first-seen); count PoH ticks per slot
+  2 - <b>fire</b>      on the scheduled (slot, tick): fan out to all 17 senders at once (HTTP / gRPC / QUIC), each a pre-signed tx on one durable nonce
+  3 - <b>record</b>    first signature seen on chain wins; match by signature, write one row per (trigger x sender) to Parquet
+                 fields: send timestamps, observed slot + tick, outcome class</div>
+
     <h3>Getting the statistics honest first</h3>
     <p>Before ranking anything, the pipeline hard-fails on a set of structural invariants: row count equals
       triggers times senders, every signature is unique, at most one winner per trigger, and every leader
@@ -294,22 +309,22 @@
       triggers), conditional (excluding attempts that never got sent, the fair comparison for throttled
       senders), and win-share (out of contested triggers).</p>
 
-    <figure class="reveal">
-      <div class="fig-card"><img src="assets/figures/fan-winrate-forest.png" alt="Forest plot of each sender's win-rate with 95% Wilson confidence intervals, across three estimands." loading="lazy" /></div>
-      <figcaption><span class="figtag">Fig 7</span>Win-rate for every sender with 95% Wilson intervals, under
-        three definitions (operational, throttle-adjusted, and share of contested triggers). 0slot leads under
-        any of them. The senders whose dots jump right between the first two panels (Nozomi especially) are the
-        rate-limited ones: they look mediocre until you stop counting the attempts they were never allowed to
-        send. The small panel subtitles still carry the pilot run's denominators from the report template; the
-        rates plotted, and the table above, are the pooled 17-sender run.</figcaption>
+    <figure class="reveal fig-wide">
+      <div class="fig-card"><a href="assets/figures/fan-winrate-forest.png" target="_blank" rel="noopener"><img src="assets/figures/fan-winrate-forest.png" alt="Forest plot of each sender's win-rate with 95% Wilson confidence intervals, across three estimands." loading="lazy" /></a></div>
+      <figcaption><span class="zoom">click to enlarge</span><span class="figtag">Fig 7</span>Win-rate for every
+        sender with 95% Wilson intervals, under three definitions (operational, throttle-adjusted, and share of
+        contested triggers). 0slot leads under any of them. The senders whose dots jump right between the first
+        two panels (Nozomi especially) are the rate-limited ones: they look mediocre until you stop counting the
+        attempts they were never allowed to send. The panel subtitles carry the pilot run's denominators from
+        the report template; the rates plotted, and the table above, are the pooled 17-sender run.</figcaption>
     </figure>
 
-    <figure class="reveal">
-      <div class="fig-card"><img src="assets/figures/fan-outcomes.png" alt="Distribution of all send attempts across six outcome classes, showing lost-race as the dominant structural outcome." loading="lazy" /></div>
-      <figcaption><span class="figtag">Fig 8</span>Every attempt sorted into one of six outcomes. Won and
-        lost-race are structural (17 race, one wins). The classes that actually flag problems are the small ones:
-        never-sent, throttled, provider-rejected, and server-error. Reading a sender by its raw loss rate would
-        punish it for the arithmetic of the race.</figcaption>
+    <figure class="reveal fig-wide">
+      <div class="fig-card"><a href="assets/figures/fan-outcomes.png" target="_blank" rel="noopener"><img src="assets/figures/fan-outcomes.png" alt="Distribution of all send attempts across six outcome classes, showing lost-race as the dominant structural outcome." loading="lazy" /></a></div>
+      <figcaption><span class="zoom">click to enlarge</span><span class="figtag">Fig 8</span>Every attempt sorted
+        into one of six outcomes. Won and lost-race are structural (17 race, one wins). The classes that flag
+        real problems are the small ones: never-sent, throttled, provider-rejected, server-error. Reading a
+        sender by its raw loss rate would punish it for the arithmetic of the race.</figcaption>
     </figure>
 
     <div class="tbl-wrap reveal">
@@ -325,6 +340,15 @@
           <tr><td>allenhark-quic-ny / tk</td><td>QUIC</td><td class="n">0</td><td class="win">0.0%</td><td>New York never landed in-slot; Tokyo point of presence was dead</td></tr>
         </tbody>
       </table>
+    </div>
+
+    <div class="note reveal">
+      <span class="nlab">One result to discount: Jito</span>
+      <p style="margin:0">jito-multi landed almost nothing here, but I would not read that as a verdict on Jito.
+        It was hit hardest by rate limiting (a conservative client send interval plus provider HTTP-429s), so it
+        was effectively starved of fair attempts, and the bench sent it plain transactions rather than the
+        bundle path its block engine is built around. Treat its number as a measurement artifact of this setup,
+        not a ranking. A proper Jito comparison needs the bundle interface and its own rate budget.</p>
     </div>
 
     <h3>What the race actually taught me</h3>
@@ -350,27 +374,12 @@
           almost diagonal: most leaders have "their" sender.</p></div>
     </div>
 
-    <div class="fig-row">
-      <figure class="reveal">
-        <div class="fig-card"><img src="assets/figures/fan-leader-sender-heatmap.png" alt="Heatmap of land counts for the top 20 leaders against each sender, showing a near-diagonal structure." loading="lazy" /></div>
-        <figcaption><span class="figtag">Fig 9</span>Land count for the top 20 leaders (rows) against each sender
-          (columns). The bright cells are nearly diagonal: Helius the validator is won by helius-dual, the
-          P2P.org node by Syncro, Kiln by NextBlock. Reaching a given leader is a specific sender's job, not a
-          general one.</figcaption>
-      </figure>
-      <figure class="reveal">
-        <div class="fig-card"><img src="assets/figures/fan-rtt-vs-slotsbehind.png" alt="Scatter of send round-trip time against how many slots late a transaction landed." loading="lazy" /></div>
-        <figcaption><span class="figtag">Fig 10</span>Client round-trip time against how many slots late the
-          transaction landed. The positive trend is real but weak (Spearman around 0.10). Faster clients help a
-          little; they do not decide the race.</figcaption>
-      </figure>
-    </div>
-
-    <figure class="reveal">
-      <div class="fig-card"><img src="assets/figures/fan-datacenter-landrate.png" alt="Per-data-center land-rate for each sender, showing different winners in the same city." loading="lazy" /></div>
-      <figcaption><span class="figtag">Fig 11</span>Land-rate per data center, per sender. In one city with
-        several networks the winner changes with the data center, same distance, different peering. This is the
-        finest-grained version of the geographic effect, and it is where most of the variance lives.</figcaption>
+    <figure class="reveal fig-wide">
+      <div class="fig-card"><a href="assets/figures/fan-leader-sender-heatmap.png" target="_blank" rel="noopener"><img src="assets/figures/fan-leader-sender-heatmap.png" alt="Heatmap of land counts for the top 20 leaders against each sender, showing a near-diagonal structure." loading="lazy" /></a></div>
+      <figcaption><span class="zoom">click to enlarge</span><span class="figtag">Fig 9</span>The core result, in
+        one chart. Land count for the top 20 leaders (rows) against each sender (columns). The bright cells run
+        down a rough diagonal: Helius the validator is won by helius-dual, the P2P.org node by Syncro, Kiln by
+        NextBlock. Reaching a given leader is a specific sender's job, not a general one.</figcaption>
     </figure>
 
     <p>Two structural facts explain why even slow senders keep landing. First, a leader holds four consecutive
@@ -380,19 +389,27 @@
       the eventual winner was the fastest sender only 27% of the time. Being first out the door is not being
       first into the block.</p>
 
-    <figure class="reveal">
-      <div class="fig-card"><img src="assets/figures/fan-synthesis-quadrant.png" alt="Quadrant of senders: conditional win-rate on the x-axis, speed on the y-axis, coloured by verdict." loading="lazy" /></div>
-      <figcaption><span class="figtag">Fig 12</span>The summary I hand back. Horizontal is conditional win-rate,
-        vertical is speed, colour is the verdict: invest, improve, deprioritise, or fix a bug. 0slot sits far
-        right (win a lot) despite being mid-pack on speed. The dead points of presence sit at the bottom, tagged
-        as bugs to fix, not senders to judge.</figcaption>
-    </figure>
+    <div class="fig-row">
+      <figure class="reveal">
+        <div class="fig-card"><a href="assets/figures/fan-rtt-vs-slotsbehind.png" target="_blank" rel="noopener"><img src="assets/figures/fan-rtt-vs-slotsbehind.png" alt="Scatter of send round-trip time against how many slots late a transaction landed." loading="lazy" /></a></div>
+        <figcaption><span class="figtag">Fig 10</span>Round-trip time to the sender against how many slots late
+          the transaction landed. The trend is real but weak (Spearman 0.10). The left band is the near-zero-RTT
+          QUIC sends; faster does not mean earlier in the block.</figcaption>
+      </figure>
+      <figure class="reveal">
+        <div class="fig-card"><a href="assets/figures/fan-cost-per-landing.png" target="_blank" rel="noopener"><img src="assets/figures/fan-cost-per-landing.png" alt="Cost per landing per sender, showing Triton near zero and the senders that pay a large tip." loading="lazy" /></a></div>
+        <figcaption><span class="figtag">Fig 11</span>Cost per landing, from each sender's configured tip. Triton
+          pays no tip and still ranks second in wins, so it is near-free per landing. 0slot wins the most but
+          pays a one-million-lamport tip. Reach and price are separate axes.</figcaption>
+      </figure>
+    </div>
 
-    <figure class="reveal">
-      <div class="fig-card"><img src="assets/figures/fan-cost-per-landing.png" alt="Cost per landing per sender, showing Triton near zero and the QUIC/relays that pay a large tip." loading="lazy" /></div>
-      <figcaption><span class="figtag">Fig 13</span>Cost per landing, using each sender's configured tip. Triton
-        pays no tip and still ranks second in wins, so its cost per landing is close to zero. 0slot wins the most
-        but pays for it, at a tip of one million lamports per attempt. Reach and price are separate axes.</figcaption>
+    <figure class="reveal fig-wide">
+      <div class="fig-card"><a href="assets/figures/fan-bradley-terry.png" target="_blank" rel="noopener"><img src="assets/figures/fan-bradley-terry.png" alt="Bradley-Terry ability scores ranking every sender from all pairwise head-to-heads." loading="lazy" /></a></div>
+      <figcaption><span class="zoom">click to enlarge</span><span class="figtag">Fig 12</span>One consistent
+        ranking, fitted from every head-to-head pairing (Bradley-Terry ability, like an Elo). 0slot and Triton
+        on top; the two dead QUIC points of presence (New York, Tokyo) and the rate-limited Jito sit far to the
+        left, which is where the "discount these" cases show up.</figcaption>
     </figure>
 
     <div class="finding reveal">
@@ -451,26 +468,31 @@
   </div>
 </section>
 
-<!-- ============================================ 6 NEXT -->
-<section id="next">
+<!-- ============================================ 6 TAKEAWAYS -->
+<section id="takeaways">
   <div class="wrap">
     <div class="sec-head"><span class="sec-num">06</span></div>
-    <h2>What I would build next</h2>
-    <p class="dek">The measurements point at a specific design, and at their own weak spots.</p>
-    <ul>
-      <li><strong>Route per leader, not per continent.</strong> The strongest result is that inclusion is a
-        per-datacenter, per-peering property. A router that picks senders based on the upcoming leader and its
-        data center should beat any fixed fan-out.</li>
-      <li><strong>Replicate across epochs before trusting a ranking.</strong> Every confidence interval here is
-        within-run. The pooled analysis spans several runs, but sender behaviour drifts with peering deals, so a
-        persistent ranking needs repetition over time.</li>
-      <li><strong>Duplicate transport, not just endpoints.</strong> The same provider often behaves differently
-        over relay versus QUIC, and two endpoints of one provider skew toward different regions. Running both is
-        cheap insurance.</li>
-      <li><strong>Fold the signing cost into the model.</strong> Fan-out is only worth it while the marginal
-        sender adds more expected reach than it costs in signing latency. That trade-off deserves its own
-        measurement.</li>
-    </ul>
+    <h2>What it means, and why you fan out</h2>
+    <p class="dek">Three experiments, one through-line: getting included is less about being fast than about
+      which sender you happened to use for the validator that is leader right now.</p>
+
+    <p>The latency work showed that a single sender lands in a handful of ticks near Frankfurt and drags a long
+      tail everywhere else. The race showed that tail is not really about speed. Round-trip time barely predicts
+      winning, and the client that reaches the sender first is the eventual winner only about a quarter of the
+      time. What moves the needle is the connection between the sender and the specific leader: 0slot wins the
+      most while sitting mid-pack on latency, senders have clear home turf (Triton on Lithuanian leaders, Syncro
+      on a single P2P.org node), and adding "which sender reached this leader" to the model lifts the fit from an
+      R-squared of 0.01 to 0.40. Stake, the thing you might expect to matter, is basically noise (r near 0.02).</p>
+
+    <div class="finding reveal">
+      <span class="flab">Why fan out</span>
+      <p>No single sender reaches every leader well: the win matrix is a diagonal, not a column. And the leader
+        rotates every four slots, about 1.6 seconds, so the target keeps moving. The reliable move is therefore
+        not to hunt for the one best sender or the lowest latency, but to send through several complementary
+        senders at once and, better still, route by the upcoming leader and its data center. That is the whole
+        case for fanning out: it turns "did my one path happen to reach this leader" into "did any of them",
+        which is a far easier bet to win.</p>
+    </div>
   </div>
 </section>
 
@@ -478,39 +500,28 @@
 <section id="code">
   <div class="wrap">
     <div class="sec-head"><span class="sec-num">07</span></div>
-    <h2>The toolbox</h2>
-    <p class="dek">Five Rust crates for measurement, a Python suite for the statistics. The full method is in
-      the code; the raw run data is large and not committed, so reproducing the exact figures means pointing the
-      scripts at your own runs. Small summary CSVs and the integrity report ship as samples.</p>
+    <h2>How it was built, and what to distrust</h2>
+    <p class="dek">The measurement tools are Rust, the statistics are Python. All of it is on GitHub, so this
+      section is short: two pointers and the caveats that matter.</p>
 
-    <div class="tools">
-      <div class="tool reveal"><span class="tname">solana-leader-map</span><span class="tlang">Rust</span>
-        <p>Per-epoch validator to location map, cross-referenced with the leader schedule and stake. Country,
-          region, and data-center aggregates, with a GeoIP cross-check against gossip IPs.</p></div>
-      <div class="tool reveal"><span class="tname">entry-sources</span><span class="tlang">Rust</span>
-        <p>Shared ingestion layer: reassembles Jito ShredStream shreds back into entries and subscribes to
-          Yellowstone gRPC, behind one interface.</p></div>
-      <div class="tool reveal"><span class="tname">entry-comparator</span><span class="tlang">Rust</span>
-        <p>Matches the same entry across both streams and records which arrived first. Output feeds the
-          source-comparison analysis.</p></div>
-      <div class="tool reveal"><span class="tname">tick-trigger-bench</span><span class="tlang">Rust</span>
-        <p>Single-sender latency: schedule PoH ticks, pre-sign, fire on the tick, and measure inclusion distance
-          in ticks and hashes.</p></div>
-      <div class="tool reveal"><span class="tname">tick-trigger-fan-out-bench</span><span class="tlang">Rust</span>
-        <p>The 17-sender race: durable-nonce fan-out, first-seen-wins observation across both streams, one JSONL
-          row per attempt.</p></div>
-      <div class="tool reveal"><span class="tname">fanout_analysis</span><span class="tlang">Python</span>
-        <p>The statistics: Wilson intervals, McNemar and Cochran's Q, Bradley-Terry ranking, a conditional-logit
-          win model, and a self-contained HTML report. Unit-tested against textbook fixtures.</p></div>
-    </div>
+    <p>The two tools worth opening are <code>entry-comparator</code> (matches the same entry across ShredStream
+      and Yellowstone to decide which stream is faster) and <code>tick-trigger-fan-out-bench</code> (the race:
+      durable-nonce fan-out to every sender, first-seen-wins observation, one row per attempt). The rest of the
+      Rust workspace supports those, and the Python <code>fanout_analysis</code> package carries the statistics:
+      Wilson intervals, McNemar and Cochran's Q, Bradley-Terry, and a conditional-logit win model, unit-tested
+      against textbook fixtures. Raw run data is large and not committed, so reproducing the exact figures means
+      pointing the scripts at your own runs; small summary CSVs ship as samples.</p>
 
-    <p style="margin-top:28px">
-      <a href="https://github.com/JakubJaksik/solana-sender-analysis">Read the code and the full method on
-      GitHub &rarr;</a>
+    <p style="margin-top:22px">
+      <a href="https://github.com/JakubJaksik/solana-sender-analysis">Code and full method on GitHub &rarr;</a>
     </p>
 
     <h3>Caveats worth reading</h3>
     <ul class="caveats">
+      <li>This is a June 2026 snapshot (epochs 964 to 985). Validator geography, and especially sender peering,
+        change over time, so treat the specific numbers as a point in time rather than a standing ranking.</li>
+      <li>jito-multi is not fairly represented (heavy rate limiting plus the wrong send path for its block
+        engine), so its result is a measurement artifact of this setup, not a verdict on Jito.</li>
       <li>Latency is measured only for transactions that landed (there is selection bias) and it cannot be
         paired at the trigger level, since no trigger has two winners, so latency comparisons are
         distribution-based, not paired.</li>
@@ -532,7 +543,7 @@
       <div>
         <div class="fmono" style="color:var(--text-dim)">solana-sender-analysis</div>
         <div style="margin-top:6px">A measurement study of transaction inclusion on Solana.</div>
-        <div style="margin-top:6px">By Jakub Jaksik &middot; MIT licensed &middot; built on synthetic self-transfers only.</div>
+        <div style="margin-top:6px">Jakub Jaksik &middot; MIT licensed &middot; synthetic self-transfers only &middot; June 2026</div>
       </div>
       <div class="fmono">
         <a href="https://github.com/JakubJaksik/solana-sender-analysis">GitHub</a>
