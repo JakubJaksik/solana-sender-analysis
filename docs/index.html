@@ -287,13 +287,77 @@
       (AllenHark and others, in four regions). Each got its own tip and its own rate-limit budget.</p>
 
     <h3>How the bench works</h3>
-    <p>Three stages run concurrently. The observer watches the chain, the dispatcher fires on schedule, and the
-      recorder writes one row per attempt.</p>
+    <p>It is a set of concurrent stages joined by bounded channels. Two gRPC streams are merged into one view of
+      the chain, a supervisor turns that into ordered entries and PoH ticks, a trigger engine fires on the
+      schedule, and a dispatcher sends the pre-signed transactions and records what came back. The map below
+      follows the actual modules in <code>tick-trigger-fan-out-bench</code>.</p>
 
-    <div class="diagram">  1 - <b>observe</b>   merge ShredStream + Yellowstone gRPC (dedup by slot + entry hash, first-seen); count PoH ticks per slot
-  2 - <b>fire</b>      on the scheduled (slot, tick): fan out to all 17 senders at once (HTTP / gRPC / QUIC), each a pre-signed tx on one durable nonce
-  3 - <b>record</b>    first signature seen on chain wins; match by signature, write one row per (trigger x sender) to Parquet
-                 fields: send timestamps, observed slot + tick, outcome class</div>
+    <div class="arch reveal">
+      <div class="arch-lane">observe the chain</div>
+      <div class="arch-row">
+        <div class="arch-node">
+          <div class="arch-title">ShredStream</div>
+          <div class="arch-sub">gRPC entries, carry tx signatures</div>
+          <div class="arch-mod">entry-sources</div>
+        </div>
+        <div class="arch-node">
+          <div class="arch-title">Yellowstone</div>
+          <div class="arch-sub">gRPC entries, no signatures</div>
+          <div class="arch-mod">entry-sources</div>
+        </div>
+      </div>
+      <div class="arch-arrow"><span class="lbl">warm-up, then merge</span></div>
+      <div class="arch-node">
+        <div class="arch-title">Entry merger</div>
+        <div class="arch-sub">dedup on (slot, entry hash), first-seen wins</div>
+        <div class="arch-mod">merger.rs</div>
+      </div>
+      <div class="arch-arrow"></div>
+      <div class="arch-node">
+        <div class="arch-title">PoH supervisor</div>
+        <div class="arch-sub">reorder entries by index, count PoH ticks, seal each slot</div>
+        <div class="arch-mod">poh_supervisor.rs</div>
+      </div>
+      <div class="arch-arrow"></div>
+      <div class="arch-node accent">
+        <div class="arch-title">Trigger engine</div>
+        <div class="arch-sub">a scheduled (slot, tick) fires a Trigger; a matching signature fires a Match</div>
+        <div class="arch-mod">trigger_engine.rs</div>
+      </div>
+      <div class="arch-aside">Reads the firing schedule as a lock-free snapshot (<code>schedule.rs</code>), and sends
+        Match events straight to the recorder. Matching is by transaction signature; the on-chain memo is
+        attribution metadata, not the match key.</div>
+
+      <div class="arch-lane">fire and send</div>
+      <div class="arch-arrow"><span class="lbl">Trigger (slot, tick)</span></div>
+      <div class="arch-node accent">
+        <div class="arch-title">Dispatcher, fan-out</div>
+        <div class="arch-sub">take the pre-signed transactions for this (slot, tick) and send them all at once</div>
+        <div class="arch-mod">phase3_run.rs</div>
+      </div>
+      <div class="arch-aside">Transactions are pre-signed off the hot path by the <b>Preparer</b> (one per sender,
+        shuffled so no sender has a fixed send order) and held in a <b>TxPool</b> keyed by (slot, tick). They are
+        built with a durable nonce, a cached blockhash and per-vendor tip accounts
+        (<code>preparer.rs</code>, <code>tx_pool.rs</code>, <code>nonce/</code>).</div>
+      <div class="arch-arrow"></div>
+      <div class="arch-node">
+        <div class="arch-title">Senders</div>
+        <div class="arch-sub">one signed transaction per sender, sent in parallel</div>
+        <div class="arch-senders">
+          <div class="grp"><b>HTTP JSON-RPC</b><span>Helius, Jito</span></div>
+          <div class="grp"><b>HTTP / REST</b><span>Triton, Nozomi, Astralane, 0slot, BlockRazor, bloXroute, Syncro, NextBlock</span></div>
+          <div class="grp"><b>QUIC to TPU</b><span>AllenHark, Astralane, NextBlock, bloXroute</span></div>
+        </div>
+      </div>
+
+      <div class="arch-lane">record</div>
+      <div class="arch-arrow"><span class="lbl">lands, observed again, matched by signature</span></div>
+      <div class="arch-node">
+        <div class="arch-title">Recorder</div>
+        <div class="arch-sub">join register + send + match per (trigger x sender); one row per attempt</div>
+        <div class="arch-mod">recorder.rs &rarr; triggers.jsonl</div>
+      </div>
+    </div>
 
     <h3>Getting the statistics honest first</h3>
     <p>Before ranking anything, the pipeline hard-fails on a set of structural invariants: row count equals
