@@ -1,0 +1,1474 @@
+trigger_id,intended_slot,intended_leader,intended_continent,observed_slot,observed_leader,observed_continent,sender_name,pop,slots_behind
+20260610-161746#108948560696,425580315,AWcCdYG7...,Europe,425580316,LUX8 Validator,North America,0slot-de1,0slot-de1,1
+20260610-161746#108948561691,425580319,LUX8 Validator,North America,425580320,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948581161,425580395,Alchemy,Asia,425580396,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948609847,425580507,LakeStake,North America,425580508,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948613943,425580523,OKX Earn,Asia,425580524,Hamsa,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948615988,425580531,AHZxzLeR...,North America,425580532,Moise,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948616989,425580535,Moise,Asia,425580536,HbidP4hp...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948629301,425580583,8tjFeSAp...,North America,425580584,Ha1iad3,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948631356,425580591,pSoLoZx5...,Europe,425580592,Firedancer Development,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948646712,425580651,StakeBowl,Europe,425580652,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948652850,425580675,P2P.org Labs,South America,425580676,DeepStake,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948662071,425580711,5EhGYUyQ...,Asia,425580712,6k5hZkHG...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948668209,425580735,Nansen | Stake to Stack Points,Asia,425580736,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948669238,425580739,Ledger by Figment,Europe,425580740,melea 🚀 SOL 🤑2K,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948671294,425580747,Alchemy,Asia,425580748,🔥Aurora staking,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948690735,425580823,Validatore,Europe,425580824,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948702006,425580867,Neumann,Asia,425580868,Solflare,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948710208,425580899,stake.systems,Europe,425580900,Harmonic Major,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948711205,425580903,Harmonic Major,Asia,425580904,Helius,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948713279,425580911,A1vqhA2f...,Europe,425580912,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948717370,425580927,Coinbase 05,Europe,425580928,Neumann,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948721441,425580943,Shinobi Systems 🚀 stakeview.app,North America,425580944,76rcGHdP...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948727608,425580967,binance staking,North America,425580968,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948733753,425580991,MARVEL+MEV!,South America,425580992,Velox Validator,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948746029,425581039,OtterSec,North America,425581040,Vybe Validator,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948754238,425581071,OtterSec,North America,425581072,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948773675,425581147,🔥💃🇸🇬 CeriumXYZ,Asia,425581148,Sanctum,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948783911,425581187,OtterSec,North America,425581188,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948792125,425581219,OtterSec,North America,425581220,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948804407,425581267,Forward Industries,North America,425581268,6y7V8dL6...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948805426,425581271,6y7V8dL6...,Europe,425581272,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948811565,425581295,Alchemy,Asia,425581296,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948827964,425581359,Fountainhead 🌱 Funding Dev WITH max APY,Europe,425581360,Anagram Staking,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948838190,425581399,capy,South America,425581400,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948845372,425581427,Helius,Europe,425581428,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948848659,425581440,privaEdS...,Europe,425581444,Figment,North America,0slot-de1,0slot-de1,4
+20260610-161813#108948848934,425581441,privaEdS...,Europe,425581444,Figment,North America,0slot-de1,0slot-de1,3
+20260610-161813#108948849462,425581443,privaEdS...,Europe,425581444,Figment,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948854574,425581463,dogo validator,North America,425581464,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948858683,425581479,Hylo,South America,425581480,Block Logic +MEV +Triton,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948863773,425581499,AP Node,Asia,425581500,8tjFeSAp...,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948864799,425581503,8tjFeSAp...,North America,425581504,GREED Academy - funding education,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948865825,425581507,GREED Academy - funding education,Asia,425581508,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948892466,425581611,Solflare,Europe,425581612,Bybit Staking,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948897572,425581631,HpcB5Qg8...,Europe,425581632,Solana Mobile Validator,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948898600,425581635,Solana Mobile Validator,North America,425581636,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948901923,425581648,South,Asia,425581652,Solend,North America,0slot-de1,0slot-de1,4
+20260610-161813#108948902181,425581649,South,Asia,425581652,Solend,North America,0slot-de1,0slot-de1,3
+20260610-161813#108948902420,425581650,South,Asia,425581652,Solend,North America,0slot-de1,0slot-de1,2
+20260610-161813#108948902705,425581651,South,Asia,425581652,Solend,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948908861,425581675,5ejbTALc...,Europe,425581676,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948916770,425581706,stakefish 🐟,North America,425581708,BXAxLMMM...,Europe,0slot-de1,0slot-de1,2
+20260610-161813#108948917001,425581707,stakefish 🐟,North America,425581708,BXAxLMMM...,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948919080,425581715,binance staking,North America,425581716,validator.com,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948924212,425581735,Upbit Staking,North America,425581736,Solana Compass 🧭 Solana For The People,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948943673,425581811,Jito1,Asia,425581812,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-161813#108948944697,425581815,Forward Industries,North America,425581816,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948946750,425581823,5ejbTALc...,Europe,425581824,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948952863,425581847,5EhGYUyQ...,Asia,425581848,Hamsa,Europe,0slot-de1,0slot-de1,1
+20260610-161813#108948960060,425581875,Luganodes,Europe,425581876,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949582644,425584307,Bitwise Onchain Solutions | Jito BAM,Europe,425584308,Yurbason,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949585717,425584319,RockawayX Infra,Europe,425584320,BXAxLMMM...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949614399,425584431,Gemini,North America,425584432,cp0x_by_STAKRspace,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108949615423,425584435,cp0x_by_STAKRspace,Asia,425584436,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949626402,425584478,Harmonic Major,Asia,425584480,BONK,North America,0slot-de1,0slot-de1,2
+20260610-164405#108949626656,425584479,Harmonic Major,Asia,425584480,BONK,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949629753,425584491,9jxgosAf...,Europe,425584492,UPSCQNqd...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949638954,425584527,J6etcxDd...,North America,425584528,GYx8kpp7...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108949639989,425584531,GYx8kpp7...,Asia,425584532,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949653310,425584583,Quatro,Europe,425584584,Kiln1,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949666614,425584635,OKX Earn,Asia,425584636,G3a3iYZK...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949669654,425584647,OKX Earn,Asia,425584648,Code-Breader,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949674795,425584667,HnfPZDrb...,Asia,425584668,Firedancer Development,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949675836,425584671,Firedancer Development,Europe,425584672,SolBlaze,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108949678903,425584683,5ZqveVff...,Europe,425584685,Trust Nodes,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108949686060,425584711,ParaFi Technologies,North America,425584712,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949696316,425584751,Kraken 2,North America,425584752,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949702464,425584775,Soldea Kitchen,Europe,425584776,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949724969,425584863,binance staking,North America,425584864,FBbqKvwL...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949746451,425584947,Harmonic Major,Asia,425584949,Jupiter,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108949762862,425585011,8tjFeSAp...,North America,425585012,HpcB5Qg8...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949776416,425585064,Vault,Asia,425585068,Kraken,North America,0slot-de1,0slot-de1,4
+20260610-164405#108949776928,425585066,Vault,Asia,425585068,Kraken,North America,0slot-de1,0slot-de1,2
+20260610-164405#108949777210,425585067,Vault,Asia,425585068,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949779261,425585075,Blockman,Europe,425585076,3JotfSFP...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949782327,425585087,Quatro,Europe,425585088,xSTAKE | 0% fee,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949783355,425585091,xSTAKE | 0% fee,Europe,425585092,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949789502,425585115,PoH PoS,North America,425585116,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949791542,425585123,CPcDFHCA...,Europe,425585124,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949797403,425585146,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425585148,BOOP Wizard,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108949797663,425585147,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425585148,BOOP Wizard,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949813046,425585207,[Public Good] Chive 🌱 - 0% Fee + MEV + BlockReward,North America,425585208,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949814308,425585212,Watchtower,North America,425585217,GooseFX - 0% Fees,Europe,0slot-de1,0slot-de1,5
+20260610-164405#108949814829,425585214,Watchtower,North America,425585216,GooseFX - 0% Fees,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108949815070,425585215,Watchtower,North America,425585216,GooseFX - 0% Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949825325,425585255,2GUnfxZa...,Asia,425585256,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949834560,425585291,BXAxLMMM...,Europe,425585292,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949840681,425585315,GSTampk6...,Europe,425585316,Helius,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949843773,425585327,HTeRsa3g...,Europe,425585328,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949846839,425585339,Twinstake,North America,425585340,Yurbason,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949851951,425585359,SolX +Mev,North America,425585360,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949852992,425585363,binance staking,North America,425585364,3JotfSFP...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949857086,425585379,Figment,North America,425585380,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949870394,425585431,StakeNode777,North America,425585432,Shinobi Systems 🚀 stakeview.app,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949871396,425585435,Shinobi Systems 🚀 stakeview.app,North America,425585436,HnfPZDrb...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108949878580,425585463,Hamsa,Europe,425585464,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949883186,425585481,Hz5aLvpK...,Europe,425585484,6y7V8dL6...,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108949887803,425585499,AicQr2zC...,North America,425585500,PK,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949917467,425585615,HAKUHODO KEY3,Asia,425585616,Solmate - RockawayX powered,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108949918509,425585619,Solmate - RockawayX powered,Asia,425585620,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949926680,425585651,Jaguar,South America,425585652,Quicknode,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949929771,425585663,binance staking,North America,425585664,AWcCdYG7...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949949247,425585739,Coinbase 02,Europe,425585740,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949958459,425585775,Soldea Kitchen,Europe,425585776,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949960511,425585783,Jupiter,Europe,425585784,Asymmetric Research,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949968682,425585815,Upbit Staking,North America,425585816,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949971775,425585827,Forward Industries,North America,425585828,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108949984057,425585875,pSoLoZx5...,Europe,425585876,FbYX2uN5...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949988140,425585891,Lantern,Asia,425585892,Epoch.Day,South America,0slot-de1,0slot-de1,1
+20260610-164405#108949993256,425585911,Yonta Labs - LST 0%Fee MEV -,North America,425585912,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108949995327,425585919,Appleyello,Europe,425585920,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950011700,425585983,BrewlabsHQ,Asia,425585984,Drift,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950024995,425586035,Lion3d | 0% Forever + Block Rewards Sharing,Europe,425586036,DUND26mE...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950031167,425586059,OtterSec,North America,425586060,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950036261,425586079,Figment,North America,425586080,2GUnfxZa...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950049852,425586132,HTeRsa3g...,Europe,425586136,Bitwise Onchain Solutions,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108950073151,425586223,BtsmiEEv...,Europe,425586224,Solana Compass 🧭 Solana For The People,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950074142,425586227,Solana Compass 🧭 Solana For The People,Asia,425586228,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950075181,425586231,Figment,North America,425586232,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950084398,425586267,GYx8kpp7...,Asia,425586268,Kiln1,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950108985,425586363,Axiom,Europe,425586364,GlobalStake [Bare Metal],North America,0slot-de1,0slot-de1,1
+20260610-164405#108950111029,425586371,GSTampk6...,Europe,425586372,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950121268,425586411,Gemini,North America,425586412,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950124329,425586423,Coinbase 03,Asia,425586424,BGAjnivV...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950154047,425586539,Helius,Europe,425586540,Exo Tech,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950174525,425586619,BUv44cVt...,Europe,425586620,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950182719,425586651,5Us18hLZ...,Europe,425586652,BkoS26vB...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950183742,425586655,BkoS26vB...,Europe,425586656,ProStaking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950184748,425586659,ProStaking,North America,425586660,Coinbase 05,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950197036,425586707,BuoZ7q6f...,North America,425586708,StudentSOL,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950197306,425586708,StudentSOL,Asia,425586712,9jxgosAf...,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108950198050,425586711,StudentSOL,Asia,425586712,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950213421,425586771,binance staking,North America,425586772,Solid State Nodes,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950214454,425586775,Solid State Nodes,North America,425586776,5EhGYUyQ...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950223651,425586811,Gate Earn,North America,425586812,3SDK,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950226746,425586823,Twinstake,North America,425586824,LootGo,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950227749,425586827,LootGo,Asia,425586828,HbidP4hp...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950229823,425586835,EkvdKhUL...,Europe,425586836,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950233916,425586851,Hydex,Asia,425586852,Hayek,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950237743,425586866,privaEdS...,Europe,425586868,76rcGHdP...,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108950257448,425586943,2GUnfxZa...,Asia,425586944,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950272829,425587003,Blossom,Europe,425587005,Watchtower,North America,0slot-de1,0slot-de1,2
+20260610-164405#108950277915,425587023,Ha1iad3,Asia,425587024,FBbqKvwL...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950285106,425587051,EkvdKhUL...,Europe,425587052,Coinbase 05,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950290218,425587071,Hz5aLvpK...,Europe,425587072,A9mvukTd...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950294322,425587087,OKX Earn,Asia,425587088,Anagram Staking,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950303533,425587123,Range,South America,425587124,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950310715,425587151,3SkE34PV...,Europe,425587152,maxfillipov,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950314807,425587167,5ZqveVff...,Europe,425587168,Nansen | Stake to Stack Points,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950321984,425587195,TopReward,Europe,425587196,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950331189,425587231,Overclock,North America,425587232,Rustiq Technology,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950335275,425587247,Alchemy,Asia,425587248,HbidP4hp...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950340405,425587267,AiSol,Asia,425587268,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950357797,425587335,Exo Tech,North America,425587336,Coinbase 05,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950371385,425587388,Moise,Asia,425587392,Sanctum,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108950371589,425587389,Moise,Asia,425587392,Sanctum,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108950371904,425587390,Moise,Asia,425587392,Sanctum,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108950372098,425587391,Moise,Asia,425587392,Sanctum,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950379313,425587419,9UM8wQ8F...,Europe,425587420,FzQqaDSt...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950387508,425587451,OranG3cluB,North America,425587452,BTGPbq4K...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950395692,425587483,Hu7pi2Xg...,Asia,425587484,Astraeus,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950407995,425587531,Kraken,North America,425587532,🤖 RoboRun.xyz,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950413109,425587551,Kraken,North America,425587552,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950421306,425587583,Watchtower,North America,425587584,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950431534,425587623,Magic Eden Validator,Asia,425587624,3JotfSFP...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950432569,425587627,3JotfSFP...,Europe,425587628,DawnLabs | 0% Fee + Block Rewards Sharing,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950461228,425587739,Upbit Staking,North America,425587740,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950469431,425587771,DeepStake,North America,425587772,Unruggable,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950470458,425587775,Unruggable,Asia,425587776,3JotfSFP...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950493992,425587867,Upbit Staking,North America,425587868,The Chimpions,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950496819,425587878,BtsmiEEv...,Europe,425587880,Stellium,Asia,0slot-de1,0slot-de1,2
+20260610-164405#108950498091,425587883,Stellium,Asia,425587884,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950507317,425587919,Bitwise Onchain Solutions | Jito BAM,Europe,425587920,Birdeye Plus,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950513456,425587943,ProStaking,North America,425587944,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950519612,425587967,P2P.org,Europe,425587968,Onchain Divers,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950526004,425587992,5ZqveVff...,Europe,425587996,Sanctum,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108950543161,425588059,9jxgosAf...,Europe,425588060,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950553408,425588099,ETuPS3kR...,Europe,425588100,3SkE34PV...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950554427,425588103,3SkE34PV...,Europe,425588104,7tqeaFKs...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950559526,425588123,Twinstake,North America,425588124,GlobalStake [Bare Metal],North America,0slot-de1,0slot-de1,1
+20260610-164405#108950561569,425588131,Jito1,Asia,425588132,Alchemy,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950572860,425588175,5ZqveVff...,Europe,425588176,9ueKvL3W...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950575926,425588187,binance staking,North America,425588188,Allnodes ⚡️ 0% fee,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950576956,425588191,Allnodes ⚡️ 0% fee,Europe,425588192,Coinbase 05,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950577926,425588195,Coinbase 05,Europe,425588196,val37,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950598451,425588275,melea 🚀 SOL 🤑2K,Europe,425588276,BONK,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950626107,425588383,3JotfSFP...,Europe,425588384,Theta,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950627640,425588389,BiGcsiuF...,Europe,425588396,Bitwise Onchain Solutions,Europe,0slot-de1,0slot-de1,7
+20260610-164405#108950636334,425588423,💥InfiniteSOL💥 0% Fees,North America,425588424,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950641462,425588443,Solana Validator,Europe,425588444,Cogent ⚙️  by SOL Strategies,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950648627,425588471,9UM8wQ8F...,Europe,425588472,Starke Finance,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950649650,425588475,Starke Finance,North America,425588476,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950652732,425588487,EXckihF3...,Europe,425588488,LumLabs,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950662944,425588527,Solya,Asia,425588528,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950668090,425588547,J6etcxDd...,North America,425588548,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950708008,425588703,stakeware.xyz | ferric,Europe,425588704,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950713151,425588723,AWcCdYG7...,Europe,425588724,Syncnode | 0% Fees  | Genesis Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950718272,425588743,Solana Beach Validator,Europe,425588744,FzQqaDSt...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950742820,425588839,Upbit Staking,North America,425588840,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950756146,425588891,The Lotus Validator,Europe,425588892,Jupiter,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950770495,425588947,BTGPbq4K...,Asia,425588948,Kolibrio,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950772543,425588955,9UM8wQ8F...,Europe,425588956,7tqeaFKs...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950781732,425588991,GQzMeEMw...,Asia,425588992,AHZxzLeR...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950806317,425589087,Hz5aLvpK...,Europe,425589088,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950808376,425589095,Hz5aLvpK...,Europe,425589096,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950812475,425589111,Firedancer Development,Europe,425589112,Nansen | Stake to Stack Points,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950814527,425589119,HTeRsa3g...,Europe,425589120,GYx8kpp7...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950817590,425589131,FzQqaDSt...,Asia,425589132,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950822680,425589151,Nansen | Stake to Stack Points,Asia,425589152,Block Logic +MEV +Triton,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950826802,425589167,binance staking,North America,425589168,AiDoL,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950846266,425589243,StakeCraft,North America,425589244,3SkE34PV...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950849327,425589255,Galaxy,North America,425589256,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950855479,425589279,AiDoL,Europe,425589280,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950856505,425589283,5ejbTALc...,Europe,425589284,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950870845,425589339,P2P.org Turbo,South America,425589340,Elysium 🧊 0% fee,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950885173,425589395,Sunshine,North America,425589396,76rcGHdP...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950902559,425589463,Nansen | Stake to Stack Points,Asia,425589464,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950904637,425589471,Kiln1,Europe,425589472,Solayer Validator [5% Commission + 100% MEV Kickback],North America,0slot-de1,0slot-de1,1
+20260610-164405#108950910784,425589495,Figment,North America,425589496,Nordic Staking 0% fee top APY 2+ years,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950911777,425589499,Nordic Staking 0% fee top APY 2+ years,Europe,425589500,Luganodes,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950925117,425589551,Project 0 Meridian,Europe,425589552,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950933286,425589583,FzQqaDSt...,Asia,425589584,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950936362,425589595,Jito1,Asia,425589596,LightNode,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950938426,425589603,HTeRsa3g...,Europe,425589604,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950942500,425589619,Shinobi Systems 🚀 stakeview.app,North America,425589620,PENGU Validator,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950944572,425589627,CyberAlex 👑 MEV,North America,425589628,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950957855,425589679,Project Super,South America,425589680,AWcCdYG7...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950958912,425589683,AWcCdYG7...,Europe,425589684,GYx8kpp7...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950970672,425589729,privaEdS...,Europe,425589732,2m1A2WM1...,North America,0slot-de1,0slot-de1,3
+20260610-164405#108950972218,425589735,2m1A2WM1...,North America,425589736,FBbqKvwL...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950973723,425589741,AicQr2zC...,North America,425589744,Aw5wEMXh...,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108950976303,425589751,Figment,North America,425589752,Solana Compass 🧭 Solana For The People,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108950977340,425589755,Solana Compass 🧭 Solana For The People,Asia,425589756,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108950987567,425589795,Latitude.sh,South America,425589796,StakeBowl,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108950999348,425589841,Coinbase 04,Europe,425589844,Pigs in Blankets,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108951012146,425589891,84gC25fb...,Europe,425589892,Backpack,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951058229,425590071,Alpha Waves,Europe,425590072,bloXroute EU,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951084858,425590175,BkoS26vB...,Europe,425590176,BSVckjdW...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951091008,425590199,GSTampk6...,Europe,425590200,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951109434,425590271,Kraken 2,North America,425590272,OKX Earn,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951110464,425590275,OKX Earn,Asia,425590276,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951112512,425590283,9UM8wQ8F...,Europe,425590284,3JotfSFP...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951119649,425590311,5EhGYUyQ...,Asia,425590312,3SDK,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951135019,425590371,Alchemy,Asia,425590372,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951139112,425590387,DawnLabs | 0% Fee + Block Rewards Sharing,Europe,425590388,validator.com,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951145277,425590411,blueshift,Europe,425590412,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951155507,425590451,blueshift,Europe,425590452,DawnLabs | 0% Fee + Block Rewards Sharing,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951156538,425590455,DawnLabs | 0% Fee + Block Rewards Sharing,Europe,425590456,Luke,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951157563,425590459,Luke,North America,425590460,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951160114,425590469,A1vqhA2f...,Europe,425590472,binance staking,North America,0slot-de1,0slot-de1,3
+20260610-164405#108951172892,425590519,Nansen | Stake to Stack Points,Asia,425590520,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951180084,425590547,Windfall,Asia,425590548,OKX Earn,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951181089,425590551,OKX Earn,Asia,425590552,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951184184,425590563,blueshift,Europe,425590564,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951186224,425590571,binance staking,North America,425590572,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951189304,425590583,blueshift,Europe,425590584,T-STAKE Systems,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951192383,425590595,Spectrum Staking,Europe,425590596,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951205692,425590647,SUNREN,North America,425590648,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951225140,425590723,binance staking,North America,425590724,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951227177,425590731,Shinobi Systems 🚀 stakeview.app,North America,425590732,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951244603,425590799,AWcCdYG7...,Europe,425590800,Quatro,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951248687,425590815,Figment,North America,425590816,Quatro,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951256849,425590847,DUND26mE...,Asia,425590848,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951259958,425590859,Hz5aLvpK...,Europe,425590860,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951265825,425590882,stakefish 🐟,North America,425590884,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108951266061,425590883,stakefish 🐟,North America,425590884,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951290683,425590979,johndoe,Europe,425590980,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951292728,425590987,9UM8wQ8F...,Europe,425590988,EkvdKhUL...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951294773,425590995,binance staking,North America,425590996,Grid Systems,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951296830,425591003,Jupiter,Europe,425591004,AP Node,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951315252,425591075,5ZqveVff...,Europe,425591076,Luna Labs,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951323445,425591107,Coinbase 04,Europe,425591108,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951324473,425591111,Ledger by Figment,Europe,425591112,1dad | Solfège,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951331647,425591139,Phantom Validator,North America,425591141,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108951334715,425591151,22rU5yUm...,Europe,425591152,5EhGYUyQ...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951335717,425591155,5EhGYUyQ...,Asia,425591156,Solflare,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951342906,425591183,2m1A2WM1...,North America,425591184,Drift,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951345158,425591192,StudentSOL,Asia,425591196,StakeBowl,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108951345666,425591194,StudentSOL,Asia,425591196,StakeBowl,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108951348032,425591203,Ledger by Figment,Europe,425591204,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951355186,425591231,GREED Academy - funding education,Asia,425591232,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951357453,425591240,Coinbase 04,Europe,425591244,Galaxy,North America,0slot-de1,0slot-de1,4
+20260610-164405#108951357720,425591241,Coinbase 04,Europe,425591244,Galaxy,North America,0slot-de1,0slot-de1,3
+20260610-164405#108951363101,425591262,Omakase,North America,425591264,Luke,North America,0slot-de1,0slot-de1,2
+20260610-164405#108951372598,425591299,Ledger by Figment,Europe,425591300,BSVckjdW...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951381802,425591335,GQzMeEMw...,Asia,425591336,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951386937,425591355,Anagram Staking,Europe,425591356,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951399227,425591403,Figment,North America,425591404,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951407409,425591435,Nodance 💃 00,North America,425591436,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951410495,425591447,6y7V8dL6...,Europe,425591448,Nodance 💃 00,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951411490,425591451,Nodance 💃 00,North America,425591452,MAVAN,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951414554,425591463,OKX Earn,Asia,425591464,22rU5yUm...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951417657,425591475,Solflare,Europe,425591476,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951423808,425591499,DUND26mE...,Asia,425591500,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951425839,425591507,Figment,North America,425591508,StakeBowl,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951427900,425591515,DeFi Dev Corp (NASDAQ: DFDV),Europe,425591516,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951428914,425591519,GSTampk6...,Europe,425591520,S4Mar,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951430193,425591524,AG1PsJMQ...,Europe,425591528,Dan's Validator,North America,0slot-de1,0slot-de1,4
+20260610-164405#108951435056,425591543,Maera,Asia,425591544,P2P.org,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951444258,425591579,mds4GEui...,Asia,425591580,Appleyello,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951447358,425591591,OranG3cluB,North America,425591592,AP Node,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951464765,425591659,Upbit Staking,North America,425591660,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951469874,425591679,5ivRNcK1...,Europe,425591680,6y7V8dL6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951477053,425591707,Everstake,Europe,425591708,Hamsa,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951478066,425591711,Hamsa,Europe,425591712,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951493415,425591771,Solana Compass 🧭 Solana For The People,Asia,425591772,Gemini,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951501623,425591803,AWcCdYG7...,Europe,425591804,Solflare,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951519012,425591871,2GUnfxZa...,Asia,425591872,BFmqBsaG...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951531282,425591919,anarcheuz,Asia,425591920,Litx - 0% Commission,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951541565,425591959,Jito1,Asia,425591960,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951550243,425591993,BtsmiEEv...,Europe,425591996,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108951568169,425592063,Hydex,Asia,425592064,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951570223,425592071,9UM8wQ8F...,Europe,425592072,Solana Compass 🧭 Solana For The People,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951591743,425592155,blueshift,Europe,425592156,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951593769,425592163,J6etcxDd...,North America,425592164,Titan Analytics,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951620386,425592267,Hayek,Asia,425592268,Vault X | 0% fee +MEV,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951644967,425592363,GYx8kpp7...,Asia,425592364,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951663414,425592435,BXAxLMMM...,Europe,425592436,2m1A2WM1...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951665468,425592443,2m1A2WM1...,North America,425592444,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951686976,425592527,Anagram Staking,Europe,425592528,FzQqaDSt...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951689008,425592535,binance staking,North America,425592536,Solflare,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951692082,425592547,GQzMeEMw...,Asia,425592548,Unruggable,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951701311,425592583,BGAjnivV...,Europe,425592584,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951707450,425592607,DeFi Dev Corp (NASDAQ: DFDV),Europe,425592608,Shinobi Systems 🚀 stakeview.app,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951721791,425592663,FBKFWadX...,Europe,425592664,Harmonic Major,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951722802,425592667,Harmonic Major,Asia,425592668,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951748408,425592767,Hello Moon,Europe,425592768,HbidP4hp...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951760680,425592815,🔥Aurora staking,Asia,425592816,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951761722,425592819,Figment,North America,425592820,AiDoL,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951764797,425592831,South,Asia,425592832,Stardust Staking - 0% fee forever + MEV 0% fee,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951770175,425592852,Watchtower,North America,425592857,Alchemy,Asia,0slot-de1,0slot-de1,5
+20260610-164405#108951770409,425592853,Watchtower,North America,425592857,Alchemy,Asia,0slot-de1,0slot-de1,4
+20260610-164405#108951770660,425592854,Watchtower,North America,425592857,Alchemy,Asia,0slot-de1,0slot-de1,3
+20260610-164405#108951770891,425592855,Watchtower,North America,425592857,Alchemy,Asia,0slot-de1,0slot-de1,2
+20260610-164405#108951771946,425592859,Alchemy,Asia,425592860,nodtech,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951780158,425592891,Helius,Europe,425592892,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951788343,425592923,Everstake,Europe,425592924,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951790397,425592931,22rU5yUm...,Europe,425592932,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951801658,425592975,Allnodes ⚡️ 0% fee,Europe,425592976,Grid Systems,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951806770,425592995,OKX Earn,Asia,425592996,P2P.org Turbo,South America,0slot-de1,0slot-de1,1
+20260610-164405#108951807787,425592999,P2P.org Turbo,South America,425593000,Bay3,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951811900,425593015,Ledger by Figment,Europe,425593016,6ptuwW4r...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951819051,425593043,Upbit Staking,North America,425593044,HnfPZDrb...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951820071,425593047,HnfPZDrb...,Asia,425593048,Stronghold,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951828288,425593079,A1vqhA2f...,Europe,425593080,5EhGYUyQ...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951833394,425593099,Figment,North America,425593100,5EhGYUyQ...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951838526,425593119,AoUwfPui...,North America,425593120,3SkE34PV...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951853875,425593179,AP Node,Asia,425593180,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951857971,425593195,binance staking,North America,425593196,StakeBowl,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951861048,425593207,Temporal Topaz,North America,425593208,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951878464,425593275,Bitwise Onchain Solutions | Jito BAM,Europe,425593280,Firedancer Development,Europe,0slot-de1,0slot-de1,5
+20260610-164405#108951878675,425593276,9UM8wQ8F...,Europe,425593280,Firedancer Development,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108951886646,425593307,RockawayX Infra,Europe,425593308,Code-Breader,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951888699,425593315,Staking Facilities | MEV 🔥,Europe,425593316,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951890729,425593323,Nansen | Stake to Stack Points,Asia,425593324,AWcCdYG7...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951895869,425593343,J6etcxDd...,North America,425593344,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951897912,425593351,binance staking,North America,425593352,Sign Labs 🤟,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951900989,425593363,9UM8wQ8F...,Europe,425593364,StakeWolf,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951914281,425593415,ProStaking,North America,425593416,Solana Compass 🧭 Solana For The People,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951923516,425593451,FBKFWadX...,Europe,425593452,Adrastea Validator,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108951929389,425593474,FBKFWadX...,Europe,425593476,Sign Labs 🤟,North America,0slot-de1,0slot-de1,2
+20260610-164405#108951939882,425593515,Bybit Staking,Europe,425593516,ProStaking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951941941,425593523,EfPYQ4BU...,Europe,425593524,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951950144,425593555,Figment,North America,425593556,Bybit Staking,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951961655,425593600,Sol Hack3rs,Asia,425593605,binance staking,North America,0slot-de1,0slot-de1,5
+20260610-164405#108951961862,425593601,Sol Hack3rs,Asia,425593605,binance staking,North America,0slot-de1,0slot-de1,4
+20260610-164405#108951962173,425593602,Sol Hack3rs,Asia,425593604,binance staking,North America,0slot-de1,0slot-de1,2
+20260610-164405#108951962382,425593603,Sol Hack3rs,Asia,425593604,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108951990045,425593711,Jaguar,South America,425593712,Solary | 0% +MEV,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108951994170,425593727,STSS Validator,Europe,425593728,5EhGYUyQ...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952005424,425593771,2m1A2WM1...,North America,425593772,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952021804,425593835,5EhGYUyQ...,Asia,425593836,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952024893,425593847,HbidP4hp...,Europe,425593848,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952027937,425593859,Solana Compass 🧭 Solana For The People,Asia,425593860,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952049471,425593943,P2P.org,Europe,425593944,Anagram Staking,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952051512,425593951,8tjFeSAp...,North America,425593952,AEHqTB2R...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952053551,425593959,Node Integration,Europe,425593960,AWcCdYG7...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952056631,425593971,Portals,Asia,425593972,QubitNexus,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952058668,425593979,4mtXJ5pU...,Europe,425593980,HpcB5Qg8...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952059701,425593983,HpcB5Qg8...,Europe,425593984,Fidelity Center for Applied Technology (FCAT®),North America,0slot-de1,0slot-de1,1
+20260610-164405#108952070973,425594027,Gotas,South America,425594028,stakeware.xyz | ferric,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952071990,425594031,stakeware.xyz | ferric,Europe,425594032,Blockman,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952075062,425594043,Coinbase 04,Europe,425594044,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952081189,425594067,Coinbase 03,Asia,425594069,Rocket,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108952091452,425594107,EkvdKhUL...,Europe,425594108,Overclock,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952097580,425594131,GYx8kpp7...,Asia,425594132,BFmqBsaG...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952113982,425594195,Upbit Staking,North America,425594196,9GHvMeJ4...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952128298,425594251,Upbit Staking,North America,425594252,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952130338,425594259,FzQqaDSt...,Asia,425594260,HnfPZDrb...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952139584,425594295,StakeBowl,Europe,425594296,Alpha Pro | High APY🚀 100% Reliable ⭐ VIP Services,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952141846,425594304,binance staking,North America,425594312,AEHqTB2R...,Europe,0slot-de1,0slot-de1,8
+20260610-164405#108952144694,425594315,AEHqTB2R...,Europe,425594316,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952154926,425594355,5EhGYUyQ...,Asia,425594356,2Mob8FJk...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952156978,425594363,Gate Earn,North America,425594364,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952166180,425594399,Raposa Coffee,Europe,425594401,AEHqTB2R...,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108952169255,425594411,Figment,North America,425594412,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952170288,425594415,5ejbTALc...,Europe,425594416,Luganodes,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952171305,425594419,Luganodes,Europe,425594420,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952175386,425594435,Mellow Yellow,Asia,425594436,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952178486,425594447,Luganodes,Europe,425594448,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952180536,425594455,Kraken 2,North America,425594456,BSVckjdW...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952185654,425594475,Hamsa,Europe,425594476,FBbqKvwL...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952197948,425594523,9UbU7oaV...,Europe,425594524,Sign Labs 🤟,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952198968,425594527,Sign Labs 🤟,North America,425594528,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952205119,425594551,binance staking,North America,425594552,Coinbase 03,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952210220,425594571,Maera,Asia,425594572,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952211259,425594575,9rkJMARq...,Europe,425594576,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952223544,425594623,Haus – Best APY & No Fees,Europe,425594624,Alchemy,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952227637,425594639,BSVckjdW...,Europe,425594640,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952239930,425594687,BtsmiEEv...,Europe,425594688,Aurora Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952242983,425594699,2GUnfxZa...,Asia,425594700,LUX8 Validator,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952256309,425594751,Kraken,North America,425594752,HnfPZDrb...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952272682,425594815,stakefish 🐟,North America,425594816,StakeBowl,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952294189,425594899,2GUnfxZa...,Asia,425594900,D1A4F2yh...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952301359,425594927,HAKUHODO KEY3,Asia,425594928,Accretion | r0bre,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952302641,425594932,FBKFWadX...,Europe,425594936,Ledger by Figment,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108952312637,425594971,Magic Eden Validator,Asia,425594972,Anagram Staking,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952339252,425595075,9UM8wQ8F...,Europe,425595076,Exo Tech,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952345395,425595099,9UM8wQ8F...,Europe,425595100,AP Node,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952346395,425595103,AP Node,Asia,425595104,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952348439,425595111,Unruggable,Asia,425595112,Rocket,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952350510,425595119,Alchemy,Asia,425595120,Code-Breader,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952360759,425595159,Hello Moon,Europe,425595160,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952365887,425595179,FBKFWadX...,Europe,425595180,Jito2 (Experimental),Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952369951,425595195,Solana Compass 🧭 Solana For The People,Asia,425595196,Bitcoin Suisse,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952372028,425595203,privaEdS...,Europe,425595204,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952373052,425595207,Figment,North America,425595208,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952379178,425595231,ReFi Hub,South America,425595232,G3a3iYZK...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952400695,425595315,G3a3iYZK...,Europe,425595316,SUNREN,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952422177,425595399,5EhGYUyQ...,Asia,425595400,Alchemy,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952437560,425595459,BUv44cVt...,Europe,425595460,scb1Z7du...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952444729,425595487,Kiln1,Europe,425595488,5EhGYUyQ...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952446784,425595495,GSTampk6...,Europe,425595496,Next Finance Tech,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952461120,425595551,Stakely | 0% fee,Asia,425595552,J6etcxDd...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952463144,425595559,Coinbase 03,Asia,425595560,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952467243,425595575,00Tokyo,Asia,425595576,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952478506,425595619,Shinobi Systems 🚀 stakeview.app,North America,425595620,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952495935,425595687,Jupiter,Europe,425595688,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952498971,425595699,Coinbase 03,Asia,425595700,AWcCdYG7...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952511296,425595747,Aw5wEMXh...,Europe,425595748,Tramplin,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952514330,425595759,5EhGYUyQ...,Asia,425595760,Gate Earn,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952524604,425595799,HTeRsa3g...,Europe,425595800,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952527678,425595811,Jito1,Asia,425595812,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952530750,425595823,Cogent ⚙️  by SOL Strategies,Europe,425595824,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952536857,425595847,Watchtower,North America,425595848,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952539963,425595859,Xandeum Labs low fee + MEV = 🔥APY %,North America,425595860,Aw5wEMXh...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952544027,425595875,SolanaBull 🚀,Asia,425595876,ProStaking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952547128,425595887,Ex1AxFCi...,Europe,425595888,Rocket,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952548153,425595891,Rocket,Europe,425595892,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952573754,425595991,AMukCLCr...,Europe,425595992,Grid Systems,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952574763,425595995,Grid Systems,Asia,425595996,G3a3iYZK...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952580927,425596019,BkoS26vB...,Europe,425596020,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952582940,425596027,Coinbase 03,Asia,425596028,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952586045,425596039,kuma🐻validator kumaSOL LST🚀🚀,Asia,425596040,GlobalStake [Bare Metal],North America,0slot-de1,0slot-de1,1
+20260610-164405#108952589120,425596051,GQzMeEMw...,Asia,425596052,Nova Consortium,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952592423,425596064,FBKFWadX...,Europe,425596071,Temporal Opal,Europe,0slot-de1,0slot-de1,7
+20260610-164405#108952607552,425596123,Coinbase 04,Europe,425596124,🧬 HelixNode 0% fee 🧬,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952611636,425596139,Hydex,Asia,425596140,8tjFeSAp...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952620856,425596175,Coinbase 03,Asia,425596176,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952644403,425596267,GSTampk6...,Europe,425596268,AWcCdYG7...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952654653,425596307,Upbit Staking,North America,425596308,5EhGYUyQ...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952656702,425596315,EkvdKhUL...,Europe,425596316,Bitwise Onchain Solutions 02,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952658744,425596323,VQwCCSfW...,North America,425596324,Empyrial,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952660792,425596331,blueshift,Europe,425596332,Prompt Logic,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952663849,425596343,ABREU Foundation,South America,425596344,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952675123,425596387,Luganodes,Europe,425596388,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952680754,425596409,5RvfTSow...,Europe,425596412,Gate Earn,North America,0slot-de1,0slot-de1,3
+20260610-164405#108952685352,425596427,OtterSec,North America,425596428,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952688435,425596439,Daiko,Asia,425596440,Absolute Guard,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952698662,425596479,OtterSec,North America,425596480,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952705846,425596507,pSoLoZx5...,Europe,425596508,Stake.Cake,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952706863,425596511,Stake.Cake,Asia,425596512,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952711997,425596531,Luganodes,Europe,425596532,Kevred,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952717118,425596551,Validatize Validator,Oceania,425596552,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952734517,425596619,privaEdS...,Europe,425596620,Gate Earn,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952743742,425596655,Kraken,North America,425596656,Anagram Staking,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952749879,425596679,Kraken 2,North America,425596680,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952761137,425596723,binance staking,North America,425596724,zim.one | 0️⃣0️⃣,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952768303,425596751,Everstake,Europe,425596752,kuma🐻validator kumaSOL LST🚀🚀,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952773438,425596771,DUND26mE...,Asia,425596772,🤖 RoboRun.xyz,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952776505,425596783,G3a3iYZK...,Europe,425596784,Alchemy,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952779580,425596795,binance staking,North America,425596796,Luganodes,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952804157,425596891,9UM8wQ8F...,Europe,425596892,Overclock,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952805182,425596895,Overclock,North America,425596896,Firedancer Development,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952806204,425596899,Firedancer Development,Europe,425596900,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952809277,425596911,3JotfSFP...,Europe,425596912,Vault X | 0% fee +MEV,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952814380,425596931,Bitcoin Suisse,Europe,425596932,maxfillipov,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952825653,425596975,Hz5aLvpK...,Europe,425596976,BFmqBsaG...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952827683,425596983,Coinbase 03,Asia,425596984,Starke Finance,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952834878,425597011,84gC25fb...,Europe,425597012,DawnLabs | 0% Fee + Block Rewards Sharing,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952837936,425597023,binance staking,North America,425597024,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952862525,425597119,privaEdS...,Europe,425597120,AP Node,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952863538,425597123,AP Node,Asia,425597124,4SNKY7GC...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952873788,425597163,Xandeum Labs low fee + MEV = 🔥APY %,North America,425597164,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952874809,425597167,Ledger by Figment,Europe,425597168,Quatro,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952880938,425597191,AP Node,Asia,425597192,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952882999,425597199,Certora Validator,North America,425597200,Drift,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952914740,425597323,2GUnfxZa...,Asia,425597324,AiSol,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952931112,425597387,Backpack,North America,425597388,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952939312,425597419,5EhGYUyQ...,Asia,425597420,Speedlanding Validator,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952947519,425597451,Luganodes,Europe,425597452,Harmonic Major,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108952950585,425597463,8tjFeSAp...,North America,425597464,AWcCdYG7...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108952956734,425597487,Helius,Europe,425597488,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108952963904,425597515,Helius,Europe,425597516,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953018166,425597727,Coinbase 03,Asia,425597728,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953031467,425597779,EkvdKhUL...,Europe,425597780,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953040703,425597815,binance staking,North America,425597816,Glory to Ukraine,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953041710,425597819,Glory to Ukraine,Europe,425597820,OneLink Solutions,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953066294,425597915,HbidP4hp...,Europe,425597916,Certora Validator,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953086764,425597995,9UM8wQ8F...,Europe,425597996,Bitget Wallet,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953119552,425598123,FbYX2uN5...,Europe,425598124,Firedancer Development,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953129226,425598161,stakefish 🐟,North America,425598164,6y7V8dL6...,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108953129478,425598162,stakefish 🐟,North America,425598164,6y7V8dL6...,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108953129767,425598163,stakefish 🐟,North America,425598164,6y7V8dL6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953137981,425598195,BkoS26vB...,Europe,425598196,OKX Earn,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953145123,425598223,P2P.org Turbo,South America,425598224,Phase Stake,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953151282,425598247,FBKFWadX...,Europe,425598248,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953177899,425598351,BSVckjdW...,Europe,425598352,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953207606,425598467,Figment,North America,425598468,5ejbTALc...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953230119,425598555,Hydex,Asia,425598556,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953236261,425598579,Gaxx Validator,North America,425598580,Solmate - RockawayX powered,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953246514,425598619,HpcB5Qg8...,Europe,425598620,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953256740,425598659,Block Parliament 🦉,Asia,425598660,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953263908,425598687,Gate Earn,North America,425598688,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953266981,425598699,HnfPZDrb...,Asia,425598700,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953269052,425598707,AP Node,Asia,425598708,bloXroute US,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953281315,425598755,Pumpkin's Pool ❤️,Asia,425598756,BSVckjdW...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953285405,425598771,EkvdKhUL...,Europe,425598772,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953286454,425598775,binance staking,North America,425598776,CeJjdkRw...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953288495,425598783,Overclock,North America,425598784,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953299757,425598827,mallow,Asia,425598828,Maera,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953309999,425598867,Quicknode,North America,425598868,Drift,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953316140,425598891,binance staking,North America,425598892,OKX Earn,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953317176,425598895,OKX Earn,Asia,425598896,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953337648,425598975,binance staking,North America,425598976,Pumpkin's Pool ❤️,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953339917,425598984,Sol Hack3rs,Asia,425598988,Helius,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108953356089,425599047,BSVckjdW...,Europe,425599048,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953359163,425599059,Bitwise Onchain Solutions,Europe,425599060,9GHvMeJ4...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953371456,425599107,Staking Facilities | MEV 🔥,Europe,425599108,Edgevana,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953406266,425599243,StakeBowl,Europe,425599244,Alpha,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953410331,425599259,Gemini,North America,425599260,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953422622,425599307,OKX Earn,Asia,425599308,Alchemy,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953428759,425599331,Luganodes,Europe,425599332,Block Parliament 🦉,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953430568,425599338,EkvdKhUL...,Europe,425599340,6y7V8dL6...,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108953437991,425599367,Coinbase 04,Europe,425599368,Range,South America,0slot-de1,0slot-de1,1
+20260610-164405#108953440039,425599375,Exo Tech,North America,425599376,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953461561,425599459,Hubra,Asia,425599460,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953471784,425599499,Stand With Ukraine,Asia,425599500,Block Parliament 🦉,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953473847,425599507,Staking Facilities | MEV 🔥,Europe,425599508,BGAjnivV...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953475873,425599515,Kiln1,Europe,425599516,4Nwpynvu...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953490239,425599571,Everstake,Europe,425599572,Ghost,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953492265,425599579,DUND26mE...,Asia,425599580,Bitwise Onchain Solutions 02,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953494024,425599586,BuoZ7q6f...,North America,425599588,binance staking,North America,0slot-de1,0slot-de1,2
+20260610-164405#108953494325,425599587,BuoZ7q6f...,North America,425599588,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953500446,425599611,Ded Monkes,South America,425599612,Drift,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953502500,425599619,BONK,North America,425599620,Nodz,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953514813,425599667,Jupiter,Europe,425599668,BkoS26vB...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953538359,425599759,Project 0 Horizon,Europe,425599760,StakeCraft,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953541413,425599771,Bybit Staking,Europe,425599772,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953544501,425599783,AndrewInUA,North America,425599784,Bitcoin Suisse,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953545531,425599787,Bitcoin Suisse,Europe,425599788,Rocket,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953552684,425599815,binance staking,North America,425599816,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953556760,425599831,OKX Earn,Asia,425599832,Backpack,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953573159,425599895,DUND26mE...,Asia,425599896,Luganodes,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953577273,425599911,Kraken,North America,425599912,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953582374,425599931,stakeware.xyz | ferric,Europe,425599932,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953597729,425599991,GQzMeEMw...,Asia,425599992,Blockman,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953628476,425600111,Upbit Staking,North America,425600112,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953630522,425600119,Luganodes,Europe,425600120,6y7V8dL6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953637696,425600147,Shinobi Systems 🚀 stakeview.app,North America,425600148,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953639734,425600155,OtterSec,North America,425600156,RockawayX Infra,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953665337,425600255,9UM8wQ8F...,Europe,425600256,TdrSys,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953666367,425600259,TdrSys,Europe,425600260,Drift,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953684783,425600331,Bybit Staking,Europe,425600332,Orangefin by SOL Strategies,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953691956,425600359,Ha1iad3,Asia,425600360,Cointelegraph Decentralization Guardians,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953695031,425600371,AndrewInUA,North America,425600372,Leapfrog Systems 💎 No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953708825,425600425,0xNull,Asia,425600428,EkvdKhUL...,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108953718588,425600463,AicQr2zC...,North America,425600464,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953720640,425600471,OrbitFlare Validator,Asia,425600472,EfPYQ4BU...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953725758,425600491,9jxgosAf...,Europe,425600492,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953732905,425600519,StakeNode777,North America,425600520,OKX Earn,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953739037,425600543,Nansen | Stake to Stack Points,Asia,425600544,Anchorage Digital,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953742123,425600555,EkvdKhUL...,Europe,425600556,Nansen | Stake to Stack Points,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953751353,425600591,Coinbase 04,Europe,425600592,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953754428,425600603,Aursen,Asia,425600604,Jupiter,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953759537,425600623,J6etcxDd...,North America,425600624,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953775931,425600687,Hz5aLvpK...,Europe,425600688,Kevred,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953782058,425600711,PoH PoS,North America,425600712,6y7V8dL6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953783071,425600715,6y7V8dL6...,Europe,425600716,Pumpkin's Pool ❤️,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953784108,425600719,Pumpkin's Pool ❤️,Asia,425600720,Code-Breader,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953801493,425600787,BuoZ7q6f...,North America,425600788,PoH PoS,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953839392,425600935,GREED Academy - funding education,Asia,425600936,Shinobi Systems 🚀 stakeview.app,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953846582,425600963,Solana Qubits,North America,425600964,Luganodes,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953867054,425601043,Upbit Staking,North America,425601044,MAVAN,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953870144,425601055,blueshift,Europe,425601056,AP Node,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953873182,425601067,Figment,North America,425601068,Helius,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953881382,425601099,9UM8wQ8F...,Europe,425601100,Leapfrog Systems 💎 No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953882416,425601103,Leapfrog Systems 💎 No Fees,Europe,425601104,zim.one | 0️⃣0️⃣,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953883437,425601107,zim.one | 0️⃣0️⃣,North America,425601108,Pumpkin's Pool ❤️,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953884455,425601111,Pumpkin's Pool ❤️,Asia,425601112,Fast Runner,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953900854,425601175,BuoZ7q6f...,North America,425601176,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953907002,425601199,Luganodes,Europe,425601200,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953913140,425601223,EkvdKhUL...,Europe,425601224,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953926431,425601275,EXckihF3...,Europe,425601276,CPcDFHCA...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953927480,425601279,CPcDFHCA...,Europe,425601280,3JotfSFP...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953935665,425601311,Temporal Topaz,North America,425601312,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953948992,425601363,Jupiter,Europe,425601364,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953953073,425601379,Meria,Asia,425601380,Bybit Staking,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953958149,425601399,BuoZ7q6f...,North America,425601400,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953961270,425601411,Coinbase 03,Asia,425601412,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953965370,425601427,Blockdaemon 🧱👿 Validator,Europe,425601428,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953970477,425601447,Systems,Asia,425601448,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953972539,425601455,Chainode Tech & MEV(0% Fee),Europe,425601456,Harmonic Major,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953973506,425601459,Harmonic Major,Asia,425601460,Nansen | Stake to Stack Points,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953974557,425601463,Nansen | Stake to Stack Points,Asia,425601464,Coinbase 03,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108953984832,425601503,Kraken,North America,425601504,DICS - Degen Infrastructure Core Services,North America,0slot-de1,0slot-de1,1
+20260610-164405#108953987900,425601515,Helius,Europe,425601516,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108953995063,425601543,2GUnfxZa...,Asia,425601544,💥InfiniteSOL💥 0% Fees,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954004009,425601578,Watchtower,North America,425601580,Luganodes,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108954004242,425601579,Watchtower,North America,425601580,Luganodes,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954012467,425601611,The Library,Asia,425601612,bloXroute EU,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954014527,425601619,76rcGHdP...,Europe,425601620,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954028860,425601675,STSS Validator,Europe,425601676,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954046265,425601743,Jupiter,Europe,425601744,Nansen | Stake to Stack Points,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108954049343,425601755,binance staking,North America,425601756,6y7V8dL6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954058534,425601791,AP Node,Asia,425601792,1dad | Solfège,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108954077997,425601867,FzQqaDSt...,Asia,425601868,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954082108,425601883,binance staking,North America,425601884,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954114849,425602011,Alchemy,Asia,425602012,Solana Qubits,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954158902,425602183,Kraken 2,North America,425602184,Galaxy,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954180390,425602267,J6etcxDd...,North America,425602268,MAVAN,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954202923,425602355,CatalystX - Innovation OnChain,North America,425602356,2m1A2WM1...,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954204980,425602363,GYx8kpp7...,Asia,425602364,Ledger by Figment,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954207027,425602371,HnfPZDrb...,Asia,425602372,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954208061,425602375,Figment,North America,425602376,FzQqaDSt...,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108954209076,425602379,FzQqaDSt...,Asia,425602380,6ptuwW4r...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954211116,425602387,Bitwise Onchain Solutions | Jito BAM,Europe,425602388,Nansen | Stake to Stack Points,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108954225470,425602443,Syncnode | 0% Fees  | Genesis Validator,Europe,425602444,Kraken,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954239774,425602499,Pumpkin's Pool ❤️,Asia,425602500,Adrastea Validator,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108954241850,425602507,Alchemy,Asia,425602508,Solflare,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954242878,425602511,Solflare,Europe,425602512,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954245935,425602523,AP Node,Asia,425602524,The Library,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108954251066,425602543,Coinbase 03,Asia,425602544,PoH PoS,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954254138,425602555,Jupiter,Europe,425602556,Xandeum Labs low fee + MEV = 🔥APY %,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954258227,425602571,mds4GEui...,Asia,425602572,Blockdaemon 🧱👿 Validator,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954273598,425602631,9jxgosAf...,Europe,425602632,BSVckjdW...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954289959,425602695,5EhGYUyQ...,Asia,425602696,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954297126,425602723,GYx8kpp7...,Asia,425602724,6y7V8dL6...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954320672,425602815,Cloak,South America,425602816,Solya,Asia,0slot-de1,0slot-de1,1
+20260610-164405#108954350385,425602931,Ledger by Figment,Europe,425602932,Certora Validator,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954369849,425603007,Solana Compass 🧭 Solana For The People,Asia,425603008,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954377016,425603035,Magic Eden Validator,Asia,425603036,Flash,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954378033,425603039,Flash,Europe,425603040,Figment,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954385180,425603067,OKX Earn,Asia,425603068,binance staking,North America,0slot-de1,0slot-de1,1
+20260610-164405#108954388271,425603079,Maera,Asia,425603080,Sanctum,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954390331,425603087,Forbole,Europe,425603088,AiDoL,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954409786,425603163,binance staking,North America,425603164,Haus – Best APY & No Fees,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954420752,425603206,Laine ❤️  by SOL Strategies,Europe,425603229,Fountainhead 🌱 Funding Dev WITH max APY,Europe,0slot-de1,0slot-de1,23
+20260610-164405#108954422276,425603212,Upbit Staking,North America,425603230,Fountainhead 🌱 Funding Dev WITH max APY,Europe,0slot-de1,0slot-de1,18
+20260610-164405#108954426175,425603227,BUv44cVt...,Europe,425603228,Fountainhead 🌱 Funding Dev WITH max APY,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954431292,425603247,Figment,North America,425603248,Anza,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954435385,425603263,Solmate - RockawayX powered,Asia,425603264,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954442550,425603291,OtterSec,North America,425603292,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954455090,425603340,AoUwfPui...,North America,425603344,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,4
+20260610-164405#108954455335,425603341,AoUwfPui...,North America,425603344,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,3
+20260610-164405#108954455594,425603342,AoUwfPui...,North America,425603344,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,2
+20260610-164405#108954455831,425603343,AoUwfPui...,North America,425603344,Bitwise Onchain Solutions | Jito BAM,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954459935,425603359,GYx8kpp7...,Asia,425603360,Alpha Pro | High APY🚀 100% Reliable ⭐ VIP Services,Europe,0slot-de1,0slot-de1,1
+20260610-164405#108954460936,425603363,Alpha Pro | High APY🚀 100% Reliable ⭐ VIP Services,Europe,425603364,Vault X | 0% fee +MEV,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982293304,425712083,BtsmiEEv...,Europe,425712084,AiDoL,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982303548,425712123,5EhGYUyQ...,Asia,425712124,binance staking,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982309684,425712147,9UM8wQ8F...,Europe,425712148,Rocket,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982310710,425712151,Rocket,Europe,425712152,validator.com,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982347580,425712295,StakeWolf,Europe,425712296,melea 🚀 SOL 🤑2K,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982363959,425712359,5ZqveVff...,Europe,425712360,Nansen | Stake to Stack Points,Asia,0slot-de1,0slot-de1,1
+20260611-064816#108982370842,425712386,Harmonic Major,Asia,425712388,OKX Earn,Asia,0slot-de1,0slot-de1,2
+20260611-064816#108982372145,425712391,OKX Earn,Asia,425712392,HpcB5Qg8...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982373170,425712395,HpcB5Qg8...,Europe,425712396,A9mvukTd...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982377274,425712411,5ZqveVff...,Europe,425712412,HpcB5Qg8...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982385453,425712443,Block Parliament 🦉,Asia,425712444,Kraken,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982433577,425712631,LumLabs,Asia,425712632,HbidP4hp...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982434621,425712635,HbidP4hp...,Europe,425712636,Figment,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982467387,425712763,Jupiter,Europe,425712764,Anza,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982470444,425712775,Cavey Cool,North America,425712776,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982472511,425712783,Blockdaemon 🧱👿 Validator,Europe,425712784,Figment,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982477604,425712803,Ghost,North America,425712804,Simpdigit,Asia,0slot-de1,0slot-de1,1
+20260611-064816#108982496056,425712875,Figment,North America,425712876,ART3MIS.CLOUD ☘️,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982498104,425712883,stakefish 🐟,North America,425712884,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982505259,425712911,AP Node,Asia,425712912,8a4juhtQ...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982509372,425712927,Kraken,North America,425712928,Staking Facilities | MEV 🔥,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982557501,425713115,Exo Tech,North America,425713116,Figment,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982562840,425713136,BtsmiEEv...,Europe,425713140,Validatore,Europe,0slot-de1,0slot-de1,4
+20260611-064816#108982565691,425713147,Bitwise Onchain Solutions 02,Europe,425713148,Lantern,Asia,0slot-de1,0slot-de1,1
+20260611-064816#108982573852,425713179,P2P.org Turbo,South America,425713180,9rkJMARq...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982613816,425713335,OKX Earn,Asia,425713336,BUv44cVt...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982617904,425713351,9iFPQbP1...,Europe,425713352,Galaxy,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982631226,425713403,FBKFWadX...,Europe,425713404,GSTampk6...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982660886,425713519,LootGo,Asia,425713520,WinStake Labs,Asia,0slot-de1,0slot-de1,1
+20260611-064816#108982676288,425713579,Coinbase 02,Europe,425713580,stakeware.xyz | ferric,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982679346,425713591,Upbit Staking,North America,425713592,Forward Industries,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982688561,425713627,GREED Academy - funding education,Asia,425713628,Shinobi Systems 🚀 stakeview.app,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982708023,425713703,Iggyz,North America,425713704,Jito1,Asia,0slot-de1,0slot-de1,1
+20260611-064816#108982709045,425713707,Jito1,Asia,425713708,A9mvukTd...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982710076,425713711,A9mvukTd...,Europe,425713712,Shinobi Systems 🚀 stakeview.app,North America,0slot-de1,0slot-de1,1
+20260611-064816#108982716223,425713735,SuperteamDE x Staking Facilities | Public Goods Validator,Europe,425713736,3JotfSFP...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982724411,425713767,FBKFWadX...,Europe,425713768,9jxgosAf...,Europe,0slot-de1,0slot-de1,1
+20260611-064816#108982727482,425713779,Nodz,North America,425713780,fd1.zip 📦,Asia,0slot-de1,0slot-de1,1
+20260610-161813#108948769567,425581131,Aursen,Asia,425581132,Jupiter,Europe,allenhark-quic-ams,allenhark-ams,1
+20260610-164405#108950058814,425586167,Everstake,Europe,425586168,Helius,Europe,allenhark-quic-ams,allenhark-ams,1
+20260610-164405#108950676020,425588578,blueshift,Europe,425588580,Trust Nodes,Europe,allenhark-quic-ams,allenhark-ams,2
+20260610-164405#108952209203,425594567,Pumpkin's Pool ❤️,Asia,425594568,Maera,Asia,allenhark-quic-ams,allenhark-ams,1
+20260610-164405#108952470300,425595587,AP Node,Asia,425595588,Jupiter,Europe,allenhark-quic-ams,allenhark-ams,1
+20260610-164405#108953647926,425600187,Realms Validator,Asia,425600188,Jupiter,Europe,allenhark-quic-ams,allenhark-ams,1
+20260610-164405#108949670700,425584651,Code-Breader,North America,425584652,5ivRNcK1...,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108950915901,425589515,Twinstake,North America,425589516,Aw5wEMXh...,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108951280911,425590941,Harmonic Major,Asia,425590944,Everstake,Europe,allenhark-quic-fra,allenhark-fra,3
+20260610-164405#108951932731,425593487,FbYX2uN5...,Europe,425593488,Staking kiwi validator,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108952190783,425594495,Everstake,Europe,425594496,Jupiter,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108952710972,425596527,Staking Facilities | MEV 🔥,Europe,425596528,Luganodes,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108953072412,425597939,Nansen | Stake to Stack Points,Asia,425597940,Jupiter,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108953077566,425597959,EXckihF3...,Europe,425597960,Jupiter,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108953341741,425598991,Helius,Europe,425598992,Jupiter,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108953513792,425599663,Sanctum,Europe,425599664,Jupiter,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108953558845,425599839,Kevred,Europe,425599840,Jupiter,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108954216251,425602407,Alpha,Europe,425602408,Jupiter,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108954295097,425602715,Forward Industries,North America,425602716,Trust Nodes,Europe,allenhark-quic-fra,allenhark-fra,1
+20260610-164405#108954420993,425603207,Laine ❤️  by SOL Strategies,Europe,425603229,Fountainhead 🌱 Funding Dev WITH max APY,Europe,allenhark-quic-fra,allenhark-fra,22
+20260610-164405#108954422790,425603214,Upbit Staking,North America,425603232,76rcGHdP...,Europe,allenhark-quic-fra,allenhark-fra,18
+20260610-161813#108948577082,425580379,Coinbase 04,Europe,425580380,FalconX,North America,astralane-fra,astralane-fra,1
+20260610-161813#108948639533,425580623,Coinbase 03,Asia,425580624,Kiln1,Europe,astralane-fra,astralane-fra,1
+20260610-161813#108948689706,425580819,AVNU,Asia,425580820,Validatore,Europe,astralane-fra,astralane-fra,1
+20260610-161813#108948706092,425580883,stakefish 🐟,North America,425580884,9UM8wQ8F...,Europe,astralane-fra,astralane-fra,1
+20260610-161813#108948742968,425581027,Anagram Staking,Europe,425581028,GSTampk6...,Europe,astralane-fra,astralane-fra,1
+20260610-161813#108948747041,425581043,Vybe Validator,Asia,425581044,StakeBowl,Europe,astralane-fra,astralane-fra,1
+20260610-161813#108948762427,425581103,BSVckjdW...,Europe,425581104,Solstice,Europe,astralane-fra,astralane-fra,1
+20260610-161813#108948802363,425581259,🧬 HelixNode 0% fee 🧬,Europe,425581260,Figment,North America,astralane-fra,astralane-fra,1
+20260610-161813#108948807452,425581279,Meria,Asia,425581280,Jupiter,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949588789,425584331,Alchemy,Asia,425584332,BtsmiEEv...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949590832,425584339,binance staking,North America,425584340,A1vqhA2f...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949618486,425584447,Tinydancer,Europe,425584448,Kraken 2,North America,astralane-fra,astralane-fra,1
+20260610-164405#108949635900,425584515,Neumann,Asia,425584516,Blueprint,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949663551,425584623,Sanctum,Europe,425584624,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949676840,425584675,SolBlaze,Asia,425584676,9jxgosAf...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949920567,425585627,65pHd5P2...,Europe,425585628,Kraken 2,North America,astralane-fra,astralane-fra,1
+20260610-164405#108949925685,425585647,Chainode Tech & MEV(0% Fee),Europe,425585648,Jaguar,South America,astralane-fra,astralane-fra,1
+20260610-164405#108949932349,425585673,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425585676,A1vqhA2f...,Europe,astralane-fra,astralane-fra,3
+20260610-164405#108949932569,425585674,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425585676,A1vqhA2f...,Europe,astralane-fra,astralane-fra,2
+20260610-164405#108949932826,425585675,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425585676,A1vqhA2f...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949933888,425585679,A1vqhA2f...,Europe,425585680,pSoLoZx5...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108949948218,425585735,Orangefin by SOL Strategies,Europe,425585736,Coinbase 02,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950022957,425586027,5EhGYUyQ...,Asia,425586028,Ledger by Figment,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950057783,425586163,Luganodes,Europe,425586164,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950190904,425586683,The Chimpions,Asia,425586684,blueshift,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950192943,425586691,[Public Good] Chive 🌱 - 0% Fee + MEV + BlockReward,North America,425586692,HTeRsa3g...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950261565,425586959,OtterSec,North America,425586960,Solflare,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950271774,425586999,Anagram Staking,Europe,425587000,Blossom,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950313790,425587163,Bitwise Onchain Solutions | Jito BAM,Europe,425587164,5ZqveVff...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950328105,425587219,5ejbTALc...,Europe,425587220,EKgSCR3a...,North America,astralane-fra,astralane-fra,1
+20260610-164405#108950344502,425587283,Kraken 2,North America,425587284,5ZqveVff...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950388536,425587455,BTGPbq4K...,Asia,425587456,65pHd5P2...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950402877,425587511,diman,North America,425587512,AMukCLCr...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950434620,425587635,9UM8wQ8F...,Europe,425587636,Hz5aLvpK...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950566709,425588151,Ledger by Figment,Europe,425588152,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950585139,425588223,5ZqveVff...,Europe,425588224,Hz5aLvpK...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950588216,425588235,Figment,North America,425588236,Stake.org,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950623018,425588371,Next Finance Tech,Asia,425588372,blueshift,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950805284,425589083,AP Node,Asia,425589084,Hz5aLvpK...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950837051,425589207,OranG3cluB,North America,425589208,Hz5aLvpK...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950853423,425589271,Everstake,Europe,425589272,Kraken 2,North America,astralane-fra,astralane-fra,1
+20260610-164405#108950865724,425589319,Helius,Europe,425589320,Coinbase 02,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950898468,425589447,HnfPZDrb...,Asia,425589448,HTeRsa3g...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108950914880,425589511,Figment,North America,425589512,Twinstake,North America,astralane-fra,astralane-fra,1
+20260610-164405#108950973233,425589739,FBbqKvwL...,North America,425589740,AicQr2zC...,North America,astralane-fra,astralane-fra,1
+20260610-164405#108950984512,425589783,Bitwise Onchain Solutions 02,Europe,425589784,Coinbase 04,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951017255,425589911,Upbit Staking,North America,425589912,Jaguar,South America,astralane-fra,astralane-fra,1
+20260610-164405#108951105318,425590255,Upbit Staking,North America,425590256,9UM8wQ8F...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951142207,425590399,Helius,Europe,425590400,9UM8wQ8F...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951146302,425590415,binance staking,North America,425590416,Coinbase 04,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951148352,425590423,Staking Facilities | MEV 🔥,Europe,425590424,Temporal Topaz,North America,astralane-fra,astralane-fra,1
+20260610-164405#108951168805,425590503,OKX Earn,Asia,425590504,Twinstake,North America,astralane-fra,astralane-fra,1
+20260610-164405#108951182136,425590555,Kraken,North America,425590556,9UM8wQ8F...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951250728,425590823,mds1WWed...,North America,425590824,Ledger by Figment,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951281454,425590943,Harmonic Major,Asia,425590944,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951307042,425591043,Alchemy,Asia,425591044,Kraken 2,North America,astralane-fra,astralane-fra,1
+20260610-164405#108951394106,425591383,Bybit Staking,Europe,425591384,EkvdKhUL...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951401268,425591411,FBbqKvwL...,North America,425591412,Cavey Cool,North America,astralane-fra,astralane-fra,1
+20260610-164405#108951526206,425591899,Blueprint,Europe,425591900,Watchtower,North America,astralane-fra,astralane-fra,1
+20260610-164405#108951601960,425592195,Nansen | Stake to Stack Points,Asia,425592196,AMukCLCr...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951613221,425592239,Solflare,Europe,425592240,AMukCLCr...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951630655,425592307,StakeNode777,North America,425592308,9UM8wQ8F...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951649076,425592379,FBKFWadX...,Europe,425592380,Coinbase,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951718709,425592651,Ledger by Figment,Europe,425592652,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951746359,425592759,4SNKY7GC...,North America,425592760,Systems,Asia,astralane-fra,astralane-fra,1
+20260610-164405#108951747360,425592763,Systems,Asia,425592764,Hello Moon,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951826742,425593073,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425593076,A1vqhA2f...,Europe,astralane-fra,astralane-fra,3
+20260610-164405#108951826966,425593074,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425593076,A1vqhA2f...,Europe,astralane-fra,astralane-fra,2
+20260610-164405#108951827214,425593075,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425593076,A1vqhA2f...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951928620,425593471,J6etcxDd...,North America,425593472,FBKFWadX...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108951954216,425593571,5EhGYUyQ...,Asia,425593572,Cavey Cool,North America,astralane-fra,astralane-fra,1
+20260610-164405#108952018727,425593823,Epoch.Day,South America,425593824,Twinstake,North America,astralane-fra,astralane-fra,1
+20260610-164405#108952034112,425593883,Spectrum Staking,Europe,425593884,5ZqveVff...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952044342,425593923,Xandeum Labs low fee + MEV = 🔥APY %,North America,425593924,Kraken 2,North America,astralane-fra,astralane-fra,1
+20260610-164405#108952048421,425593939,Coinbase 03,Asia,425593940,P2P.org,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952061754,425593991,AMukCLCr...,Europe,425593992,J6etcxDd...,North America,astralane-fra,astralane-fra,1
+20260610-164405#108952078141,425594055,AoUwfPui...,North America,425594056,Hz5aLvpK...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952118299,425594212,Watchtower,North America,425594216,A1vqhA2f...,Europe,astralane-fra,astralane-fra,4
+20260610-164405#108952133429,425594271,huglester,North America,425594272,Temporal Emerald,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952152893,425594347,AMukCLCr...,Europe,425594348,3SkE34PV...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952265525,425594787,7QQGNm3p...,Europe,425594788,Solana Validator,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952289078,425594879,validator.com,Europe,425594880,AicQr2zC...,North America,astralane-fra,astralane-fra,1
+20260610-164405#108952391485,425595279,Bybit Staking,Europe,425595280,gripto,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952401712,425595319,SUNREN,North America,425595320,AMukCLCr...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952475452,425595607,6y7V8dL6...,Europe,425595608,HTeRsa3g...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952501055,425595707,Rakurai | High TPS | High rewards,Europe,425595708,Project 0 Horizon,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952565553,425595959,9UM8wQ8F...,Europe,425595960,blueshift,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952569641,425595975,Overclock,North America,425595976,Ex1AxFCi...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952603454,425596107,FalconX,North America,425596108,AicQr2zC...,North America,astralane-fra,astralane-fra,1
+20260610-164405#108952728378,425596595,EkvdKhUL...,Europe,425596596,A1vqhA2f...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952794928,425596855,binance staking,North America,425596856,BtsmiEEv...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108952941375,425597427,Aw5wEMXh...,Europe,425597428,Hz5aLvpK...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953014056,425597711,Paragon,Asia,425597712,Kraken 2,North America,astralane-fra,astralane-fra,1
+20260610-164405#108953022263,425597743,Chainflow,Europe,425597744,Coinbase,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953029399,425597771,Titan Analytics,Asia,425597772,Coinbase 02,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953034558,425597791,Temporal Opal,Europe,425597792,BtsmiEEv...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953044779,425597831,Solana Ukraine 🇺🇦,Europe,425597832,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953049914,425597851,Figment,North America,425597852,FBKFWadX...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953054016,425597867,6y7V8dL6...,Europe,425597868,privaEdS...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953143089,425598215,Sygnum Validators,Europe,425598216,Twinstake,North America,astralane-fra,astralane-fra,1
+20260610-164405#108953180986,425598363,Blockchain at Columbia,Europe,425598364,TruFin by Twinstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953198399,425598431,HTeRsa3g...,Europe,425598432,Appleyello,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953367311,425599091,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425599092,EkvdKhUL...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953458464,425599447,0xNull,Asia,425599448,AMukCLCr...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953485090,425599551,STSS Validator,Europe,425599552,9rkJMARq...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953526065,425599711,2GUnfxZa...,Asia,425599712,FzQqaDSt...,Asia,astralane-fra,astralane-fra,1
+20260610-164405#108953561891,425599851,GQzMeEMw...,Asia,425599852,Ledger by Figment,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953584419,425599939,9jxgosAf...,Europe,425599940,Figment,North America,astralane-fra,astralane-fra,1
+20260610-164405#108953586455,425599947,Moonlet,Asia,425599948,AMukCLCr...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953618229,425600071,Vnode,North America,425600072,Twinstake,North America,astralane-fra,astralane-fra,1
+20260610-164405#108953728832,425600503,9jxgosAf...,Europe,425600504,9UM8wQ8F...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953815864,425600843,Ledger by Figment,Europe,425600844,binance staking,North America,astralane-fra,astralane-fra,1
+20260610-164405#108953822011,425600867,Drift,Europe,425600868,Hz5aLvpK...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953828156,425600891,Helius,Europe,425600892,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953912108,425601219,5ejbTALc...,Europe,425601220,EkvdKhUL...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953963320,425601419,RockawayX Infra,Europe,425601420,BiGcsiuF...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953975601,425601467,Coinbase 03,Asia,425601468,FBKFWadX...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108953982775,425601495,Upbit Staking,North America,425601496,privaEdS...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954029881,425601679,Figment,North America,425601680,Kraken 2,North America,astralane-fra,astralane-fra,1
+20260610-164405#108954060557,425601799,🧬 HelixNode 0% fee 🧬,Europe,425601800,Coinbase 04,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954103612,425601967,7QQGNm3p...,Europe,425601968,EkvdKhUL...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954177341,425602255,BSVckjdW...,Europe,425602256,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954188601,425602299,Ledger by Figment,Europe,425602300,84gC25fb...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954190633,425602307,Daiko,Asia,425602308,BtsmiEEv...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954250030,425602539,BtsmiEEv...,Europe,425602540,Coinbase 03,Asia,astralane-fra,astralane-fra,1
+20260610-164405#108954253080,425602551,Pumpkin's Pool ❤️,Asia,425602552,Jupiter,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954280751,425602659,OranG3cluB,North America,425602660,Trust Nodes,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954290991,425602699,binance staking,North America,425602700,Everstake,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954293034,425602707,xLabs,South America,425602708,AMukCLCr...,Europe,astralane-fra,astralane-fra,1
+20260610-164405#108954379053,425603043,Figment,North America,425603044,Luganodes,Europe,astralane-fra,astralane-fra,1
+20260611-064816#108982416168,425712563,GYx8kpp7...,Asia,425712564,Watchtower,North America,astralane-fra,astralane-fra,1
+20260611-064816#108982492963,425712863,binance staking,North America,425712864,pSoLoZx5...,Europe,astralane-fra,astralane-fra,1
+20260611-064816#108982528816,425713003,HnfPZDrb...,Asia,425713004,Bi9kKNxf...,Europe,astralane-fra,astralane-fra,1
+20260611-064816#108982630205,425713399,Jupiter,Europe,425713400,FBKFWadX...,Europe,astralane-fra,astralane-fra,1
+20260611-064816#108982649664,425713475,Jupiter,Europe,425713476,blueshift,Europe,astralane-fra,astralane-fra,1
+20260611-064816#108982684480,425713611,Dicky,South America,425713612,5RvfTSow...,Europe,astralane-fra,astralane-fra,1
+20260610-161650#108948525887,425580179,Alpha,Europe,425580180,STSS Validator,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948585275,425580411,GSTampk6...,Europe,425580412,pSoLoZx5...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948604711,425580487,🔥Aurora staking,Asia,425580488,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948623166,425580559,Blockman,Europe,425580560,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948630334,425580587,Ha1iad3,Asia,425580588,pSoLoZx5...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948660008,425580703,HnfPZDrb...,Asia,425580704,J6etcxDd...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948705595,425580881,stakefish 🐟,North America,425580884,9UM8wQ8F...,Europe,astralane-quic-fra,astralane-quic-fra,3
+20260610-161813#108948705830,425580882,stakefish 🐟,North America,425580884,9UM8wQ8F...,Europe,astralane-quic-fra,astralane-quic-fra,2
+20260610-161813#108948714301,425580915,Ledger by Figment,Europe,425580916,HTeRsa3g...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948760380,425581095,P2P.org,Europe,425581096,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948798265,425581243,5MAGJ3zS...,Europe,425581244,P2P.org,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948883239,425581575,Solana Mobile Validator,North America,425581576,Jupiter,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948915001,425581699,Upbit Staking,North America,425581700,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948920122,425581719,validator.com,Europe,425581720,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948958015,425581867,GSTampk6...,Europe,425581868,Kraken 2,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-161813#108948963121,425581887,Overclock,North America,425581888,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949679932,425584687,Trust Nodes,Europe,425584688,Appleyello,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949786432,425585103,Kiln1,Europe,425585104,Ex1AxFCi...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949806912,425585183,Tinydancer,Europe,425585184,Cavey Cool,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949814076,425585211,binance staking,North America,425585212,Watchtower,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949862205,425585399,binance staking,North America,425585400,FBKFWadX...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949886770,425585495,Blockdaemon 🧱👿 Validator,Europe,425585496,AicQr2zC...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949919535,425585623,Figment,North America,425585624,65pHd5P2...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949935917,425585687,GERSIA,North America,425585688,blueshift,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949952284,425585751,Nam-dok-mai 🤑 stake-earn-repeat,North America,425585752,8tjFeSAp...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950024000,425586031,Ledger by Figment,Europe,425586032,Lion3d | 0% Forever + Block Rewards Sharing,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950048565,425586127,Solmate - RockawayX powered,Asia,425586128,OtterSec,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950049596,425586131,OtterSec,North America,425586132,HTeRsa3g...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950078271,425586243,Haus – Best APY & No Fees,Europe,425586244,J6etcxDd...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950082307,425586259,2GUnfxZa...,Asia,425586255,Watchtower,North America,astralane-quic-fra,astralane-quic-fra,-4
+20260610-164405#108950103867,425586343,P2P.org Turbo,South America,425586344,OtterSec,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950139702,425586483,Rocket,Europe,425586484,Coinbase 04,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950284093,425587047,Luganodes,Europe,425587048,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950324011,425587203,bcZxRSoz...,North America,425587204,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950354738,425587323,FBKFWadX...,Europe,425587324,AMukCLCr...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950360894,425587347,HnfPZDrb...,Asia,425587348,Hz5aLvpK...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950369087,425587379,Everstake,Europe,425587380,Hz5aLvpK...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950397756,425587491,Haus – Best APY & No Fees,Europe,425587492,blueshift,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950456125,425587719,Pumpkin's Pool ❤️,Asia,425587720,Twinstake,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950464319,425587751,OKX Earn,Asia,425587752,J6etcxDd...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950472495,425587783,FzQqaDSt...,Asia,425587784,Everstake,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950590767,425588245,Watchtower,North America,425588249,Twinstake,North America,astralane-quic-fra,astralane-quic-fra,4
+20260610-164405#108950613775,425588335,Bitwise Onchain Solutions,Europe,425588336,BkoS26vB...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950684452,425588611,Pine Stake,South America,425588612,Blueprint,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950726453,425588775,HnfPZDrb...,Asia,425588776,5ZqveVff...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950765360,425588927,Figment,North America,425588928,binance staking,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950767416,425588935,Gotas,South America,425588936,Bitwise Onchain Solutions 02,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950785842,425589007,9GHvMeJ4...,Asia,425589008,0base.vc 🇰🇷 | MEV 🔥,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950873901,425589351,Stand With Ukraine,Asia,425589352,5ZqveVff...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950882110,425589383,Figment,North America,425589384,InfraMesh,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950900532,425589455,J6etcxDd...,North America,425589456,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108950917951,425589523,G3a3iYZK...,Europe,425589524,Ledger by Chorus One,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951027513,425589951,SoLyrae,North America,425589952,EXckihF3...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951029568,425589959,HpcB5Qg8...,Europe,425589960,FBKFWadX...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951033655,425589975,Quatro,Europe,425589976,9jxgosAf...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951067445,425590107,BrewlabsHQ,Asia,425590108,3SkE34PV...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951137082,425590379,[NODERS],Asia,425590380,Coinbase 02,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951143230,425590403,9UM8wQ8F...,Europe,425590404,J6etcxDd...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951162675,425590479,Quatro,Europe,425590480,Kraken 2,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951297849,425591007,AP Node,Asia,425591008,Ex1AxFCi...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951424821,425591503,9jxgosAf...,Europe,425591504,Figment,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951445308,425591583,Appleyello,Europe,425591584,Hz5aLvpK...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951468862,425591675,Bitwise Onchain Solutions,Europe,425591676,5ivRNcK1...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951609148,425592223,Anchorage Digital,Asia,425592224,Raposa Coffee,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951738171,425592727,Jupiter,Europe,425592728,Figment,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951826474,425593072,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,425593076,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,4
+20260610-164405#108951832353,425593095,Solana Compass 🧭 Solana For The People,Asia,425593096,Figment,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951907130,425593387,Figment,North America,425593388,J6etcxDd...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951926591,425593463,Coinbase 04,Europe,425593464,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108951988013,425593703,GYx8kpp7...,Asia,425593704,blueshift,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952040250,425593907,DataHive AI | Airdrop | 0% fee | full MEV,Asia,425593908,Coinbase 04,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952238901,425594683,Gv9gguvr...,Europe,425594684,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952240959,425594691,Aurora Validator,Europe,425594692,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952260407,425594767,AoUwfPui...,North America,425594768,OtterSec,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952272134,425594813,stakefish 🐟,North America,425594816,StakeBowl,Europe,astralane-quic-fra,astralane-quic-fra,3
+20260610-164405#108952303424,425594935,FBKFWadX...,Europe,425594936,Ledger by Figment,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952304443,425594939,Ledger by Figment,Europe,425594940,BkoS26vB...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952338224,425595071,Axiom,Europe,425595072,9UM8wQ8F...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952340285,425595079,Exo Tech,North America,425595080,Allnodes ⚡️ 0% fee,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952359726,425595155,Solya,Asia,425595156,Hello Moon,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952380213,425595235,G3a3iYZK...,Europe,425595236,6y7V8dL6...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952381248,425595239,6y7V8dL6...,Europe,425595240,Coinbase 04,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952414004,425595367,5ZqveVff...,Europe,425595368,privaEdS...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952493885,425595679,Coinbase 05,Europe,425595680,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952576819,425596003,OtterSec,North America,425596004,Coinbase 04,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952596261,425596079,5ZqveVff...,Europe,425596080,FBKFWadX...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952608570,425596127,🧬 HelixNode 0% fee 🧬,Europe,425596128,blueshift,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952613671,425596147,Shinobi Systems 🚀 stakeview.app,North America,425596148,Coinbase 02,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952642347,425596259,84gC25fb...,Europe,425596260,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952680248,425596407,Bybit Staking,Europe,425596408,5RvfTSow...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952681272,425596411,5RvfTSow...,Europe,425596412,Gate Earn,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952803136,425596887,AEHqTB2R...,Europe,425596888,9UM8wQ8F...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952823587,425596967,Figment,North America,425596968,BULK,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952848165,425597063,Shinobi Systems 🚀 stakeview.app,North America,425597064,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952920345,425597345,A1vqhA2f...,Europe,425597348,Hz5aLvpK...,Europe,astralane-quic-fra,astralane-quic-fra,3
+20260610-164405#108952974133,425597555,Bybit Staking,Europe,425597556,AMukCLCr...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108952983360,425597591,AEHqTB2R...,Europe,425597592,9iFPQbP1...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953079613,425597967,P2P.org,Europe,425597968,5ZqveVff...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953084734,425597987,A1vqhA2f...,Europe,425597988,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953101103,425598051,J6etcxDd...,North America,425598052,Twinstake,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953121578,425598131,sce2zXNj...,North America,425598132,Anagram Staking,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953210673,425598479,Everstake,Europe,425598480,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953257783,425598663,binance staking,North America,425598664,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953259811,425598671,GQzMeEMw...,Asia,425598672,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953273134,425598723,Solend,North America,425598724,Twinstake,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953292587,425598799,DUND26mE...,Asia,425598800,Temporal Emerald,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953345848,425599007,Figment,North America,425599008,HnfPZDrb...,Asia,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953393979,425599195,Cavey Cool,North America,425599196,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953454394,425599431,FBbqKvwL...,North America,425599432,Coinbase 04,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953457676,425599444,0xNull,Asia,425599448,AMukCLCr...,Europe,astralane-quic-fra,astralane-quic-fra,4
+20260610-164405#108953458216,425599446,0xNull,Asia,425599448,AMukCLCr...,Europe,astralane-quic-fra,astralane-quic-fra,2
+20260610-164405#108953462574,425599463,Figment,North America,425599464,Cogent ⚙️  by SOL Strategies,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953463611,425599467,Cogent ⚙️  by SOL Strategies,Europe,425599468,Jupiter,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953542457,425599775,binance staking,North America,425599776,OtterSec,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953611072,425600043,pSoLoZx5...,Europe,425600044,Hz5aLvpK...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953644851,425600175,6y7V8dL6...,Europe,425600176,gripto,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953651005,425600199,BULK,Europe,425600200,Twinstake,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953668405,425600267,Upbit Staking,North America,425600268,blueshift,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953703224,425600403,OKX Earn,Asia,425600404,Hz5aLvpK...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953708606,425600424,0xNull,Asia,425600428,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,4
+20260610-164405#108953709069,425600426,0xNull,Asia,425600428,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,2
+20260610-164405#108953709314,425600427,0xNull,Asia,425600428,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953717563,425600459,Solana Compass 🧭 Solana For The People,Asia,425600460,AicQr2zC...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953791288,425600747,Alpha Pro | High APY🚀 100% Reliable ⭐ VIP Services,Europe,425600748,EkvdKhUL...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953856805,425601003,Prompt Logic,Asia,425601004,Jupiter,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108953902905,425601183,Twinstake,North America,425601184,Coinbase 04,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108954017590,425601631,Staking Facilities | MEV 🔥,Europe,425601632,FBKFWadX...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108954037051,425601707,GYx8kpp7...,Asia,425601708,3JotfSFP...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108954110773,425601995,EkvdKhUL...,Europe,425601996,Ledger by Figment,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108954134315,425602087,Sol4Geeks,North America,425602088,Kraken 2,North America,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108954465087,425603379,2m1A2WM1...,North America,425603380,5RvfTSow...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982295337,425712091,Coinbase 03,Asia,425712092,Everstake,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982330165,425712227,Shiro,North America,425712228,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982335295,425712247,2oHUYyW2...,Europe,425712248,A1vqhA2f...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982336310,425712251,A1vqhA2f...,Europe,425712252,EXckihF3...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982541120,425713051,BkoS26vB...,Europe,425713052,BtsmiEEv...,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982577984,425713195,Alpha Pro | High APY🚀 100% Reliable ⭐ VIP Services,Europe,425713196,J6etcxDd...,North America,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982680373,425713595,Forward Industries,North America,425713596,blueshift,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260611-064816#108982715169,425713731,2GUnfxZa...,Asia,425713732,SuperteamDE x Staking Facilities | Public Goods Validator,Europe,astralane-quic-fra,astralane-quic-fra,1
+20260610-164405#108949633855,425584507,Hz5aLvpK...,Europe,425584508,Allnodes ⚡️ 0% fee,Europe,blockrazor,blockrazor-fra,1
+20260610-164405#108949826367,425585259,Bitwise Onchain Solutions | Jito BAM,Europe,425585260,DUND26mE...,Asia,blockrazor,blockrazor-fra,1
+20260610-164405#108952234799,425594667,Nansen | Stake to Stack Points,Asia,425594668,DUND26mE...,Asia,blockrazor,blockrazor-fra,1
+20260610-164405#108952772395,425596767,Ha1iad3,Asia,425596768,DUND26mE...,Asia,blockrazor,blockrazor-fra,1
+20260610-164405#108953250604,425598635,Overclock,North America,425598636,Jupiter,Europe,blockrazor,blockrazor-fra,1
+20260610-164405#108950082064,425586258,2GUnfxZa...,Asia,425586269,Kiln1,Europe,bloxroute-fra,bloxroute-fra,11
+20260610-164405#108950970162,425589727,Upbit Staking,North America,425589728,privaEdS...,Europe,bloxroute-fra,bloxroute-fra,1
+20260610-164405#108951563036,425592043,FzQqaDSt...,Asia,425592044,Ha1iad3,Asia,bloxroute-fra,bloxroute-fra,1
+20260610-164405#108951769902,425592851,Bitwise Onchain Solutions,Europe,425592852,Watchtower,North America,bloxroute-fra,bloxroute-fra,1
+20260610-164405#108952136500,425594283,Alpha Waves,Europe,425594284,Jupiter,Europe,bloxroute-fra,bloxroute-fra,1
+20260610-164405#108952737585,425596631,Nemertes,Europe,425596632,Figment,North America,bloxroute-fra,bloxroute-fra,1
+20260610-164405#108954374956,425603027,binance staking,North America,425603028,Alpha Waves,Europe,bloxroute-fra,bloxroute-fra,1
+20260610-164405#108949953335,425585755,8tjFeSAp...,North America,425585756,Bybit Staking,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-164405#108949959470,425585779,binance staking,North America,425585780,Jupiter,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-164405#108949989157,425585895,Epoch.Day,South America,425585896,GQzMeEMw...,Asia,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-164405#108950279963,425587031,LumLabs,Asia,425587032,Jupiter,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-164405#108951725866,425592679,5EhGYUyQ...,Asia,425592680,Jupiter,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-164405#108952353593,425595131,Satellite Staking,North America,425595132,Jupiter,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-164405#108952682280,425596415,Gate Earn,North America,425596416,Jupiter,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-164405#108953407293,425599247,Alpha,Europe,425599248,DUND26mE...,Asia,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260611-064816#108982452023,425712703,HpcB5Qg8...,Europe,425712704,Trust Nodes,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260611-064816#108982691632,425713639,OKX Earn,Asia,425713640,Jupiter,Europe,bloxroute-quic-fra,bloxroute-quic-fra,1
+20260610-161813#108948710946,425580902,Harmonic Major,Asia,425580904,Helius,Europe,helius-dual,helius-fra,2
+20260610-161813#108948881205,425581567,Figment,North America,425581568,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260610-161813#108948932413,425581767,Bitwise Onchain Solutions,Europe,425581768,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108949601086,425584379,bcZxRSoz...,North America,425584380,2icWF7Tv...,Europe,helius-dual,helius-fra,1
+20260610-164405#108949681958,425584695,Shinobi Systems 🚀 stakeview.app,North America,425584696,7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84,Europe,helius-dual,helius-fra,1
+20260610-164405#108949785389,425585099,Nansen | Stake to Stack Points,Asia,425585100,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108949795618,425585139,Hyper 🫨,North America,425585140,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108949818169,425585227,8tjFeSAp...,North America,425585228,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108949921593,425585631,Kraken 2,North America,425585632,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108950034229,425586071,Bybit Staking,Europe,425586072,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108950050076,425586133,HTeRsa3g...,Europe,425586136,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,3
+20260610-164405#108950050624,425586135,HTeRsa3g...,Europe,425586136,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260610-164405#108950112045,425586375,binance staking,North America,425586376,QubitNexus,Europe,helius-dual,helius-fra,1
+20260610-164405#108950137656,425586475,8tjFeSAp...,North America,425586476,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108950250271,425586915,Pumpkin's Pool ❤️,Asia,425586916,P2P.org,Europe,helius-dual,helius-fra,1
+20260610-164405#108950478654,425587807,P2P.org,Europe,425587808,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260610-164405#108950528822,425588003,StakeNode777,North America,425588004,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108950541100,425588051,Overclock,North America,425588052,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108950628406,425588392,EXckihF3...,Europe,425588396,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,4
+20260610-164405#108950710079,425588711,BkoS26vB...,Europe,425588712,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108951018304,425589915,Jaguar,South America,425589916,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108951060281,425590079,Nansen | Stake to Stack Points,Asia,425590080,8tjFeSAp...,North America,helius-dual,helius-fra,1
+20260610-164405#108951140126,425590391,validator.com,Europe,425590393,Jupiter,Europe,helius-dual,helius-fra,2
+20260610-164405#108951187264,425590575,BUv44cVt...,Europe,425590576,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108951434040,425591539,7tqeaFKs...,Europe,425591540,Maera,Asia,helius-dual,helius-fra,1
+20260610-164405#108951460647,425591643,HnfPZDrb...,Asia,425591644,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108951566144,425592055,VQwCCSfW...,North America,425592056,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108951589672,425592147,binance staking,North America,425592148,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108951772733,425592862,nodtech,Europe,425592865,Jupiter,Europe,helius-dual,helius-fra,3
+20260610-164405#108951772960,425592863,nodtech,Europe,425592866,Jupiter,Europe,helius-dual,helius-fra,3
+20260610-164405#108951802677,425592979,Grid Systems,Asia,425592980,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108951937850,425593507,Upbit Staking,North America,425593508,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108952038169,425593899,Bybit Staking,Europe,425593900,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108952088376,425594095,5EhGYUyQ...,Asia,425594096,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108952324925,425595019,Figment,North America,425595020,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108952393524,425595287,Upbit Staking,North America,425595288,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108952486720,425595651,Ledger by Figment,Europe,425595652,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108952781609,425596803,DUND26mE...,Asia,425596804,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108952949552,425597459,Upbit Staking,North America,425597460,8tjFeSAp...,North America,helius-dual,helius-fra,1
+20260610-164405#108953087780,425597999,Bitget Wallet,Asia,425598000,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260610-164405#108953261884,425598679,QubitNexus,Europe,425598680,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108953278272,425598743,Helius,Europe,425598744,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108953294626,425598807,Coinbase 03,Asia,425598808,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108953340174,425598985,Sol Hack3rs,Asia,425598988,Helius,Europe,helius-dual,helius-fra,3
+20260610-164405#108953349952,425599023,9jxgosAf...,Europe,425599024,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108953396021,425599203,Jito2 (Experimental),Europe,425599204,2GUnfxZa...,Asia,helius-dual,helius-fra,1
+20260610-164405#108953508663,425599643,Staking Facilities | MEV 🔥,Europe,425599644,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108953659199,425600231,Upbit Staking,North America,425600232,Kiln1,Europe,helius-dual,helius-fra,1
+20260610-164405#108953662258,425600243,Alpha Pro | High APY🚀 100% Reliable ⭐ VIP Services,Europe,425600244,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108953737021,425600535,3SkE34PV...,Europe,425600536,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108953871142,425601059,AP Node,Asia,425601060,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260610-164405#108953909055,425601207,01node,Europe,425601208,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108953924399,425601267,Upbit Staking,North America,425601268,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108953990972,425601527,FbYX2uN5...,Europe,425601528,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108954001204,425601567,Coinbase 02,Europe,425601568,Jupiter,Europe,helius-dual,helius-fra,1
+20260610-164405#108954033980,425601695,7QQGNm3p...,Europe,425601696,Gv9gguvr...,Europe,helius-dual,helius-fra,1
+20260610-164405#108954068797,425601831,Jupiter,Europe,425601832,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260610-164405#108954131261,425602075,Helius,Europe,425602076,Trust Nodes,Europe,helius-dual,helius-fra,1
+20260610-164405#108954256172,425602563,Paragon,Asia,425602564,Helius,Europe,helius-dual,helius-fra,1
+20260610-164405#108954400561,425603127,Maera,Asia,425603128,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260611-064816#108982487866,425712843,HnfPZDrb...,Asia,425712844,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260611-064816#108982548285,425713079,P2P.org,Europe,425713080,Bitwise Onchain Solutions,Europe,helius-dual,helius-fra,1
+20260611-064816#108982571833,425713171,Bitwise Onchain Solutions 02,Europe,425713172,Helius,Europe,helius-dual,helius-fra,1
+20260611-064816#108982596412,425713267,Kraken,North America,425713268,Jupiter,Europe,helius-dual,helius-fra,1
+20260611-064816#108982642968,425713449,Coinbase 03,Asia,425713452,7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84,Europe,helius-dual,helius-fra,3
+20260610-164405#108949596984,425584363,Hz5aLvpK...,Europe,425584364,Jupiter,Europe,helius-fra,helius-fra,1
+20260610-164405#108950591267,425588247,Watchtower,North America,425588249,Twinstake,North America,helius-fra,helius-fra,2
+20260610-164405#108950704942,425588691,Sign Labs 🤟,North America,425588692,J6etcxDd...,North America,helius-fra,helius-fra,1
+20260610-164405#108950719296,425588747,FzQqaDSt...,Asia,425588748,Jupiter,Europe,helius-fra,helius-fra,1
+20260610-164405#108951208746,425590659,binance staking,North America,425590660,Jupiter,Europe,helius-fra,helius-fra,1
+20260610-164405#108951935788,425593499,ParaFi Technologies,North America,425593500,Jupiter,Europe,helius-fra,helius-fra,1
+20260610-164405#108951976761,425593659,5Us18hLZ...,Europe,425593660,Solana Validator,Europe,helius-fra,helius-fra,1
+20260610-164405#108952551194,425595903,Hu7pi2Xg...,Asia,425595904,Kiln2,Europe,helius-fra,helius-fra,1
+20260610-164405#108953599799,425599999,Valid Blocks,Asia,425600000,DUND26mE...,Asia,helius-fra,helius-fra,1
+20260610-164405#108954059572,425601795,1dad | Solfège,Asia,425601796,🧬 HelixNode 0% fee 🧬,Europe,helius-fra,helius-fra,1
+20260610-164405#108954412840,425603175,DataHive AI | Airdrop | 0% fee | full MEV,Asia,425603176,Kiln2,Europe,helius-fra,helius-fra,1
+20260610-164405#108953293109,425598801,Temporal Emerald,Europe,425598804,Coinbase 03,Asia,jito-multi,jito-multiregion,3
+20260610-164405#108951179047,425590543,[NODERS],Asia,425590544,Windfall,Asia,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108951344923,425591191,BTGPbq4K...,Asia,425591192,StudentSOL,Asia,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108951429949,425591523,S4Mar,Europe,425591524,AG1PsJMQ...,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108951758647,425592807,Kraken 2,North America,425592808,9WzPWqKS...,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108952689464,425596443,Absolute Guard,Europe,425596444,EkvdKhUL...,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108952952632,425597471,BONK,North America,425597472,Jupiter,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108953225021,425598535,Radiants,Asia,425598536,Solarius☀️,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108954229530,425602459,Next Finance Tech,Asia,425602460,P2P.org,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-164405#108954311466,425602779,OKX Earn,Asia,425602780,Bitwise Onchain Solutions 02,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260611-064816#108982426409,425712603,Coinbase 03,Asia,425712604,Blueprint,Europe,nextblock-quic-fra,nextblock-quic-fra,1
+20260610-161813#108948596533,425580455,5RvfTSow...,Europe,425580456,Kraken 2,North America,nozomi-fra,nozomi-fra,1
+20260610-161813#108948636471,425580611,REA1zKzM...,Europe,425580612,DeFi Dev Corp (NASDAQ: DFDV),Europe,nozomi-fra,nozomi-fra,1
+20260610-161813#108948738879,425581011,Ledger by Figment,Europe,425581012,1dad | Solfège,Asia,nozomi-fra,nozomi-fra,1
+20260610-161813#108948922176,425581727,Fidelity Center for Applied Technology (FCAT®),North America,425581728,Jupiter,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108949637952,425584523,Quantix,Europe,425584524,J6etcxDd...,North America,nozomi-fra,nozomi-fra,1
+20260610-164405#108949661502,425584615,GYx8kpp7...,Asia,425584616,Hello Moon,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108949679648,425584686,Trust Nodes,Europe,425584688,Appleyello,Europe,nozomi-fra,nozomi-fra,2
+20260610-164405#108949858102,425585383,Kraken,North America,425585384,Coinbase 03,Asia,nozomi-fra,nozomi-fra,1
+20260610-164405#108949931836,425585671,5EhGYUyQ...,Asia,425585672,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,nozomi-fra,nozomi-fra,1
+20260610-164405#108950115134,425586387,J6etcxDd...,North America,425586388,Blueprint,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108950196014,425586703,Somos Validator,Asia,425586704,BuoZ7q6f...,North America,nozomi-fra,nozomi-fra,1
+20260610-164405#108950217532,425586787,VQwCCSfW...,North America,425586788,Nemertes,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108950578993,425588199,val37,North America,425588200,Alpha,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108950815543,425589123,GYx8kpp7...,Asia,425589124,AMukCLCr...,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108950941493,425589615,Hz5aLvpK...,Europe,425589616,Shinobi Systems 🚀 stakeview.app,North America,nozomi-fra,nozomi-fra,1
+20260610-164405#108951212864,425590675,🔥Aurora staking,Asia,425590676,Dicky,South America,nozomi-fra,nozomi-fra,1
+20260610-164405#108951295802,425590999,Grid Systems,Asia,425591000,Jupiter,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108951395133,425591387,EkvdKhUL...,Europe,425591388,BULK,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108951456560,425591627,Figment,North America,425591628,pSoLoZx5...,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108951592747,425592159,BUv44cVt...,Europe,425592160,J6etcxDd...,North America,nozomi-fra,nozomi-fra,1
+20260610-164405#108951757630,425592803,22rU5yUm...,Europe,425592804,Kraken 2,North America,nozomi-fra,nozomi-fra,1
+20260610-164405#108951866155,425593227,binance staking,North America,425593228,9jxgosAf...,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108952090424,425594103,Syncnode | 0% Fees  | Genesis Validator,Europe,425594104,EkvdKhUL...,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108952410920,425595355,AP Node,Asia,425595356,2GUnfxZa...,Asia,nozomi-fra,nozomi-fra,1
+20260610-164405#108952786749,425596823,Nansen | Stake to Stack Points,Asia,425596824,DUND26mE...,Asia,nozomi-fra,nozomi-fra,1
+20260610-164405#108953036589,425597799,FzQqaDSt...,Asia,425597800,Certora Validator,North America,nozomi-fra,nozomi-fra,1
+20260610-164405#108953138993,425598199,OKX Earn,Asia,425598200,Staking Facilities | MEV 🔥,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108953163584,425598295,Backpack,North America,425598296,2GUnfxZa...,Asia,nozomi-fra,nozomi-fra,1
+20260610-164405#108953466682,425599479,binance staking,North America,425599480,🌸 SOLGirl MEV ⚡️👩‍💻,Asia,nozomi-fra,nozomi-fra,1
+20260610-164405#108953539385,425599763,StakeCraft,North America,425599764,Neumann,Asia,nozomi-fra,nozomi-fra,1
+20260610-164405#108954056510,425601783,Kiln1,Europe,425601784,J6etcxDd...,North America,nozomi-fra,nozomi-fra,1
+20260610-164405#108954214204,425602399,BkoS26vB...,Europe,425602400,5ivRNcK1...,Europe,nozomi-fra,nozomi-fra,1
+20260610-164405#108954414904,425603183,Kraken 2,North America,425603184,Bybit Staking,Europe,nozomi-fra,nozomi-fra,1
+20260611-064816#108982294325,425712087,AiDoL,Europe,425712088,Coinbase 03,Asia,nozomi-fra,nozomi-fra,1
+20260611-064816#108982355771,425712327,5ejbTALc...,Europe,425712328,StakeBowl,Europe,nozomi-fra,nozomi-fra,1
+20260611-064816#108982436666,425712643,Bitwise Onchain Solutions,Europe,425712644,EXckihF3...,Europe,nozomi-fra,nozomi-fra,1
+20260611-064816#108982666031,425713539,9UM8wQ8F...,Europe,425713540,KAST,Europe,nozomi-fra,nozomi-fra,1
+20260610-161813#108948718380,425580931,Neumann,Asia,425580932,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108949809977,425585195,2GUnfxZa...,Asia,425585196,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108949875511,425585451,Nansen | Stake to Stack Points,Asia,425585452,StakeBowl,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108950028093,425586047,binance staking,North America,425586048,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108950129468,425586443,Helius,Europe,425586444,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108950734647,425588807,Ledger by Figment,Europe,425588808,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108951114531,425590291,Project Super,South America,425590292,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108951241511,425590787,5EhGYUyQ...,Asia,425590788,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108951370555,425591291,AP Node,Asia,425591292,Kiln1,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108951912254,425593407,Alchemy,Asia,425593408,FbYX2uN5...,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108952120117,425594219,A1vqhA2f...,Europe,425594220,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108952192827,425594503,6ptuwW4r...,Europe,425594504,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108952423199,425595403,Alchemy,Asia,425595404,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108952747836,425596671,Glory to Ukraine,Europe,425596672,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108953178924,425598355,binance staking,North America,425598356,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108953270065,425598711,bloXroute US,North America,425598712,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108953604915,425600019,EvasMainnet,North America,425600020,P2P.org,Europe,syncro-fra,syncro-fra,1
+20260610-164405#108954042150,425601727,Solana Compass 🧭 Solana For The People,Asia,425601728,Trust Nodes,Europe,syncro-fra,syncro-fra,1
+20260611-064816#108982643508,425713451,Coinbase 03,Asia,425713452,7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84,Europe,syncro-fra,syncro-fra,1
+20260610-161813#108948578111,425580383,FalconX,North America,425580384,HpcB5Qg8...,Europe,triton-fra,triton-fra,1
+20260610-161813#108948580139,425580391,Nansen | Stake to Stack Points,Asia,425580392,Alchemy,Asia,triton-fra,triton-fra,1
+20260610-161813#108948634426,425580603,DeepStake,North America,425580604,"Moutai Validator 🚀 Performant, Secure and NO Fees",Europe,triton-fra,triton-fra,1
+20260610-161813#108948649788,425580663,8tjFeSAp...,North America,425580664,Solana Compass 🧭 Solana For The People,Asia,triton-fra,triton-fra,1
+20260610-161813#108948653859,425580679,DeepStake,North America,425580680,Sanctum,Europe,triton-fra,triton-fra,1
+20260610-161813#108948659003,425580699,FBKFWadX...,Europe,425580700,HnfPZDrb...,Asia,triton-fra,triton-fra,1
+20260610-161813#108948673333,425580755,BtsmiEEv...,Europe,425580756,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-161813#108948698939,425580855,Staking Facilities | MEV 🔥,Europe,425580856,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-161813#108948716351,425580923,Blockdaemon 🧱👿 Validator,Europe,425580924,Coinbase 05,Europe,triton-fra,triton-fra,1
+20260610-161813#108948734769,425580995,Velox Validator,North America,425580996,GSTampk6...,Europe,triton-fra,triton-fra,1
+20260610-161813#108948795193,425581231,Upbit Staking,North America,425581232,BUv44cVt...,Europe,triton-fra,triton-fra,1
+20260610-161813#108948796224,425581235,BUv44cVt...,Europe,425581236,Sanctum,Europe,triton-fra,triton-fra,1
+20260610-161813#108948828991,425581363,Anagram Staking,Europe,425581364,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-161813#108948839230,425581403,Staking Facilities | MEV 🔥,Europe,425581404,Helius,Europe,triton-fra,triton-fra,1
+20260610-161813#108948851517,425581451,BUv44cVt...,Europe,425581452,Luganodes,Europe,triton-fra,triton-fra,1
+20260610-161813#108948870975,425581527,JStaking: 0% fee · top returns,Europe,425581528,BkoS26vB...,Europe,triton-fra,triton-fra,1
+20260610-161813#108948903734,425581655,Solend,North America,425581656,UPSCQNqd...,North America,triton-fra,triton-fra,1
+20260610-161813#108948925247,425581739,Solana Compass 🧭 Solana For The People,Asia,425581740,22rU5yUm...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949612334,425584423,FalconX,North America,425584424,BkoS26vB...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949619510,425584451,Kraken 2,North America,425584452,76rcGHdP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949641005,425584535,Figment,North America,425584536,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108949643071,425584543,SolStack by Corvus Labs,North America,425584544,Anagram Staking,Europe,triton-fra,triton-fra,1
+20260610-164405#108949656367,425584595,Upbit Staking,North America,425584596,OKX Earn,Asia,triton-fra,triton-fra,1
+20260610-164405#108949673789,425584663,Project Super,South America,425584664,HnfPZDrb...,Asia,triton-fra,triton-fra,1
+20260610-164405#108949685022,425584707,WEB34EVER ∞ POSTHUMAN,North America,425584708,ParaFi Technologies,North America,triton-fra,triton-fra,1
+20260610-164405#108949689119,425584723,LimeChain,Europe,425584724,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949694263,425584743,Figment,North America,425584744,Solmate - RockawayX powered,Asia,triton-fra,triton-fra,1
+20260610-164405#108949719872,425584843,Twinstake,North America,425584844,76rcGHdP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949726006,425584867,FBbqKvwL...,North America,425584868,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108949737257,425584911,2GUnfxZa...,Asia,425584912,Luganodes,Europe,triton-fra,triton-fra,1
+20260610-164405#108949754659,425584979,LUX8 Validator,North America,425584980,5ZqveVff...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949760816,425585003,GYx8kpp7...,Asia,425585004,🧑‍🍳USDG rewards (6.36% APY),Europe,triton-fra,triton-fra,1
+20260610-164405#108949776652,425585065,Vault,Asia,425585069,Kraken,North America,triton-fra,triton-fra,4
+20260610-164405#108949781294,425585083,HnfPZDrb...,Asia,425585084,Quatro,Europe,triton-fra,triton-fra,1
+20260610-164405#108949801783,425585163,84gC25fb...,Europe,425585164,Coinbase 04,Europe,triton-fra,triton-fra,1
+20260610-164405#108949828415,425585267,Aursen,Asia,425585268,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949888832,425585503,PK,Europe,425585504,76rcGHdP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949892899,425585519,Shinobi Systems 🚀 stakeview.app,North America,425585520,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108949915443,425585607,Blueprint,Europe,425585608,AEHqTB2R...,Europe,triton-fra,triton-fra,1
+20260610-164405#108949963581,425585795,GooseFX - 0% Fees,Europe,425585796,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108949965627,425585803,Coinbase,Europe,425585804,22rU5yUm...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950017853,425586007,BSVckjdW...,Europe,425586008,Aw5wEMXh...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950026020,425586039,DUND26mE...,Asia,425586040,2GUnfxZa...,Asia,triton-fra,triton-fra,1
+20260610-164405#108950043451,425586107,BUv44cVt...,Europe,425586108,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950050359,425586134,HTeRsa3g...,Europe,425586138,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,4
+20260610-164405#108950052143,425586141,privaEdS...,Europe,425586144,A1vqhA2f...,Europe,triton-fra,triton-fra,3
+20260610-164405#108950054705,425586151,Blueprint,Europe,425586152,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108950099766,425586327,Luganodes,Europe,425586328,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950106942,425586355,6y7V8dL6...,Europe,425586356,BSVckjdW...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950147898,425586515,7QQGNm3p...,Europe,425586516,GSTampk6...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950152991,425586535,Coinbase 03,Asia,425586536,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950171447,425586607,binance staking,North America,425586608,AG 0% fee + ALL MEV profit share,Europe,triton-fra,triton-fra,1
+20260610-164405#108950199091,425586715,9jxgosAf...,Europe,425586716,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108950224687,425586815,3SDK,Asia,425586816,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108950248228,425586907,Upbit Staking,North America,425586908,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950256444,425586939,Hamsa,Europe,425586940,2GUnfxZa...,Asia,triton-fra,triton-fra,1
+20260610-164405#108950283071,425587043,Everstake,Europe,425587044,Luganodes,Europe,triton-fra,triton-fra,1
+20260610-164405#108950296372,425587095,Solmate - RockawayX powered,Asia,425587096,Kraken 2,North America,triton-fra,triton-fra,1
+20260610-164405#108950300477,425587111,Luganodes,Europe,425587112,Dosirak 🇰🇷,Europe,triton-fra,triton-fra,1
+20260610-164405#108950385471,425587443,Staking Facilities | MEV 🔥,Europe,425587444,AEHqTB2R...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950410035,425587539,9UM8wQ8F...,Europe,425587540,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108950424371,425587595,AoUwfPui...,North America,425587596,⭐StepByStep⭐ Jito BAM,Asia,triton-fra,triton-fra,1
+20260610-164405#108950444828,425587675,Alchemy,Asia,425587676,GQzMeEMw...,Asia,triton-fra,triton-fra,1
+20260610-164405#108950483774,425587827,Kraken 2,North America,425587828,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950497086,425587879,BtsmiEEv...,Europe,425587880,Stellium,Asia,triton-fra,triton-fra,1
+20260610-164405#108950506281,425587915,GQzMeEMw...,Asia,425587916,Bitwise Onchain Solutions | Jito BAM,Europe,triton-fra,triton-fra,1
+20260610-164405#108950510367,425587931,ParaFi Technologies,North America,425587932,Hz5aLvpK...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950546230,425588071,Alchemy,Asia,425588072,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950548282,425588079,🔥💃🇸🇬 CeriumXYZ,Asia,425588080,BUv44cVt...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950570809,425588167,BSVckjdW...,Europe,425588168,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950573883,425588179,9ueKvL3W...,Europe,425588180,ABREU Foundation,South America,triton-fra,triton-fra,1
+20260610-164405#108950584115,425588219,OKX Earn,Asia,425588220,5ZqveVff...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950590240,425588243,The Library,Asia,425588249,Twinstake,North America,triton-fra,triton-fra,6
+20260610-164405#108950610738,425588323,Coinbase 05,Europe,425588324,EkvdKhUL...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950618919,425588355,Bybit Staking,Europe,425588356,A1vqhA2f...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950619959,425588359,A1vqhA2f...,Europe,425588360,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950624036,425588375,blueshift,Europe,425588376,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950625086,425588379,7QQGNm3p...,Europe,425588380,3JotfSFP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950642492,425588447,Cogent ⚙️  by SOL Strategies,Europe,425588448,Backpack,North America,triton-fra,triton-fra,1
+20260610-164405#108950680362,425588595,Solana Compass 🧭 Solana For The People,Asia,425588596,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108950681391,425588599,Upbit Staking,North America,425588600,Mythx,Asia,triton-fra,triton-fra,1
+20260610-164405#108950685501,425588615,Blueprint,Europe,425588616,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108950699824,425588671,00Tokyo,Asia,425588672,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108950709054,425588707,binance staking,North America,425588708,BkoS26vB...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950725423,425588771,AicQr2zC...,North America,425588772,HnfPZDrb...,Asia,triton-fra,triton-fra,1
+20260610-164405#108950730555,425588791,melea 🚀 SOL 🤑2K,Europe,425588792,1000X.sh,Europe,triton-fra,triton-fra,1
+20260610-164405#108950766395,425588931,binance staking,North America,425588932,Gotas,South America,triton-fra,triton-fra,1
+20260610-164405#108950775080,425588965,privaEdS...,Europe,425588968,HpcB5Qg8...,Europe,triton-fra,triton-fra,3
+20260610-164405#108950793021,425589035,FbYX2uN5...,Europe,425589036,Drift,Europe,triton-fra,triton-fra,1
+20260610-164405#108950796081,425589047,FzQqaDSt...,Asia,425589048,Appleyello,Europe,triton-fra,triton-fra,1
+20260610-164405#108950871863,425589343,Elysium 🧊 0% fee,Europe,425589344,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108950880062,425589375,Upbit Staking,North America,425589376,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950947645,425589639,Kiln1,Europe,425589640,melea 🚀 SOL 🤑2K,Europe,triton-fra,triton-fra,1
+20260610-164405#108950951737,425589655,Coinbase,Europe,425589656,DUND26mE...,Asia,triton-fra,triton-fra,1
+20260610-164405#108950952758,425589659,DUND26mE...,Asia,425589660,GSTampk6...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950959909,425589687,GYx8kpp7...,Asia,425589688,FBKFWadX...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950974254,425589743,AicQr2zC...,North America,425589744,Aw5wEMXh...,Europe,triton-fra,triton-fra,1
+20260610-164405#108950993722,425589819,LakeStake,North America,425589820,HnfPZDrb...,Asia,triton-fra,triton-fra,1
+20260610-164405#108951001896,425589851,FzQqaDSt...,Asia,425589852,BkoS26vB...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951013161,425589895,Backpack,North America,425589896,UPSCQNqd...,North America,triton-fra,triton-fra,1
+20260610-164405#108951016255,425589907,Bitwise Onchain Solutions,Europe,425589908,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108951041839,425590007,Gleam,Asia,425590008,DeFi Dev Corp (NASDAQ: DFDV),Europe,triton-fra,triton-fra,1
+20260610-164405#108951076664,425590143,AiDoL,Europe,425590144,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108951083830,425590171,9UM8wQ8F...,Europe,425590172,BkoS26vB...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951107392,425590263,Staking Facilities | MEV 🔥,Europe,425590264,"Moutai Validator 🚀 Performant, Secure and NO Fees",Europe,triton-fra,triton-fra,1
+20260610-164405#108951124786,425590331,FzQqaDSt...,Asia,425590332,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108951129917,425590351,BGAjnivV...,Europe,425590352,Hanabi Staking 🎆 | Staking Champions | DoubleZero | ❌BAM,North America,triton-fra,triton-fra,1
+20260610-164405#108951133994,425590367,Radiants,Asia,425590368,Alchemy,Asia,triton-fra,triton-fra,1
+20260610-164405#108951152429,425590439,FalconX,North America,425590440,22rU5yUm...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951216955,425590691,Ledger by Figment,Europe,425590692,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951246629,425590807,Alchemy,Asia,425590808,diman,North America,triton-fra,triton-fra,1
+20260610-164405#108951269175,425590895,Figment,North America,425590896,3SkE34PV...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951318332,425591087,BkoS26vB...,Europe,425591088,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108951326513,425591119,blueshift,Europe,425591128,melea 🚀 SOL 🤑2K,Europe,triton-fra,triton-fra,9
+20260610-164405#108951338786,425591167,Solmate - RockawayX powered,Asia,425591168,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108951364412,425591267,Luke,North America,425591268,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951373630,425591303,BSVckjdW...,Europe,425591304,Kraken,North America,triton-fra,triton-fra,1
+20260610-164405#108951443264,425591575,3SkE34PV...,Europe,425591576,mds4GEui...,Asia,triton-fra,triton-fra,1
+20260610-164405#108951481148,425591723,Twinstake,North America,425591724,A9mvukTd...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951486270,425591743,binance staking,North America,425591744,9UM8wQ8F...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951512868,425591847,Nansen | Stake to Stack Points,Asia,425591848,76rcGHdP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951524152,425591891,Alpha,Europe,425591892,DUND26mE...,Asia,triton-fra,triton-fra,1
+20260610-164405#108951527232,425591903,Watchtower,North America,425591904,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108951650105,425592383,Coinbase,Europe,425592384,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951677729,425592491,binance staking,North America,425592492,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108951705407,425592599,HpcB5Qg8...,Europe,425592600,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108951716661,425592643,JDO Mainnet Validator,Europe,425592644,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108951728960,425592691,Ghost,North America,425592692,5Us18hLZ...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951733038,425592707,Portals,Asia,425592708,9rkJMARq...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951764028,425592828,South,Asia,425592832,Stardust Staking - 0% fee forever + MEV 0% fee,Europe,triton-fra,triton-fra,4
+20260610-164405#108951764239,425592829,South,Asia,425592832,Stardust Staking - 0% fee forever + MEV 0% fee,Europe,triton-fra,triton-fra,3
+20260610-164405#108951779127,425592887,CeJjdkRw...,Europe,425592888,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108951784254,425592907,Forward Industries,North America,425592908,BtsmiEEv...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951874354,425593259,OKX Earn,Asia,425593260,EkvdKhUL...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951930675,425593479,Sign Labs 🤟,North America,425593480,3SkE34PV...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951940921,425593519,ProStaking,North America,425593520,EfPYQ4BU...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951956287,425593579,Birdeye Plus,Europe,425593580,5ejbTALc...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951958833,425593589,FBKFWadX...,Europe,425593592,BtsmiEEv...,Europe,triton-fra,triton-fra,3
+20260610-164405#108951975730,425593655,Galaxy,North America,425593656,5Us18hLZ...,Europe,triton-fra,triton-fra,1
+20260610-164405#108951982902,425593683,A1vqhA2f...,Europe,425593684,9rkJMARq...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952016682,425593815,binance staking,North America,425593816,Anza,Europe,triton-fra,triton-fra,1
+20260610-164405#108952082232,425594071,Rocket,Europe,425594072,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108952112919,425594191,Alchemy,Asia,425594192,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108952114980,425594199,9GHvMeJ4...,Asia,425594200,5RvfTSow...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952145973,425594320,Moise,Asia,425594324,blueshift,Europe,triton-fra,triton-fra,4
+20260610-164405#108952146490,425594322,Moise,Asia,425594324,blueshift,Europe,triton-fra,triton-fra,2
+20260610-164405#108952146691,425594323,Moise,Asia,425594324,blueshift,Europe,triton-fra,triton-fra,1
+20260610-164405#108952182590,425594463,Helius,Europe,425594464,NWY18yrP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952241981,425594695,BtsmiEEv...,Europe,425594696,2GUnfxZa...,Asia,triton-fra,triton-fra,1
+20260610-164405#108952257326,425594755,HnfPZDrb...,Asia,425594756,Hz5aLvpK...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952259382,425594763,Unruggable,Asia,425594764,AoUwfPui...,North America,triton-fra,triton-fra,1
+20260610-164405#108952261428,425594771,OtterSec,North America,425594772,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108952264505,425594783,OtterSec,North America,425594784,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952288052,425594875,32jCuWyy...,North America,425594876,validator.com,Europe,triton-fra,triton-fra,1
+20260610-164405#108952290092,425594883,AicQr2zC...,North America,425594884,Stellium,Asia,triton-fra,triton-fra,1
+20260610-164405#108952319798,425594999,Forward Industries,North America,425595000,Trillium,Europe,triton-fra,triton-fra,1
+20260610-164405#108952458015,425595539,OKX Earn,Asia,425595540,FalconX,North America,triton-fra,triton-fra,1
+20260610-164405#108952468279,425595579,Haus – Best APY & No Fees,Europe,425595580,22rU5yUm...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952471360,425595591,Jupiter,Europe,425595592,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108952504128,425595719,6y7V8dL6...,Europe,425595720,76rcGHdP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952546354,425595884,Ex1AxFCi...,Europe,425595888,Rocket,Europe,triton-fra,triton-fra,4
+20260610-164405#108952578875,425596011,binance staking,North America,425596012,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108952588091,425596047,Appleyello,Europe,425596048,GQzMeEMw...,Asia,triton-fra,triton-fra,1
+20260610-164405#108952602407,425596103,GYx8kpp7...,Asia,425596104,FalconX,North America,triton-fra,triton-fra,1
+20260610-164405#108952615727,425596155,84gC25fb...,Europe,425596156,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108952626993,425596199,GQzMeEMw...,Asia,425596200,[Public Good] Chive 🌱 - 0% Fee + MEV + BlockReward,North America,triton-fra,triton-fra,1
+20260610-164405#108952631079,425596215,Yonta Labs - LST 0%Fee MEV -,North America,425596216,AG 0% fee + ALL MEV profit share,Europe,triton-fra,triton-fra,1
+20260610-164405#108952655659,425596311,5EhGYUyQ...,Asia,425596312,EkvdKhUL...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952662844,425596339,Solana Compass 🧭 Solana For The People,Asia,425596340,ABREU Foundation,South America,triton-fra,triton-fra,1
+20260610-164405#108952699704,425596483,Haus – Best APY & No Fees,Europe,425596484,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108952708922,425596519,PoH PoS,North America,425596520,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952730430,425596603,Aw5wEMXh...,Europe,425596604,Luganodes,Europe,triton-fra,triton-fra,1
+20260610-164405#108952758080,425596711,22rU5yUm...,Europe,425596712,Bitwise Onchain Solutions | Jito BAM,Europe,triton-fra,triton-fra,1
+20260610-164405#108952769340,425596755,kuma🐻validator kumaSOL LST🚀🚀,Asia,425596756,22rU5yUm...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952798009,425596867,GSTampk6...,Europe,425596868,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108952803372,425596888,9UM8wQ8F...,Europe,425596892,Overclock,North America,triton-fra,triton-fra,4
+20260610-164405#108952807231,425596903,Figment,North America,425596904,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108952816412,425596939,GREED Academy - funding education,Asia,425596940,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108952821563,425596959,AMukCLCr...,Europe,425596960,Rocket,Europe,triton-fra,triton-fra,1
+20260610-164405#108952885038,425597207,HnfPZDrb...,Asia,425597208,Kraken,North America,triton-fra,triton-fra,1
+20260610-164405#108952907558,425597295,anarcheuz,Asia,425597296,Hyper 🫨,North America,triton-fra,triton-fra,1
+20260610-164405#108952908586,425597299,Hyper 🫨,North America,425597300,Watchtower,North America,triton-fra,triton-fra,1
+20260610-164405#108952909625,425597303,Watchtower,North America,425597304,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108952915740,425597327,AiSol,Asia,425597328,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108952924990,425597363,StakeThat +MEV,Europe,425597364,Gv9gguvr...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952933175,425597395,GQzMeEMw...,Asia,425597396,Alpha,Europe,triton-fra,triton-fra,1
+20260610-164405#108952947997,425597453,Harmonic Major,Asia,425597456,Upbit Staking,North America,triton-fra,triton-fra,3
+20260610-164405#108952948489,425597455,Harmonic Major,Asia,425597456,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108952962870,425597511,BSVckjdW...,Europe,425597512,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108952972085,425597547,Upbit Staking,North America,425597548,BSVckjdW...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952977200,425597567,binance staking,North America,425597568,9rkJMARq...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952990514,425597619,Solana Mobile Validator,North America,425597620,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108952995645,425597639,Forward Industries,North America,425597640,Aw5wEMXh...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953008951,425597691,DUND26mE...,Asia,425597692,Chainode Tech & MEV(0% Fee),Europe,triton-fra,triton-fra,1
+20260610-164405#108953009967,425597695,Chainode Tech & MEV(0% Fee),Europe,425597696,DUND26mE...,Asia,triton-fra,triton-fra,1
+20260610-164405#108953060160,425597891,OtterSec,North America,425597892,5ZqveVff...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953103151,425598059,livechanger,North America,425598060,22rU5yUm...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953118526,425598119,binance staking,North America,425598120,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953142067,425598211,OtterSec,North America,425598212,Sygnum Validators,Europe,triton-fra,triton-fra,1
+20260610-164405#108953155380,425598263,Jupiter,Europe,425598264,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108953157424,425598271,FzQqaDSt...,Asia,425598272,BkoS26vB...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953242399,425598603,GYx8kpp7...,Asia,425598604,Twinstake,North America,triton-fra,triton-fra,1
+20260610-164405#108953326372,425598931,Upbit Staking,North America,425598932,OKX Earn,Asia,triton-fra,triton-fra,1
+20260610-164405#108953329455,425598943,Portals,Asia,425598944,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108953330465,425598947,Upbit Staking,North America,425598948,Glory to Ukraine,Europe,triton-fra,triton-fra,1
+20260610-164405#108953333552,425598959,8tjFeSAp...,North America,425598961,7QQGNm3p...,Europe,triton-fra,triton-fra,2
+20260610-164405#108953335616,425598967,pSoLoZx5...,Europe,425598968,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108953347897,425599015,5ejbTALc...,Europe,425599016,AEHqTB2R...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953449279,425599411,Jupiter,Europe,425599412,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108953452344,425599423,Gate Earn,North America,425599424,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108953504576,425599627,5Us18hLZ...,Europe,425599628,Rocket,Europe,triton-fra,triton-fra,1
+20260610-164405#108953518135,425599680,0xNull,Asia,425599685,5ejbTALc...,Europe,triton-fra,triton-fra,5
+20260610-164405#108953549609,425599803,Ha1iad3,Asia,425599804,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953591608,425599967,binance staking,North America,425599968,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108953619262,425600075,Twinstake,North America,425600076,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108953654057,425600211,Stakely | 0% fee,Asia,425600212,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108953705278,425600411,G3a3iYZK...,Europe,425600412,livechanger,North America,triton-fra,triton-fra,1
+20260610-164405#108953723710,425600483,FbYX2uN5...,Europe,425600484,H2O Nodes💧,Europe,triton-fra,triton-fra,1
+20260610-164405#108953733916,425600523,OKX Earn,Asia,425600524,Upbit Staking,North America,triton-fra,triton-fra,1
+20260610-164405#108953769783,425600663,Upbit Staking,North America,425600664,Tokamai,Europe,triton-fra,triton-fra,1
+20260610-164405#108953786172,425600727,Nansen | Stake to Stack Points,Asia,425600728,Dosirak 🇰🇷,Europe,triton-fra,triton-fra,1
+20260610-164405#108953788185,425600735,Hz5aLvpK...,Europe,425600736,3SkE34PV...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953805630,425600803,22rU5yUm...,Europe,425600804,JStaking: 0% fee · top returns,Europe,triton-fra,triton-fra,1
+20260610-164405#108953807679,425600811,TomYum,North America,425600812,Vnode,North America,triton-fra,triton-fra,1
+20260610-164405#108953810720,425600823,SolLana,North America,425600824,Sanctum,Europe,triton-fra,triton-fra,1
+20260610-164405#108953818905,425600855,Alchemy,Asia,425600860,HpcB5Qg8...,Europe,triton-fra,triton-fra,5
+20260610-164405#108953834298,425600915,5EhGYUyQ...,Asia,425600916,Anza,Europe,triton-fra,triton-fra,1
+20260610-164405#108953835324,425600919,Anza,Europe,425600920,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108953838386,425600931,DUND26mE...,Asia,425600932,GREED Academy - funding education,Asia,triton-fra,triton-fra,1
+20260610-164405#108953843510,425600951,A1vqhA2f...,Europe,425600952,9rkJMARq...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953897792,425601163,Jupiter,Europe,425601164,Sanctum,Europe,triton-fra,triton-fra,1
+20260610-164405#108953916213,425601235,Coinbase 04,Europe,425601236,3SkE34PV...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953917239,425601239,3SkE34PV...,Europe,425601240,Solana Mobile Validator,North America,triton-fra,triton-fra,1
+20260610-164405#108953922346,425601259,Solana Mobile Validator,North America,425601260,SolGuardian,North America,triton-fra,triton-fra,1
+20260610-164405#108953952064,425601375,Aw5wEMXh...,Europe,425601376,Meria,Asia,triton-fra,triton-fra,1
+20260610-164405#108953954094,425601383,Bybit Staking,Europe,425601384,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108953989930,425601523,2m1A2WM1...,North America,425601524,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108954003731,425601577,Watchtower,North America,425601580,Luganodes,Europe,triton-fra,triton-fra,3
+20260610-164405#108954010427,425601603,Adrastea Validator,Asia,425601604,algo|stake,Europe,triton-fra,triton-fra,1
+20260610-164405#108954016573,425601627,SolBrothers,North America,425601628,Staking Facilities | MEV 🔥,Europe,triton-fra,triton-fra,1
+20260610-164405#108954032957,425601691,Helius,Europe,425601692,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260610-164405#108954041148,425601723,Helius,Europe,425601724,Solana Compass 🧭 Solana For The People,Asia,triton-fra,triton-fra,1
+20260610-164405#108954047291,425601747,Nansen | Stake to Stack Points,Asia,425601748,Overclock,North America,triton-fra,triton-fra,1
+20260610-164405#108954051385,425601763,5ejbTALc...,Europe,425601764,Bitwise Onchain Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108954072881,425601847,Blossom,Europe,425601848,Chainflow,Europe,triton-fra,triton-fra,1
+20260610-164405#108954080053,425601875,Forward Industries,North America,425601876,Hamsa,Europe,triton-fra,triton-fra,1
+20260610-164405#108954091327,425601919,Sygnum Validators,Europe,425601920,Hamsa,Europe,triton-fra,triton-fra,1
+20260610-164405#108954097472,425601943,Helius,Europe,425601944,HnfPZDrb...,Asia,triton-fra,triton-fra,1
+20260610-164405#108954108730,425601987,Staking Facilities | MEV 🔥,Europe,425601988,BLOCKSIZE,Europe,triton-fra,triton-fra,1
+20260610-164405#108954112287,425602001,5ZqveVff...,Europe,425602004,Overclock,North America,triton-fra,triton-fra,3
+20260610-164405#108954115903,425602015,Solana Qubits,North America,425602016,Syndica,Europe,triton-fra,triton-fra,1
+20260610-164405#108954133312,425602083,Kiln1,Europe,425602084,Sol4Geeks,North America,triton-fra,triton-fra,1
+20260610-164405#108954154006,425602164,AicQr2zC...,North America,425602168,binance staking,North America,triton-fra,triton-fra,4
+20260610-164405#108954160945,425602191,Upbit Staking,North America,425602192,melea 🚀 SOL 🤑2K,Europe,triton-fra,triton-fra,1
+20260610-164405#108954192701,425602315,Upbit Staking,North America,425602316,FbYX2uN5...,Europe,triton-fra,triton-fra,1
+20260610-164405#108954221369,425602427,Drift,Europe,425602428,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108954257210,425602567,Helius,Europe,425602568,mds4GEui...,Asia,triton-fra,triton-fra,1
+20260610-164405#108954275634,425602639,Solayer Validator [5% Commission + 100% MEV Kickback],North America,425602640,OneLink Solutions,Europe,triton-fra,triton-fra,1
+20260610-164405#108954321724,425602819,Solya,Asia,425602820,algo|stake,Europe,triton-fra,triton-fra,1
+20260610-164405#108954368823,425603003,HnfPZDrb...,Asia,425603004,Solana Compass 🧭 Solana For The People,Asia,triton-fra,triton-fra,1
+20260610-164405#108954382138,425603055,5EhGYUyQ...,Asia,425603056,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108954420491,425603205,Laine ❤️  by SOL Strategies,Europe,425603227,BUv44cVt...,Europe,triton-fra,triton-fra,22
+20260610-164405#108954423081,425603215,Upbit Staking,North America,425603232,76rcGHdP...,Europe,triton-fra,triton-fra,17
+20260610-164405#108954427194,425603231,Fountainhead 🌱 Funding Dev WITH max APY,Europe,425603232,76rcGHdP...,Europe,triton-fra,triton-fra,1
+20260610-164405#108954434366,425603259,zim.one | 0️⃣0️⃣,North America,425603260,Solmate - RockawayX powered,Asia,triton-fra,triton-fra,1
+20260610-164405#108954444604,425603299,5EhGYUyQ...,Asia,425603300,Helius,Europe,triton-fra,triton-fra,1
+20260610-164405#108954464056,425603375,DUND26mE...,Asia,425603376,2m1A2WM1...,North America,triton-fra,triton-fra,1
+20260610-164405#108954466098,425603383,5RvfTSow...,Europe,425603384,Helius,Europe,triton-fra,triton-fra,1
+20260611-064816#108982289181,425712067,Nansen | Stake to Stack Points,Asia,425712068,Helius,Europe,triton-fra,triton-fra,1
+20260611-064816#108982306623,425712135,Helius,Europe,425712136,Quatro,Europe,triton-fra,triton-fra,1
+20260611-064816#108982317883,425712179,5Us18hLZ...,Europe,425712180,Solana Mobile Validator,North America,triton-fra,triton-fra,1
+20260611-064816#108982401851,425712507,Aw5wEMXh...,Europe,425712508,3SkE34PV...,Europe,triton-fra,triton-fra,1
+20260611-064816#108982418239,425712571,Kraken 2,North America,425712572,Helius,Europe,triton-fra,triton-fra,1
+20260611-064816#108982445879,425712679,AHZxzLeR...,North America,425712680,GSTampk6...,Europe,triton-fra,triton-fra,1
+20260611-064816#108982478610,425712807,Simpdigit,Asia,425712808,Coinbase 02,Europe,triton-fra,triton-fra,1
+20260611-064816#108982482750,425712823,6y7V8dL6...,Europe,425712824,7QQGNm3p...,Europe,triton-fra,triton-fra,1
+20260611-064816#108982491935,425712859,Upbit Staking,North America,425712860,binance staking,North America,triton-fra,triton-fra,1
+20260611-064816#108982514949,425712949,Moise,Asia,425712952,binance staking,North America,triton-fra,triton-fra,3
+20260611-064816#108982516543,425712955,binance staking,North America,425712956,Helius,Europe,triton-fra,triton-fra,1
+20260611-064816#108982550324,425713087,BtsmiEEv...,Europe,425713088,AEHqTB2R...,Europe,triton-fra,triton-fra,1
+20260611-064816#108982554429,425713103,Jupiter,Europe,425713104,HpcB5Qg8...,Europe,triton-fra,triton-fra,1
+20260611-064816#108982556479,425713111,P2P.org,Europe,425713112,Exo Tech,North America,triton-fra,triton-fra,1
+20260611-064816#108982601525,425713287,6y7V8dL6...,Europe,425713288,Helius,Europe,triton-fra,triton-fra,1
+20260611-064816#108982622013,425713367,Haus – Best APY & No Fees,Europe,425713368,Helius,Europe,triton-fra,triton-fra,1
+20260611-064816#108982636351,425713423,Waterloo Blockchain,Europe,425713424,"Moutai Validator 🚀 Performant, Secure and NO Fees",Europe,triton-fra,triton-fra,1
+20260611-064816#108982640413,425713439,Neumann,Asia,425713440,Upbit Staking,North America,triton-fra,triton-fra,1
+20260611-064816#108982641470,425713443,Upbit Staking,North America,425713444,Valigator Open,North America,triton-fra,triton-fra,1
+20260611-064816#108982669114,425713551,MeshMap,Europe,425713552,Helius,Europe,triton-fra,triton-fra,1
+20260611-064816#108982706992,425713699,FBKFWadX...,Europe,425713700,Iggyz,North America,triton-fra,triton-fra,1
+20260611-064816#108982711070,425713715,Shinobi Systems 🚀 stakeview.app,North America,425713716,xLabs,South America,triton-fra,triton-fra,1
+20260611-064816#108982712089,425713719,xLabs,South America,425713720,DUND26mE...,Asia,triton-fra,triton-fra,1
+20260611-064816#108982713129,425713723,DUND26mE...,Asia,425713724,BSVckjdW...,Europe,triton-fra,triton-fra,1
+20260611-064816#108982714161,425713727,BSVckjdW...,Europe,425713728,2GUnfxZa...,Asia,triton-fra,triton-fra,1
+20260611-064816#108982734622,425713807,Ledger by Figment,Europe,425713808,A9mvukTd...,Europe,triton-fra,triton-fra,1
+20260611-064816#108982736697,425713815,Upbit Staking,North America,425713816,佛金疯 Solana Chinese Community,North America,triton-fra,triton-fra,1

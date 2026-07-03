@@ -1,0 +1,565 @@
+leader_identity,leader_name,leader_stake_sol,leader_dc,sv_city,sv_country,sv_continent,n_triggers,landed_any,no_winner,inclusion_rate,no_winner_rate,top_sender,top_sender_wins,gate_label
+HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU,Helius,15273170.507212164,399460-GB-City of London,London,United Kingdom,Europe,828,755,73,0.9118,0.0882,helius-dual,439,inferential
+Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk,Figment,14805455.23262666,16276-CA-Beauharnois,Montreal,Canada,North America,656,590,66,0.8994,0.1006,0slot-de1,477,inferential
+DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy,binance staking,13397137.48546872,14618-US-Ashburn,Ashburn,United States,North America,804,737,67,0.9167,0.0833,0slot-de1,394,inferential
+JupmVLmA8RoyTUbTMMuTtoPWHEiNQobxgTeGTrPNkzT,Jupiter,12813614.243037611,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,644,595,49,0.9239,0.0761,helius-dual,474,inferential
+q9XWcZ7T1wP4bW9SB4XgNNwjnFEJ982nE8aVbbNuwot,Ledger by Figment,9109026.0355327,59642-NL-Amsterdam,Frankfurt,Germany,Europe,448,409,39,0.9129,0.0871,0slot-de1,354,inferential
+E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL,Bitwise Onchain Solutions,8124834.502476332,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,428,404,24,0.9439,0.0561,helius-dual,145,inferential
+EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4,Everstake,7474254.922573255,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,283,227,56,0.8021,0.1979,astralane-fra,103,inferential
+CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4,Kraken 2,6994178.199867954,1072-US-America/Chicago,Lansing,United States,North America,327,270,57,0.8257,0.1743,astralane-fra,103,inferential
+Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM,Staking Facilities | MEV 🔥,6651179.74745366,9002-DE-Frankfurt am Main,Munich,Germany,Europe,335,257,78,0.7672,0.2328,astralane-fra,103,inferential
+9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP,,6122616.97803968,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,365,285,80,0.7808,0.2192,nextblock-quic-fra,87,inferential
+5pPRHniefFjkiaArbGX3Y8NUysJmQ9tMZg3FrFGwHzSm,Kiln1,5959646.200990725,7979-LU-Europe/Luxembourg,Amsterdam,Netherlands,Europe,288,268,20,0.9306,0.0694,helius-dual,236,inferential
+JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB,Forward Industries,5935743.903304452,400963-GB-Europe/London,New York,United States,North America,244,200,44,0.8197,0.1803,0slot-de1,154,inferential
+9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY,Galaxy,5837887.961927993,400963-GB-Europe/London,New York,United States,North America,298,247,51,0.8289,0.1711,0slot-de1,187,inferential
+5Cchr1XGEg7dbBXByV5NY2ad8jfxAM7HA3x8D56rq9Ux,Upbit Staking,5510480.902925255,16509-US-Boardman,Boardman,United States,North America,321,248,73,0.7726,0.2274,nextblock-quic-fra,59,inferential
+9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ,,4526985.98437677,16509-DE-Frankfurt am Main,Frankfurt,Germany,Europe,236,223,13,0.9449,0.0551,nextblock-quic-fra,72,inferential
+FBKFWadXZJahGtFitAsBvbqh5968gLY7dMBBJUoUjeNi,,4045977.90689904,20326-IE-Dublin,Dublin,Ireland,Europe,221,172,49,0.7783,0.2217,astralane-fra,68,inferential
+5ZqveVffQPiUbkjBg4KD9kib1MKHLqiFno4ke9jSq9qk,,3995081.302177584,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,177,151,26,0.8531,0.1469,astralane-fra,84,inferential
+BtsmiEEvnSuUnKxqXj2PZRYpPJAc7C34mGz8gtJ1DAaH,,3992045.196130649,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,220,176,44,0.8,0.2,astralane-fra,84,inferential
+EkvdKhULbMFqjKBKotAzGi3kwMvMpYNDKJXXQQmi6C1f,,3983581.254749241,262287-NL-Amsterdam,Amsterdam,Netherlands,Europe,238,183,55,0.7689,0.2311,astralane-fra,71,inferential
+J6etcxDdYjPHrtyvDXrbCkx3q9W1UjMj1vy1jBFPJEbK,,3889304.21771646,20326-US-Newark,Newark,United States,North America,190,151,39,0.7947,0.2053,astralane-quic-fra,46,inferential
+Hz5aLvpKScNWoe9YZWxBLrQA3qzHJivBGtfciMekk8m5,,3878809.88601983,20326-GB-City of London,London,United Kingdom,Europe,233,194,39,0.8326,0.1674,astralane-fra,70,inferential
+A1vqhA2fS6K7CvHsJKX1ACcHJFEmyRg4KuR5pctHANy4,,3847387.535297571,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,217,180,37,0.8295,0.1705,astralane-quic-fra,69,inferential
+FNKgX9dYUhYQFRTM9bkeKoRpsyEtZGNMxbdQLDzfqB8a,Coinbase 04,3740258.384315453,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,188,148,40,0.7872,0.2128,astralane-fra,57,inferential
+9UM8wQ8F5oMiRcP5YdqD6Lr4krpBWCD8LtgQYoisJd9i,,3625910.243564009,396356-GB-City of London,London,United Kingdom,Europe,215,185,30,0.8605,0.1395,astralane-fra,70,inferential
+shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj,blueshift,3619122.940842364,395201-DE-Rüsselsheim am Main,Rüsselsheim am Main,Germany,Europe,212,177,35,0.8349,0.1651,astralane-fra,80,inferential
+5EhGYUyQNrxgUbuYF4vbL2SZDT6RMfhq3yjeyevvULeC,,3598006.0679959,20326-JP-Tokyo,Tokyo,Japan,Asia,156,136,20,0.8718,0.1282,0slot-de1,49,inferential
+DWvDTSh3qfn88UoQTEKRV2JnLt5jtJAVoiCo3ivtMwXP,P2P.org,3503851.127003149,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,232,215,17,0.9267,0.0733,syncro-fra,198,inferential
+krakeNd6ednDPEXxHAmoBs1qKVM8kLg79PvWF2mhXV1,Kraken,2990670.325464761,1072-US-America/Chicago,Lansing,United States,North America,216,203,13,0.9398,0.0602,0slot-de1,103,inferential
+GoeW4aFK4dGoekJySgUynWDxBZiQJqm8GDAF4H53tDK9,Twinstake,2961737.681787571,214434-NL-Europe/Amsterdam,George Town,,North America,155,126,29,0.8129,0.1871,astralane-fra,45,inferential
+DrifTrN923QaouP89UxkQzFGbumKPCnfkNYQRwmZxatz,Drift,2951159.908637264,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,116,106,10,0.9138,0.0862,0slot-de1,56,inferential
+GBQ2GvTzmjXMu97dr7WUnLKYTNim1aoZsYS53KYXAAAA,Bitwise Onchain Solutions | Jito BAM,2925076.670518391,60068-NL-Amsterdam,Amsterdam,Netherlands,Europe,163,152,11,0.9325,0.0675,0slot-de1,84,inferential
+6y7V8dL673XFzm9QyC5vvh3itWkp7wztahBd2yDqsyrK,,2916667.65537848,16125-LT-Vilnius,Šiauliai,Lithuania,Europe,152,128,24,0.8421,0.1579,triton-fra,60,inferential
+Fc6NNdS2j3EmrWbU6Uqt6wsKB5ef72NjaWfNxKYbULGD,OKX Earn,2814370.359069755,45102-SG-Asia/Singapore,Singapore,Singapore,Asia,164,150,14,0.9146,0.0854,0slot-de1,88,inferential
+7cVfgArCheMR6Cs4t6vz5rfnqd56vZq4ndaBrY5xkxXy,Blockdaemon 🧱👿 Validator,2683847.211534684,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,160,142,18,0.8875,0.1125,0slot-de1,118,inferential
+BkoS26vBuaXnSowACdChi4WKid8UwmuPNhEJWa8KsLHd,,2671181.123934251,16509-DE-Frankfurt am Main,Frankfurt,Germany,Europe,160,153,7,0.9563,0.0437,nextblock-quic-fra,60,inferential
+3psxMyr7rQzywVp1MXKd1XFmFz33NjydzCoJx9t2sMQW,OtterSec,2637870.667300791,395201-US-Sterling,Sterling,United States,North America,130,119,11,0.9154,0.0846,astralane-fra,40,inferential
+CoG8d9Fp2TFJRkAmrPMiPsGhQWHzdTTVoegEp9svRgmJ,Nansen | Stake to Stack Points,2584460.203710469,29802-SG-Singapore,Singapore,Singapore,Asia,132,123,9,0.9318,0.0682,0slot-de1,72,inferential
+GSTampk6BJRKSDkzhaMM49R7qRx98MTPYYWvKbp83XKc,,2502415.693398342,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,172,162,10,0.9419,0.0581,0slot-de1,83,inferential
+5ejbTALcBsKQ7Cj1iSuu2mY5jqbYHqh9gF5ERXLiYj1z,,2502415.680489477,16125-LT-Vilnius,Šiauliai,Lithuania,Europe,140,128,12,0.9143,0.0857,0slot-de1,55,inferential
+GQzMeEMwAR44ugoNCifTb5NdRKos1GduDUPeNh6AgV46,,2502395.555572177,20326-JP-Tokyo,Tokyo,Japan,Asia,116,104,12,0.8966,0.1034,blockrazor,35,inferential
+BSVckjdW2f8kcXPGcrPPtV9kUDBZ8w8PjrrGVnxgEdwq,,2502391.14187419,16125-LT-Vilnius,Šiauliai,Lithuania,Europe,128,113,15,0.8828,0.1172,triton-fra,53,inferential
+76rcGHdPvgs8G1XrzCXUTWtwgT59AFDvpB4VbTS2TBBJ,,2502383.46042285,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,140,128,12,0.9143,0.0857,nextblock-quic-fra,36,inferential
+3SkE34PVeGck2ArEffFKjihrQgURsvnoTAhitsNXNzXd,,2500000.947676992,214159-SE-Stockholm,Stockholm,Sweden,Europe,120,112,8,0.9333,0.0667,astralane-quic-fra,48,inferential
+HpcB5Qg8Y9E73dUkot5e8HkgAJbExsYeUzniY4bCuKac,,2500000.93738256,16125-LT-Vilnius,Šiauliai,Lithuania,Europe,136,119,17,0.875,0.125,triton-fra,51,inferential
+DUND26mEDfFeaPsVof3YvbXDRvpuQX7HMUJrLgEWzYw4,,2499999.99217168,20326-JP-Tokyo,Tokyo,Japan,Asia,120,94,26,0.7833,0.2167,blockrazor,31,inferential
+Aw5wEMXhbygFLR7jHtHpih8QvxVBGAMTqsQ2SjWPk1ex,,2499999.93966544,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,144,135,9,0.9375,0.0625,nextblock-quic-fra,43,inferential
+2GUnfxZavKoPfS9s3VSEjaWDzB3vNf5RojUhprCS1rSx,,2499999.93966544,20326-JP-Tokyo,Tokyo,Japan,Asia,127,99,28,0.7795,0.2205,blockrazor,27,inferential
+FbYX2uN573G5WsgiPdHU6fS5PNUyjdXfGfpZNkYUuT4k,,2409417.943075628,214159-SE-Stockholm,Stockholm,Sweden,Europe,111,101,10,0.9099,0.0901,astralane-fra,46,inferential
+9W3QTgBhkU4Bwg6cwnDJo6eGZ9BtZafSdu1Lo9JmWws7,Coinbase 03,2380024.360647529,20326-JP-Tokyo,Tokyo,Japan,Asia,117,99,18,0.8462,0.1538,0slot-de1,31,inferential
+22rU5yUmdVThrkoPieVNphqEyAtMQKmZxjwcD8v4bJDU,,2322629.005990086,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,144,108,36,0.75,0.25,nextblock-quic-fra,27,inferential
+6WgdYhhGE53WrZ7ywJA15hBVkw7CRbQ8yDBBTwmBtAHN,Luganodes,2292094.561368708,29066-DE-Frankfurt am Main,Frankfurt,Germany,Europe,156,144,12,0.9231,0.0769,0slot-de1,69,inferential
+7qGNnXKW1e3DsqEaSxwxMdBTFsrK73XtWTmkGitRyMQc,Alchemy,2260370.374053408,20326-SG-Singapore,Singapore,Singapore,Asia,128,124,4,0.9688,0.0312,0slot-de1,62,inferential
+HnfPZDrbJFooiP9vvgWrjx3baXVNAZCgisT58gyMCgML,,2182665.92162986,20326-SG-Singapore,Singapore,Singapore,Asia,140,132,8,0.9429,0.0571,nextblock-quic-fra,36,inferential
+ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY,Anagram Staking,2117370.119251692,20473-FR-Aubervilliers,Aubervilliers,France,Europe,120,116,4,0.9667,0.0333,0slot-de1,71,inferential
+AEHqTB2RtJjegsR2ePjvoJSm6AA5pnYKWVbcsn6kqTBD,,2083334.28043832,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,108,95,13,0.8796,0.1204,nextblock-quic-fra,29,inferential
+5TGfVQV1S3wHE9hkgGaQkRoPC7xZxiqwMcjQZxVYsf1j,Sanctum,2050472.540658947,396356-DE-Frankfurt (Oder),Frankfurt,Germany,Europe,106,90,16,0.8491,0.1509,astralane-quic-fra,26,inferential
+AWcCdYG7Dy6GX45c6QMPbgGwgRZPKcBDT4bXGb3QrVRV,,2013800.997122051,57043-NL-Europe/Amsterdam,Zurich,Switzerland,Europe,108,100,8,0.9259,0.0741,triton-fra,46,inferential
+2m1A2WM1vte7RWz5xTTw4i1SiXmngVtXhqFERaUjoAAb,,2005488.249610397,204770-US-Chicago,Chicago,United States,North America,96,87,9,0.9062,0.0938,0slot-de1,48,inferential
+BUv44cVtsdvU9z2BfFGk6s5JZZWrmVnq5qCaii5ARyyB,,1937411.101863464,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,112,107,5,0.9554,0.0446,0slot-de1,59,inferential
+DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf,Firedancer Development,1885482.017047322,7979-NL-Europe/Amsterdam,Frankfurt,Germany,Europe,80,70,10,0.875,0.125,nextblock-quic-fra,34,inferential
+FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89,,1885211.381729118,7979-NL-Europe/Amsterdam,Amsterdam,United States,North America,77,61,16,0.7922,0.2078,nextblock-quic-fra,23,inferential
+FzQqaDStQQHs52YKeCnDovwSqvyZBCgs2kJcmvoFZwaS,,1881605.316350045,20326-SG-Singapore,Singapore,Singapore,Asia,92,83,9,0.9022,0.0978,0slot-de1,39,inferential
+7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE,,1875000.9534662,16125-LT-Vilnius,Šiauliai,Lithuania,Europe,121,97,24,0.8017,0.1983,astralane-fra,49,inferential
+3JotfSFPaod4KVK7nj7ULvcq5PjUBdZNVGracNkJNhrt,,1837000.18355872,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,112,95,17,0.8482,0.1518,0slot-de1,50,inferential
+HbidP4hpQdwhkzrxder3x3VNPt6DQnE25gFG46napD2p,,1835664.80072854,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,64,61,3,0.9531,0.0469,0slot-de1,41,inferential
+CW9C7HBwAMgqNdXkNgFg9Ujr3edR2Ab9ymEuQnVacd1A,Coinbase 02,1673161.551908942,20326-GB-City of London,London,United Kingdom,Europe,64,47,17,0.7344,0.2656,astralane-fra,17,inferential
+EUcJwf7jXskRE6NZBtFPVH2EedNvNYko8LL2WT62XctB,StakeBowl,1600008.254717183,395201-DE-Offenbach,Frankfurt,Germany,Europe,96,90,6,0.9375,0.0625,0slot-de1,59,inferential
+ChorusmmK7i1AxXeiTtQgQZhQNiXYU84ULeaYF1EH15n,Bitwise Onchain Solutions 02,1566173.716563526,60068-NL-Amsterdam,Amsterdam,Netherlands,Europe,80,67,13,0.8375,0.1625,0slot-de1,58,inferential
+6aDs9tUm2gErcPn2c1TZnp5cu2bQV9BzyuwW4baWQYd4,Coinbase 05,1523304.396206828,20326-IE-Dublin,Dublin,Ireland,Europe,72,70,2,0.9722,0.0278,triton-fra,37,inferential
+pSoLoZx55zZz61gjxSTwHtwTg4yTwdm7ruBmyjbYgT2,,1502876.532746079,20326-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,91,80,11,0.8791,0.1209,astralane-fra,33,inferential
+7y5VhV4fkz6r4zUmH2UiwPjLwXzPL1PcV28or5NWkWRL,Haus – Best APY & No Fees,1493447.4477205,395201-DE-Fechenheim,Frankfurt,Germany,Europe,98,89,9,0.9082,0.0918,triton-fra,37,inferential
+GYx8kpp7SsRwtQEEsGQjAxb4hFMMmT91kFJuDeky3YGQ,,1463528.651975061,20326-JP-Tokyo,Tokyo,Japan,Asia,104,83,21,0.7981,0.2019,0slot-de1,22,inferential
+722RdWmHC5TGXBjTejzNjbc8xEiduVDLqZvoUGz6Xzbp,Solflare,1425791.501422189,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,72,68,4,0.9444,0.0556,0slot-de1,39,inferential
+EXckihF3qmguH5znjhfzLvHsbk2E3nEW2DqNh4MMnDMm,,1416569.588393383,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,80,65,15,0.8125,0.1875,nozomi-fra,23,inferential
+Ninja1spj6n9t5hVYgF3PdnYz2PLnkt7rvaw3firmjs,Shinobi Systems 🚀 stakeview.app,1402962.716685036,6939-CA-Vancouver,New York,United States,North America,112,106,6,0.9464,0.0536,0slot-de1,90,inferential
+6TkKqq15wXjqEjNg9zqTKADwuVATR9dW3rkNnsYme1ea,melea 🚀 SOL 🤑2K,1402191.208891092,29802-NL-Amsterdam,Amsterdam,Netherlands,Europe,68,60,8,0.8824,0.1176,triton-fra,28,inferential
+CG4tRANBKrzUmpv93V5sgftjQznBdiJsc2yPCzZWWuS9,Bybit Staking,1398055.91368806,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,76,70,6,0.9211,0.0789,0slot-de1,46,inferential
+A9mvukTd77EbRoBX4ydSCFQHdu5bsRFkNXTTRstA8FAC,,1382000.925387896,16276-DE-Frankfurt am Main,Limburg an der Lahn,Germany,Europe,56,53,3,0.9464,0.0536,0slot-de1,44,inferential
+CfgRXmp1LEYr97EaT2RyoL2cSvtWgJh52Bes89RxVSoW,Blockman,1370505.12873796,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,52,46,6,0.8846,0.1154,0slot-de1,26,inferential
+AMukCLCr52XxsEjXoDxKKxjNg4FpnsReXNaQx8aR6DJF,,1342755.836171137,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,112,93,19,0.8304,0.1696,astralane-fra,49,inferential
+privaEdSEmnMPGPoQACUkcDGkFBbTArVvsEGd7C5wUM,,1324631.001,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,81,59,22,0.7284,0.2716,astralane-quic-fra,24,inferential
+G3a3iYZKNLbivothF3twqcaTCEvoPb9uJ2bFc9DNKkBQ,,1324631.001,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,64,61,3,0.9531,0.0469,triton-fra,28,inferential
+CMPSSdrTnRQBiBGTyFpdCc3VMNuLWYWaSkE8Zh5z6gbd,Solana Compass 🧭 Solana For The People,1299839.613960029,20473-JP-Minamishinagawa,Tokyo,Japan,Asia,80,71,9,0.8875,0.1125,0slot-de1,30,inferential
+HLnodbYkL5PFA8hjAZDkm5pGzV7eLTvcs671AW2L6St9,PoH PoS,1280755.837150399,262287-US-Chicago,Chicago,United States,North America,52,47,5,0.9038,0.0962,0slot-de1,25,inferential
+C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA,Overclock,1280477.384117126,60068-US-New York,New York,United States,North America,76,75,1,0.9868,0.0132,0slot-de1,36,inferential
+HTeRsa3gm3CGrizMoCrtWj4uBZ1NKYcGqh8jfBu2u3Jo,,1240977.903638858,214783-NL-Europe/Amsterdam,London,United Kingdom,Europe,107,91,16,0.8505,0.1495,astralane-fra,39,inferential
+DTSUkYHd2e9P2HLyZfbLarsbDdPhQUhZnWjRYuJZQRC8,Temporal Emerald,1235012.392590441,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,56,44,12,0.7857,0.2143,astralane-fra,23,inferential
+5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS,,1207979.324911175,214159-SE-Stockholm,Stockholm,Sweden,Europe,48,38,10,0.7917,0.2083,astralane-quic-fra,17,inferential
+PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb,Pumpkin's Pool ❤️,1090328.481757581,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,44,41,3,0.9318,0.0682,0slot-de1,23,inferential
+5essVpBYvocZkQnkrWsMDfRPwtp4BeihJRaweKLR4dRn,Certora Validator,1059441.593821837,262287-US-New York,Wilmington,United States,North America,40,33,7,0.825,0.175,triton-fra,17,inferential
+8tjFeSApQ85ThoQXT28acfF2KUfQr3TvTdirSkzNnYC7,,1057648.581602041,16276-CA-Beauharnois,Montreal,Canada,North America,80,75,5,0.9375,0.0625,helius-dual,55,inferential
+G9vCpJUUSpEm4zPwzSNpDmZ8MGwLEbiSLV59EBzCGvzM,AP Node,1019919.909149877,16509-JP-Tokyo,Tokyo,Japan,Asia,92,78,14,0.8478,0.1522,0slot-de1,25,inferential
+G2TBEh2ahNGS9tGnuBNyDduNjyfUtGhMcssgRb8b6KfH,AG 0% fee + ALL MEV profit share,1013093.704998903,395201-DE-Rödelheim,Limburg an der Lahn,Germany,Europe,48,43,5,0.8958,0.1042,nextblock-quic-fra,19,inferential
+GmCxjmjKZoaKN1DKunbYq8RCYib94Nm3sHyncFfofaF5,Rocket,1010398.410419899,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,63,57,6,0.9048,0.0952,triton-fra,34,inferential
+8uJiHDJ1b7UDQ4KFsQGJXK9nUCkokdKRJymg1Wy9nxvM,Alpha,1007980.415925689,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,80,77,3,0.9625,0.0375,triton-fra,36,inferential
+vu1sGn2f1Xim6voHNLt4nLn38zNkYdLasU7hEr1TC2D,Allnodes ⚡️ 0% fee,1005372.737177675,395201-DE-Offenbach,Frankfurt,Germany,Europe,48,41,7,0.8542,0.1458,0slot-de1,25,inferential
+6ptuwW4rg5A3wP9hNKxeymG3QhSagugPd3grnMTGJwWG,,999999.99871712,20326-GB-City of London,London,United Kingdom,Europe,48,41,7,0.8542,0.1458,nextblock-quic-fra,14,inferential
+Ha1iade1AH3B12K9SccfWoPdFtQKKQsj2ZyWwxcjqJJU,Ha1iad3,951405.145199583,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,60,53,7,0.8833,0.1167,0slot-de1,16,inferential
+6xWLi1TDSh65fWsSqE1zdvANTSuVDRMx4ghsGJwgunS8,Solana Validator,936920.932423679,395201-DE-Fechenheim,Frankfurt,Germany,Europe,48,47,1,0.9792,0.0208,0slot-de1,30,inferential
+FWwwP9tNttSy9dJFxwf6ebXWfc6VJXqFNMTccrMiLFTH,Quatro,920199.93718662,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,64,61,3,0.9531,0.0469,triton-fra,27,inferential
+9WzPWqKSqbE5PT9hMsmCDFjzpurAXEYCE9qrpVWp28KR,,915832.028549104,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,40,37,3,0.925,0.075,helius-fra,12,inferential
+AiDoLWFKzNxSXKeZ4zym2TEPkg6F4kQ3YBA8WhANVPEq,AiDoL,909056.653193272,396356-DE-Frankfurt am Main,Frankfurt,Germany,Europe,32,28,4,0.875,0.125,0slot-de1,15,inferential
+t23p8aBQN6P6tziMuN5XPmzqVRrip9oes7KuQwSmate,Solmate - RockawayX powered,895607.723851561,205064-AE-Asia/Dubai,Dubai,United Arab Emirates,Asia,42,37,5,0.881,0.119,0slot-de1,26,inferential
+Ex1AxFCipXGfSxgvXPPT3nPQUARddCduHwKR6jHiXAaT,,885906.743331649,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,44,38,6,0.8636,0.1364,astralane-quic-fra,16,inferential
+HH5dA42XF1HxNk1TRpG6LuKfLViMYNdAz5iWrFM4hWFi,Trust Nodes,885438.21282158,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,48,43,5,0.8958,0.1042,helius-dual,35,inferential
+58KprHKFNHgH1Cvo4QwxWkDeJNaSQVteCoAAFUWjtESn,Flash,864555.339488551,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,24,20,4,0.8333,0.1667,triton-fra,10,inferential
+CwyVpfmfSiMeCexi3JgUNvaiDfYN14cLDjzT99zcBuD2,Hamsa,830580.782039468,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,40,37,3,0.925,0.075,0slot-de1,18,inferential
+VQwCCSfW3o5NDx7n5FBr9SoYiLXVgetstHvaWBvv2YH,,821958.23142822,400963-GB-Europe/London,New York,United States,North America,52,41,11,0.7885,0.2115,bloxroute-fra,9,inferential
+BXAxLMMMUNYfC1z166VjWHR3WjTmqzLxB837o5ghmRtH,,819007.27930351,20326-IE-Dublin,Dublin,Ireland,Europe,36,32,4,0.8889,0.1111,triton-fra,17,inferential
+ACvL73V4GNnxPVfZ7K89jCrYurLyzpEuE9qirjvh2Xmi,Kiln2,807795.031382099,7979-LU-Europe/Luxembourg,Amsterdam,Netherlands,Europe,44,41,3,0.9318,0.0682,helius-dual,36,inferential
+Gv9gguvrAkgQtB5g5a3Un7trcHCxLYsk8vSojLmQMsWV,,800935.210653536,20326-US-Newark,London,United Kingdom,Europe,48,45,3,0.9375,0.0625,helius-dual,20,inferential
+4mtXJ5pUcMMB4t8cLbi7zfDJCHfYLRrQb4qSLmh57sKL,,788286.318306429,20326-NL-Europe/Amsterdam,Dublin,Ireland,Europe,24,20,4,0.8333,0.1667,triton-fra,8,inferential
+5RvfTSowms7BTYaBj8SxVjj7ELAAKdQadKsuNpmBAwCs,,782090.270399657,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,44,37,7,0.8409,0.1591,astralane-quic-fra,21,inferential
+E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F,MAVAN,768371.553479049,16276-DE-Frankfurt am Main,Limburg an der Lahn,Germany,Europe,20,20,0,1.0,0.0,0slot-de1,19,inferential
+7PdKhpKz7T39vZHFL1UfcYNDsLvay6hp4KPQq1aUckFf,Alpha Pro | High APY🚀 100% Reliable ⭐ VIP Services,761211.033617563,20326-NL-Europe/Amsterdam,Frankfurt,Germany,Europe,54,39,15,0.7222,0.2778,astralane-fra,12,inferential
+H8fHToVcZPi5bupGZohGPX2SWs8NHzgFKQ31wi5n6oux,,753844.104648432,16276-EN-London,Amsterdam,Netherlands,Europe,28,27,1,0.9643,0.0357,0slot-de1,24,inferential
+AicQr2zCWBLiBwt2r6o7iTemmtyE7q5pTKyuuupbXEQA,,740161.296347365,20326-US-Pittsburgh,Pittsburgh,United States,North America,56,48,8,0.8571,0.1429,astralane-fra,18,inferential
+HM1KjNaXa4w8K4gCXbieoMh5gUTNeUhg9fvdXMKeBW3L,Hello Moon,731807.376049249,395201-DE-Rödelheim,Frankfurt,Germany,Europe,24,20,4,0.8333,0.1667,astralane-fra,9,inferential
+6XKqyUVUcpe3CNucjF6gk5zonJDqNGvob6kaTy4Ps1U,Solana Mobile Validator,728638.549234571,60068-US-Dallas,Dallas,United States,North America,44,37,7,0.8409,0.1591,0slot-de1,22,inferential
+XkCriyrNwS3G4rzAXtG5B1nnvb5Ka1JtCku93VqeKAr,Coinbase,720641.192891512,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,32,26,6,0.8125,0.1875,astralane-fra,9,inferential
+BUokhb8pPF9MZuzW3rHLr6jzakgcz3NDq2PZkpiVv3jb,DeFi Dev Corp (NASDAQ: DFDV),681722.290230985,3402-DE-Frankfurt am Main,Frankfurt,Germany,Europe,39,32,7,0.8205,0.1795,astralane-quic-fra,17,inferential
+CaveyttUBTKttncu1e4RF814XjuoGfYv8cEsiKGDNCPX,Cavey Cool,679345.815723019,3402-US-Newark,Newark,United States,North America,36,32,4,0.8889,0.1111,astralane-fra,14,inferential
+6yFGGAgYpBxgYPuHW4rv7hJmhKrUiXKyHkpVGaYtKrwE,Watchtower,671414.858811164,204770-US-Chicago,Chicago,United States,North America,58,40,18,0.6897,0.3103,0slot-de1,13,inferential
+23SUe5fzmLws1M58AnGnvnUBRUKJmzCpnFQwv4M4b9Er,Stakin by The Tie,664122.2106135,395201-DE-Rödelheim,Frankfurt,Germany,Europe,28,24,4,0.8571,0.1429,0slot-de1,13,inferential
+HarmonicyK3BwamKNtWnQAmUeK4GYGXXzeD9FD8WMyZi,Harmonic Major,659944.629649857,20326-JP-Tokyo,Tokyo,Japan,Asia,39,34,5,0.8718,0.1282,0slot-de1,16,inferential
+Cogent51kHgGLHr7zpkpRjGYFXM57LgjHjDdqXd4ypdA,Cogent ⚙️  by SOL Strategies,651984.799394022,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,32,27,5,0.8438,0.1562,astralane-fra,7,inferential
+32ke3uf1qL3xLqbwzU76T2sbG2XaJrGuSCNdUnien3zm,FalconX,648692.57504776,16276-CA-Beauharnois,Montreal,Canada,North America,44,41,3,0.9318,0.0682,astralane-fra,19,inferential
+4SNKY7GCp7ohY4AawND5Cc2D71sWMWN3Uifo854yvtks,,628303.974944825,20326-US-Newark,Newark,United States,North America,20,17,3,0.85,0.15,nextblock-quic-fra,6,inferential
+7EzbSahSfSjeRexHcNDLDpzHBAGBLjLKtjbmuoQnEtjE,Gate Earn,625626.157799767,262287-US-America/Chicago,Chicago,United States,North America,44,40,4,0.9091,0.0909,0slot-de1,23,inferential
+juigBT2qetpYpf1iwgjaiWTjryKkY3uUTVAnRFKkqY6,ProStaking,625445.07325333,395201-US-Sterling,Sterling,United States,North America,44,40,4,0.9091,0.0909,0slot-de1,36,inferential
+aXiomFkk6VzXaBhPuhMqTLZZguCFzzbyP9LTtZ7ZHLQ,Axiom,619782.750354744,3402-DE-Frankfurt am Main,Frankfurt,Germany,Europe,31,27,4,0.871,0.129,astralane-fra,17,inferential
+HaLanfo94ezLc3JZ55qqxr7W3qbe1PprJyv2uEtriEqN,Bella2.0,617294.496849549,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,16,15,1,0.9375,0.0625,triton-fra,9,indicative
+DB7DNWMVQASMFxcjkwdr4w4eg3NmfjWTk2rqFMMbrPLA,Orangefin by SOL Strategies,612816.05187108,60068-NL-Amsterdam,Amsterdam,Netherlands,Europe,32,32,0,1.0,0.0,triton-fra,15,inferential
+3cZSHGfNdaULpFAvGbWbxpVwzXB4gHdk8NFucPNR5pgA,Ghost,611854.591397285,18450-US-Ogden,West Haven,United States,North America,32,27,5,0.8438,0.1562,nextblock-quic-fra,10,inferential
+RBFiUqjYuy4mupzZaU96ctXJBy23sRBRsL3KivDAsFM,RockawayX Infra,608240.186622255,0--Unknown,Prague,Czechia,Europe,24,23,1,0.9583,0.0417,0slot-de1,13,inferential
+G1bLKfyNm7zsmmYEL9dyxBvMtxpFcwy2s84bHDj2ZFUY,P2P.org Turbo,599205.834885791,396356-BR-São Paulo,São Paulo,Brazil,South America,36,26,10,0.7222,0.2778,syncro-fra,13,inferential
+Frog1Fks1AVN8ywFH3HTFeYojq6LQqoEPzgQFx2Kz5Ch,Leapfrog Systems 💎 No Fees,593765.4993631,29802-GB-Stepney,London,United Kingdom,Europe,11,11,0,1.0,0.0,0slot-de1,7,indicative
+BeaCHioStqCEFDFxKwAEzyrUPYxqnBPhJ98gDKeEiTPb,Solana Beach Validator,583145.971489836,9002-DE-Munich,Munich,Germany,Europe,16,15,1,0.9375,0.0625,0slot-de1,3,indicative
+Va1idLRtYEtVFJFsvz8vtt1uCJgea4Q1zi2Rh3eraJh,validator.com,582560.636232211,395201-DE-Rödelheim,Frankfurt,Germany,Europe,44,40,4,0.9091,0.0909,0slot-de1,20,inferential
+RNXnAJV1DeBt6Lytjz4wYzvS3d6bhsfidS5Np4ovwZz,RockawayX Firedancer,577994.456812365,200871-CZ-Europe/Prague,Prague,Czechia,Europe,32,23,9,0.7188,0.2812,nextblock-quic-fra,12,inferential
+7CR3Jq4ny2tsr3DX3DvyjoU8TYs776MGkU6nLMWjAqCT,Bitcoin Suisse,554932.766816437,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,32,31,1,0.9688,0.0312,0slot-de1,17,inferential
+GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc,GREED Academy - funding education,547881.56158028,46475-SG-Singapore,Singapore,Singapore,Asia,20,18,2,0.9,0.1,0slot-de1,12,inferential
+CXPeim1wQMkcTvEHx9QdhgKREYYJD8bnaCCqPRwJ1to1,Jito1,533464.96052137,210162-JP-Tokyo,Tokyo,Japan,Asia,32,31,1,0.9688,0.0312,triton-fra,10,inferential
+mineL1YNwcRnxN93B2sX6q22R11WfRqxnY4NBV8KfFY,Exo Tech,532861.783126359,204770-US-Chicago,Chicago,United States,North America,40,39,1,0.975,0.025,0slot-de1,30,inferential
+LA1NEzryoih6CQW3gwQqJQffK2mKgnXcjSQZSRpM3wc,Laine ❤️  by SOL Strategies,518476.794194928,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,28,26,2,0.9286,0.0714,triton-fra,14,inferential
+2Wf9V9rPeVRUTfmWdPedCJuWVr6MFfyLuigEq42DuMDc,Blueprint,517263.403784018,395201-DE-Fechenheim,Frankfurt,Germany,Europe,44,44,0,1.0,0.0,0slot-de1,21,inferential
+84gC25fbFKYueR9WEfreUysk1n3ZFxLFDDjbyqeqGpoW,,513637.641739609,20326-NL-Europe/Amsterdam,Frankfurt,Germany,Europe,35,32,3,0.9143,0.0857,nozomi-fra,10,inferential
+GEM1N1UE3C8BB8EaaEPrcFvT3iLMVrurknjW5AYjUReR,Gemini,512536.163567353,20473-DE-Frankfurt am Main,Piscataway,United States,North America,24,23,1,0.9583,0.0417,0slot-de1,11,inferential
+Certusm1sa411sMpV9FPqU5dXAYhmmhygvxJ23S6hJ24,Asymmetric Research,507693.059022894,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,24,21,3,0.875,0.125,nextblock-quic-fra,7,inferential
+BGAjnivVWqLqByqCVT9dSyPUFicvyJrz7vRvrvui3SEk,,507419.517558236,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,28,27,1,0.9643,0.0357,triton-fra,13,inferential
+bkpk9KVsDRfrArzzmkJ9mPEvbXfQxczzQYR3QMGiR8Z,Backpack,498801.819619139,26042-US-Draper,Corral City,United States,North America,24,23,1,0.9583,0.0417,triton-fra,13,inferential
+anza1rXDVhy1NfVNtsbT3kSBh2jgB1BGZUKuUibSAJd,Anza,497959.313971214,396356-GB-City of London,London,United Kingdom,Europe,36,31,5,0.8611,0.1389,astralane-fra,8,inferential
+2mMGsb5uy1Q4Dvezr8HK2E8SJoChcb2X7b61tJPaVHHd,Chainflow,495836.106134206,214159-SE-Stockholm,Stockholm,Sweden,Europe,21,8,13,0.381,0.619,triton-fra,2,inferential
+7tqeaFKsg2K9xKnQWe61w71AtCZVMQvG4hbFAiFAngYw,,488299.361466803,204770-US-Chicago,Šiauliai,Lithuania,Europe,28,27,1,0.9643,0.0357,0slot-de1,18,inferential
+Cu9Ls6dsTL6cxFHZdStHwVSh1uy2ynXz8qPJMS5FRq86,Stardust Staking - 0% fee forever + MEV 0% fee,483050.438544095,29405-SK-Bratislava,Bratislava,Slovakia,Europe,12,12,0,1.0,0.0,triton-fra,7,indicative
+BFmqBsaGjeYA7gHpReKmnVkRyhqiMmHoR9ttv1crWmzy,,480191.467819014,32209-GB-Europe/London,Atlanta,United States,North America,28,26,2,0.9286,0.0714,nextblock-quic-fra,8,inferential
+fishfishrD9BwrQQiAcG6YeYZVUYVJf3tb9QGQPMJqF,stakefish 🐟,479576.250997473,262287-US-Miami,Miami,United States,North America,28,25,3,0.8929,0.1071,0slot-de1,9,inferential
+HzrEstnLfzsijhaD6z5frkSE2vWZEH5EUfn3bU9swo1f,StakeWolf,477613.6503289,29802-NL-Amsterdam,Amsterdam,Netherlands,Europe,16,16,0,1.0,0.0,triton-fra,9,indicative
+4SsMncJdtKiUcDtukkX15mqei7WiuQ9yvRtQrQW4reWC,Quicknode,469571.781220952,46475-US-New York,New York,United States,North America,16,14,2,0.875,0.125,0slot-de1,9,indicative
+AqyRvpjjSN6jWYPxijoJwhmKwJFk6fRYDh9fQZHcJ2o7,STSS Validator,462929.778213842,396356-DE-Frankfurt am Main,Frankfurt,Germany,Europe,35,26,9,0.7429,0.2571,astralane-fra,14,inferential
+E5UXkzUxqEXpeDf3WsrMZHTs2ZSSBpAz7G4hpGwgRGDT,QubitNexus,433119.819519981,395201-DE-Fechenheim,Frankfurt,Germany,Europe,36,33,3,0.9167,0.0833,0slot-de1,17,inferential
+CVvaeDPR2o7P1eawG5c9TPFLzSXAewwPovPmREaEL4Cm,Lion3d | 0% Forever + Block Rewards Sharing,418525.474315357,396356-GB-London,London,United Kingdom,Europe,28,27,1,0.9643,0.0357,0slot-de1,17,inferential
+3RXKQBRv7xKTQeNdLSPhCiD4QcUfxEQ12rtgUkMf5LnS,Chainode Tech & MEV(0% Fee),417345.208204353,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,24,22,2,0.9167,0.0833,triton-fra,8,inferential
+CkCMabrc3HgBgDkeKPXkbWuQpUuSqW7zs1Mg3HFArx61,Sygnum Validators,416134.113760993,44051-DE-Frankfurt am Main,Amsterdam,Netherlands,Europe,12,11,1,0.9167,0.0833,allenhark-quic-fra,3,indicative
+LeDbQ99QT342j9S5YdyXLrsq2Gu3T3dMGajExdAuE3V,Ledger by Chorus One,409431.078535237,60068-NL-Amsterdam,Amsterdam,Netherlands,Europe,20,20,0,1.0,0.0,0slot-de1,17,inferential
+7GkMBmtrTZz8QbjSe1sXvAUtz7Pp42SQxfT5ymmJD4We,Phantom Validator,396239.316700025,20326-US-Newark,Newark,United States,North America,12,11,1,0.9167,0.0833,0slot-de1,8,indicative
+9iFPQbP1jGkj67sXg6YLLGRUBVEDMcapdS6jmCZSnz8R,,388885.971187407,396356-DE-Frankfurt am Main,Frankfurt,Germany,Europe,20,11,9,0.55,0.45,astralane-quic-fra,5,inferential
+4NwpynvugnHvyLzr5h9Y7mw44saGJXDNoBjm6wgMiYDr,,383981.121616543,16276-FR-Europe/Paris,Amsterdam,Netherlands,Europe,24,18,6,0.75,0.25,triton-fra,4,inferential
+DF1owXYZ1fk5vWyHJ8s1cJeAozgkqsi1JUVqvktqrpwd,DFlow,383937.229698781,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,astralane-fra,7,indicative
+D1Vbgkrhp1TmLGhfUD1urRMx5Ntz9AqQpgdX8DR8QMC1,Next Finance Tech,377133.263570343,396356-JP-Tokyo,Tokyo,Japan,Asia,12,11,1,0.9167,0.0833,0slot-de1,3,indicative
+grptonHnt7YSmJokGK9TJJTBXDT8ca4LSWMHCCfzzPa,gripto,372103.501345147,395201-DE-Fechenheim,Frankfurt,Germany,Europe,8,2,6,0.25,0.75,0slot-de1,1,indicative
+BoNKmNCGvoHS4CkKvYRnF21iEpUP827pZjhFGdA4t5as,BONK,368795.78182308,29802-US-Staten Island,New York,United States,North America,36,30,6,0.8333,0.1667,0slot-de1,17,inferential
+EfPYQ4BUMiKa6736qqrtnCBGkUSRDGSr1WvtyUgWHuyp,,364699.119949485,20326-IE-Dublin,Dublin,Ireland,Europe,16,12,4,0.75,0.25,0slot-de1,8,indicative
+HW4zorvt6xDwhU36RqjcWNwU8YMj9tiqnAafBKW4cqV,Moise,361786.503269067,206264-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,16,11,5,0.6875,0.3125,0slot-de1,6,indicative
+oPaLtitM6cwpFVzP2rDhLsJLdY2vcbuZiJJyD1TFUKs,Temporal Opal,346574.766091484,20326-GB-London,London,United Kingdom,Europe,16,16,0,1.0,0.0,astralane-fra,7,indicative
+5d9Mdc2Zk8as8GL1AxQeXxv5htBBvC5bjfmsXC7UUWwG,Maera,346087.499748848,20326-JP-Tokyo,Tokyo,Japan,Asia,28,25,3,0.8929,0.1071,helius-dual,9,inferential
+6vG7fgweSfvY7JRViG4HwKgV9u6JKhMpf2bqr6TKNjUW,InfraMesh,345586.890268265,395201-DE-Fechenheim,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,nextblock-quic-fra,3,indicative
+GkFT5nmcFVmJiLwuE98PjdF3LReMeq4WbejFHfwrnsgw,KAST,337506.663865865,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,helius-dual,7,indicative
+ALp2GdA1eJV8vZHMHazCtTxNXe3BLUSco9LDASgjDs8R,🌸 SOLGirl MEV ⚡️👩‍💻,337381.586569806,206264-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,36,26,10,0.7222,0.2778,0slot-de1,9,inferential
+Diman2GphWLwECE3swjrAEAJniezpYLxK1edUydiDZau,diman,337336.790338485,23470-US-Piscataway,Los Angeles,United States,North America,8,8,0,1.0,0.0,0slot-de1,5,indicative
+4XspXDcJy3DWZsVdaXrt8pE1xhcLpXDKkhj9XyjmWWNy,"Ubik Capital - 0% Fee, MEV",336929.701381568,16276-FR-Strasbourg,Strasbourg,France,Europe,8,8,0,1.0,0.0,0slot-de1,5,indicative
+mds4GEuiSgQRqveGyktWpETBFCb4AS2wDnhqwLHcT6Z,,336286.328691788,396356-JP-Tokyo,Tokyo,Japan,Asia,12,12,0,1.0,0.0,helius-fra,4,indicative
+mint13XHZSSxtgHuTSM9qPDEJSbWktpmpM4CZxeLB8f,Hanabi Staking 🎆 | Staking Champions | DoubleZero | ❌BAM,332184.188163039,34989-NO-Oslo,West Haven,United States,North America,16,15,1,0.9375,0.0625,astralane-fra,7,indicative
+HT41udB8mLZZf7tev9tUoHYJ41TP8GWZ6zFMbjiviXk5,Neumann,331821.332910183,20326-JP-Tokyo,Tokyo,Japan,Asia,24,19,5,0.7917,0.2083,triton-fra,6,inferential
+9UbU7oaVXX6t7bMthxzzGPnWumFNxoWqUwX3qsrxb4pp,,322844.779602909,16276-EN-London,London,United Kingdom,Europe,8,5,3,0.625,0.375,blockrazor,2,indicative
+UPSCQNqdbiaqrQou9X9y8mr43ZHzvoNpKC26Mo7GubF,,322795.891750064,16276-CA-Beauharnois,Montreal,Canada,North America,16,16,0,1.0,0.0,nextblock-quic-fra,9,indicative
+CEL22Qx7p85qY6gmhCZaYJrrnynJitkVRMQo6qZdT8Ns,🚀🚀Super🚀🚀 Validator,317545.162256902,20326-JP-Tokyo,Tokyo,Japan,Asia,8,8,0,1.0,0.0,0slot-de1,3,indicative
+4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF,DawnLabs | 0% Fee + Block Rewards Sharing,315626.790296491,395201-DE-Rödelheim,Frankfurt,Germany,Europe,24,23,1,0.9583,0.0417,0slot-de1,13,inferential
+2Mob8FJkb8chZY5pTBMpKfLwgZAQHE5i9jAC5zbASitD,,314817.36791812,45102-DE-Frankfurt am Main,Frankfurt,Germany,Europe,12,12,0,1.0,0.0,0slot-de1,6,indicative
+9AW87WqARQonyJYhx1G25fKfvjURFYVmHs79z1NUXDPD,🔥Aurora staking,311425.750470646,20326-JP-Tokyo,Tokyo,Japan,Asia,16,15,1,0.9375,0.0625,triton-fra,3,indicative
+Ste1115xFGdAYK5jaWA3dEFcUc1S5jEbVvD8e327zty,Stellium,309552.007067926,206264-JP-Tokyo,Tokyo,Japan,Asia,8,8,0,1.0,0.0,0slot-de1,3,indicative
+3YVoK8UN62dyiPZnGBzBTkGdwsVmmK1MpRoLcxNRs9BE,Calypso,308815.300830685,16276-FR-Europe/Paris,Limburg an der Lahn,Germany,Europe,20,19,1,0.95,0.05,0slot-de1,18,inferential
+FyrwfMaomErzqrFUXMjCJ7mA4u81DsiDdrzC3MJD6d4j,1dad | Solfège,308332.888898674,20473-SG-Singapore,Singapore,Singapore,Asia,20,18,2,0.9,0.1,0slot-de1,9,inferential
+vALigXFg9wnnhVHN16vNxHxXtAXiBv5QjAE6udoniBY,Valigator Open,308119.057348572,204770-US-Chicago,Chicago,United States,North America,20,18,2,0.9,0.1,0slot-de1,10,inferential
+FLwV8tm3pL8pZj6d927VASzPrgW51Gf4nRJuTewrfega,Velox Validator,304830.559554152,262287-US-New York,Wilmington,United States,North America,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+3B2mGaZoFwzAnWCoZ4EAKdps4FbYbDKQ48jo8u1XWynU,Low Fee Validation TOP API 🔥,301369.431775987,39020-ES-Seville,Seville,Spain,Europe,8,8,0,1.0,0.0,0slot-de1,5,indicative
+AHZxzLeRGRfNVFrCmP58iJgEwbcXyZeAkZ32CmbfEmYR,,299997.99643426,20326-US-Newark,Newark,United States,North America,20,14,6,0.7,0.3,triton-fra,4,inferential
+5VrW7YNBccVnhnZVmooCePdLFcs2UjfxRT3hoY9mN8Ec,Appleyello,299577.044925062,16276-PL-Warsaw,Roubaix,France,Europe,32,30,2,0.9375,0.0625,nextblock-quic-fra,9,inferential
+hy1oMaD3ViyJ8i6w1xjP79zAWBBaRd1zWdTW8zYXnwu,Hylo,298259.510603637,396356-SG-Asia/Singapore,São Paulo,Brazil,South America,8,7,1,0.875,0.125,0slot-de1,4,indicative
+D2RV1q6FgePVVjrMa7AMzVbvvAeg5oS7TAV7qdNKSDsX,Validatore,297575.998274184,16125-LT-Šiauliai,Vilnius,Lithuania,Europe,20,17,3,0.85,0.15,helius-dual,7,inferential
+A4hyMd3FyvUJSRafDUSwtLLaQcxRP4r1BRC9w2AJ1to2,Jito2 (Experimental),293771.372344829,20326-US-Newark,Amsterdam,Netherlands,Europe,28,26,2,0.9286,0.0714,0slot-de1,12,inferential
+9gFxqsXbFyrKXUkqpAatonn47uYZ7sEZSnMxhzQoXrUJ,LUX8 Validator,291683.613634338,20473-US-Kent,Toronto,Canada,North America,12,12,0,1.0,0.0,0slot-de1,8,indicative
+icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE,BrewlabsHQ,287177.505648404,206264-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,16,15,1,0.9375,0.0625,0slot-de1,11,indicative
+CTDGxTK789ZvhgyHZHtSnxTtysbyY1mrywXEJiYYqXxC,Cointelegraph Decentralization Guardians,286624.331170855,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,4,4,0,1.0,0.0,triton-fra,2,long_tail
+MARiKM3t7pDCyXtvLq24ErWDAvYu84yXqCthkR1GS33,🧑‍🍳USDG rewards (6.36% APY),286350.536487805,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,12,11,1,0.9167,0.0833,astralane-fra,6,indicative
+7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84,7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84,285340.17591704,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,20,17,3,0.85,0.15,helius-dual,15,inferential
+ALPHA6rdHZkx1om79xp47vX1iZXcbM3qfEwLyttZ1T7R,Lifetime 0% fee + full MEV payout | Alphasearch,285249.698526404,47447-DE-Europe/Berlin,Frankfurt,Germany,Europe,8,4,4,0.5,0.5,triton-fra,3,indicative
+43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2,Titan Analytics,284372.960028752,20473-US-Kent,Tokyo,Japan,Asia,16,9,7,0.5625,0.4375,0slot-de1,3,indicative
+8yjHdsCgx3bp2zEwGiWSMgwpFaCSzfYAHT1vk7KJBqhN,JStaking: 0% fee · top returns,282637.935731119,395201-DE-Fechenheim,Frankfurt,Germany,Europe,20,17,3,0.85,0.15,0slot-de1,9,inferential
+2oHUYyW2PU9VJh4XBs5TbGgzdernunvGqyKth3kxW4ns,,280745.689124988,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,12,11,1,0.9167,0.0833,0slot-de1,5,indicative
+5ikB9XZNVsjwKb6hHT3FS3So1Z1SrDvU5yaniWEQyDEG,,280240.366857459,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,12,12,0,1.0,0.0,0slot-de1,9,indicative
+EdGevanA2MZsDpxDXK6b36FH7RCcTuDZZRcc6MEyE9hy,Edgevana,278762.678068762,29802-NL-Amsterdam,Amsterdam,Netherlands,Europe,12,11,1,0.9167,0.0833,triton-fra,6,indicative
+5tfcGyf3NQFcufDigvbRt9kWoVN2KPEkBRUY3UaC3Zwm,,275659.737193804,29066-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,5,indicative
+5marvipGzf98hxnoJFXsZbGHSXcEQ3yRGJ4ps7D3V4ou,MARVEL+MEV!,274768.395701662,20473-BR-Osasco,Osasco,Brazil,South America,8,8,0,1.0,0.0,helius-fra,3,indicative
+8ZQg3K1V1Z2BVJkjmnxpi43WKhjPGXphzu5QmBkJibSP,P2P.org Labs,274325.469423462,396356-BR-São Paulo,São Paulo,Brazil,South America,8,6,2,0.75,0.25,0slot-de1,6,indicative
+EQhTjikb1L2jvxsCaSW2o2TuRXh4Do6HzBEWCxpeM44W,JM,273425.794102884,20473-PL-Warsaw,Warsaw,Poland,Europe,16,16,0,1.0,0.0,triton-fra,7,indicative
+5MAGJ3zShtXMMVXjZRoFqtFF7XhP8iLSyZrxdL7KpjcB,,272867.111782545,396356-US-America/Chicago,London,United Kingdom,Europe,12,12,0,1.0,0.0,astralane-quic-fra,7,indicative
+AurseT3W3tk1dATBWAXtWR6oubBgECqintfcvP74teU3,Aursen,271936.767173928,210162-JP-Tokyo,Tokyo,Japan,Asia,11,11,0,1.0,0.0,0slot-de1,5,indicative
+bxrAptB5ZpZBhoLedJpoGWY5hBjjt3zvVBr2323Rrq6,bloXroute EU,269237.619465002,396356-DE-Frankfurt (Oder),Frankfurt,Germany,Europe,12,12,0,1.0,0.0,triton-fra,7,indicative
+HcZvwZ83PfjrQDiq3GLHxisTs17aGURs6bJ2LwtmL4qv,SolGuardian,267972.908415814,33487-CA-America/Toronto,Surrey,Canada,North America,16,15,1,0.9375,0.0625,allenhark-quic-fra,6,indicative
+2dfgsiSaZ51QYPsECMYMG247PXxyKdwkV9wTHoQb8YEC,Astraeus,267382.379923161,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,24,22,2,0.9167,0.0833,0slot-de1,21,inferential
+CPcDFHCAKkr5Kp9T5aQWJhXV5J6iFj141NMQ87L6poPL,,267121.159274187,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,12,10,2,0.8333,0.1667,0slot-de1,9,indicative
+AoUwfPuiEek2thVRDhMP7HbQb9rguyab4rDiz2NAfwwA,,266677.63820114,16276-CA-Beauharnois,Montreal,Canada,North America,20,19,1,0.95,0.05,0slot-de1,5,inferential
+8vk6QpG93JSaQCSgnycBsv5qmfQBk4qC9FjNA35E5JhU,Tinydancer,266416.008191173,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,12,10,2,0.8333,0.1667,astralane-fra,4,indicative
+6k5hZkHGa4x3xEU7Wz2LxWwueqZtVvX3fpymGugB14yB,,265115.743986621,29066-DE-Frankfurt am Main,Frankfurt,Germany,Europe,12,11,1,0.9167,0.0833,triton-fra,2,indicative
+61QB1Evn9E3noQtpJm4auFYyHSXS5FPgqKtPgwJJfEQk,Pigs in Blankets,265081.466354213,25160-GB-Lambeth,London,United Kingdom,Europe,16,16,0,1.0,0.0,triton-fra,7,indicative
+SSmBEooM7RkmyuXxuKgAhTvhQZ36Z3G2WsmLGJKoQLY,SOL Strategies,263217.936852201,60068-NL-Amsterdam,Amsterdam,Netherlands,Europe,12,7,5,0.5833,0.4167,triton-fra,3,indicative
+BULKzVM41WAyQZfL34vxqdsYwEYH9mJAJyzRS4xraf8b,BULK,262422.29596602,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,16,15,1,0.9375,0.0625,triton-fra,5,indicative
+ETuPS3kRfLufz5VSYN2ZrePoEVSZSpgVPKz3MUZpYe3x,,262367.897431908,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,0slot-de1,8,indicative
+3KiDz3wuZrJfsgKt5KEvRb1WPpbci1PWj78aPVF5ei3F,Nemertes,261787.218143526,16276-FR-Europe/Paris,Limburg an der Lahn,Germany,Europe,12,12,0,1.0,0.0,0slot-de1,6,indicative
+rsbp8zMHbGCpLoRktmsjspYv77VcjxAzH1KxPCD9BiU,Albert is Great,260068.260441589,20473-NL-Amsterdam,Amsterdam,Netherlands,Europe,16,14,2,0.875,0.125,nextblock-quic-fra,5,indicative
+qZMH9GWnnBkx7aM1h98iKSv2Lz5N78nwNSocAxDQrbP,Spectrum Staking,257685.793861558,29405-SK-Bratislava,Bratislava,Slovakia,Europe,12,12,0,1.0,0.0,triton-fra,5,indicative
+ArMBx6veRq33ffEP9sxHafiPRgrtzww4XvbwZbSMfXiM,Luke,256328.692604274,34989-NO-Europe/Oslo,Royal Oak,United States,North America,12,12,0,1.0,0.0,0slot-de1,8,indicative
+Bi9kKNxfW2XqgCmLcuhHt6A3x55GuAGmrVZxRHLyVoQ4,,256017.360268457,20326-GB-City of London,London,United Kingdom,Europe,16,11,5,0.6875,0.3125,astralane-quic-fra,5,indicative
+FugJZepeGfh1Ruunhep19JC4F3Hr2FL3oKUMezoK8ajp,Temporal Topaz,253427.288880218,20326-US-Newark,Newark,United States,North America,12,11,1,0.9167,0.0833,astralane-fra,5,indicative
+2gDeeRa3mwPPtw1CMWPkEhRWo9v5izNBBfEXanr8uibX,NuFi,251870.857401541,29405-SK-Šaľa,Bratislava,Slovakia,Europe,12,12,0,1.0,0.0,triton-fra,8,indicative
+DDnAqxJVFo2GVTujibHt5cjevHMSE9bo8HJaydHoshdp,Block Logic +MEV +Triton,250730.670170961,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,24,24,0,1.0,0.0,triton-fra,12,inferential
+3WDh9HgusCujDmXCVhophLrHvoKHQd1Sd4uFHz1Awo35,Absolute Guard,247380.95350035,395201-DE-Fechenheim,Frankfurt,Germany,Europe,12,11,1,0.9167,0.0833,0slot-de1,7,indicative
+BeSovDCzhEAfgwDyXBuhmCFKsu5WQ3PaX61GEfteNzXM,Yonta Labs - LST 0%Fee MEV -,246638.267420245,19344-US-Anchorage,Anchorage,United States,North America,16,16,0,1.0,0.0,0slot-de1,9,indicative
+spcti6GQVvinbtHU9UAkbXhjTcBJaba1NVx4tmK4M5F,Staker Space,246298.138074326,49127-NL-Nijmegen,Zaandam,Netherlands,Europe,16,16,0,1.0,0.0,0slot-de1,10,indicative
+WUNoB9YQXmXXRcJsjY1G8PfVag5aAfnyGmFd6YwJVwp,StakeCraft,244090.380223407,206264-HK-Hong Kong,Royal Oak,United States,North America,16,16,0,1.0,0.0,helius-fra,5,indicative
+BCeczqpTRPigndHVJu1KEzno1Uhb4hjrE7ttmAndrV1p,GlobalStake [Bare Metal],241210.445008866,27424-US-America/Chicago,Ashburn,United States,North America,24,24,0,1.0,0.0,0slot-de1,21,inferential
+ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc,stakeware.xyz | ferric,241037.256329003,29802-SG-Singapore,Amsterdam,Netherlands,Europe,24,21,3,0.875,0.125,0slot-de1,12,inferential
+radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9,Radiants,240966.484556561,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,8,6,2,0.75,0.25,triton-fra,3,indicative
+gridqZmeBcsUKT2Mv4M9YFHFN3tVLFb2TCtTcLD1cAd,Grid Systems,240957.921496298,20473-SG-Singapore,Singapore,Singapore,Asia,16,16,0,1.0,0.0,triton-fra,8,indicative
+AG1PsJMQcutNUX64RD3bAhW7NpxWeFkqkgGizBznYFKW,,240524.567499722,262287-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,astralane-fra,5,indicative
+4b1onMDEasBh4BuPekQWijx3BYR64hAE1z2jJyeZUkck,4BLOCK 0% Fee + Jito All MEV,239573.745373296,23470-US-Los Angeles,Los Angeles,United States,North America,4,4,0,1.0,0.0,triton-fra,4,long_tail
+EdFUcP2f6j9iBg5BqsgJn3WDr1JieiKCo41hZ5Zrsk6w,Bitget Wallet,238903.98519194,45102-JP-Tokyo,Tokyo,Japan,Asia,4,3,1,0.75,0.25,0slot-de1,2,long_tail
+Lake8NXDThihebhxS3Js7mFnj9fthmus93zEdsFNrsL,LakeStake,238359.422100093,204770-LT-Europe/Vilnius,Chicago,United States,North America,16,16,0,1.0,0.0,0slot-de1,11,indicative
+FACb6bbTDRBHCK999V8ox8jga5JBnt1r3vvzmAYAMv2o,Lantern,235367.791156488,29802-SG-Singapore,Singapore,Singapore,Asia,16,15,1,0.9375,0.0625,0slot-de1,10,indicative
+adramSYKBv1yHoZTub4kepcmF5LybPxwyJcsz4fpfi7,Adrastea Validator,235342.984924769,402479-HK-Tsuen Wan,Tsuen Wan,Hong Kong S.A.R.,Asia,16,16,0,1.0,0.0,triton-fra,8,indicative
+8cqck84coxk8TGXYBD95QosKCEA6fKwXLevcEv3oGmu8,Orbyval,232501.294529372,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,4,long_tail
+AsMpvJ3DZ2Ydu1WTRMAyMH4QjSLiUG39rKzfzvtE1bWr,Nordic Staking 0% fee top APY 2+ years,230861.343227097,214783-NL-Rotterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,0slot-de1,7,indicative
+9GHvMeJ4ZWuAX6sDGscFL1TBMszx2EehnrcTVUy4MZJQ,,230801.743732933,16509-JP-Tokyo,Tokyo,Japan,Asia,20,17,3,0.85,0.15,blockrazor,8,inferential
+yJeahQNRHNWtL9Z1SqPX3SBwTYXr5ECMYYVK4uYVwxt,Dosirak 🇰🇷,227435.069947842,16276-EN-London,London,United Kingdom,Europe,12,11,1,0.9167,0.0833,nextblock-quic-fra,5,indicative
+2mDrrmhSzpSyaF12izGk8hnFjtKCGeCFPwQHpRiJDby2,S4Mar,227346.487728537,16276-FR-Europe/Paris,Limburg an der Lahn,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,7,indicative
+7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE,WEB34EVER ∞ POSTHUMAN,226099.299074556,206264-HK-Hong Kong,Royal Oak,United States,North America,4,4,0,1.0,0.0,astralane-fra,2,long_tail
+SLAY6uN1zZpXBTfbuDDCesNmM5D288xrz8uYvfS3n41,Solayer Validator [5% Commission + 100% MEV Kickback],225569.806397268,396356-US-Ashburn,Ashburn,United States,North America,8,7,1,0.875,0.125,0slot-de1,5,indicative
+PRGNnb8DxVcP2WjSHfVRGgc8SkA5u6dbMwoTVV1BGKN,Paragon,225466.842563602,206264-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,11,9,2,0.8182,0.1818,astralane-fra,3,indicative
+3s97yjq2MhoPVPC3U9VeE3Z5S643Pweovg88ysvrQPw5,Starke Finance,225179.421989823,20473-US-Elk Grove Village,Elk Grove Village,United States,North America,20,18,2,0.9,0.1,0slot-de1,16,inferential
+KoLibrJsbABbtmtFPc7nPvDxT81rc4UPM7mY9xSLjpo,Kolibrio,223032.461864028,58061-NL-Amsterdam,Amsterdam,Netherlands,Europe,16,14,2,0.875,0.125,0slot-de1,6,indicative
+7mF8NZJdREuM1uwYcvKffuY9QJBEoHhNp4hZ4NS2fuXW,Meria,222399.008210501,7979-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,8,8,0,1.0,0.0,astralane-fra,3,indicative
+Ey3DkEVbfBxfWmkTsG7Hqj7jshYf5Zx9H8462Zjjkykf,SolBrothers,221466.268617167,44486-US-Mooresville,Los Angeles,United States,North America,7,7,0,1.0,0.0,triton-fra,3,indicative
+5pZvwjSpGYCxpJeySwSbSAji7kZe4YntL7rQvXM3YcNT,Solstice,219349.243501187,29066-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,nextblock-quic-fra,4,indicative
+Ed9WjPnZfAXsPttcqxMwj94qsuXVRyBsyXnDkxFva2Zv,Rakurai | High TPS | High rewards,217955.033852532,29066-DE-Frankfurt am Main,Frankfurt,Germany,Europe,16,16,0,1.0,0.0,astralane-fra,9,indicative
+AEAJtnjjB19XFreJH21UP8rfd12f9kxMmngwZG3tGXbP,Black Sand,217338.80168637,396356-US-Ashburn,Ashburn,United States,North America,4,3,1,0.75,0.25,astralane-quic-fra,2,long_tail
+F6kVwubXEfZZo6e4Kozrtg7WoWk5wTRmrC8pwoxSLa7S,,213721.597082868,213896-DE-Frankfurt am Main,Chicago,United States,North America,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+DViARWAWKkxAzp4UCgbw5B9pLSrBY3PaztFErcwgVUKX,Code-Breader,213487.857115374,215120-AT-Vienna,New York,United States,North America,32,28,4,0.875,0.125,triton-fra,13,inferential
+LFGGGJtnBLvq78DyMz1gTeedM6f8owck76qHThDABBC,Alpha Waves,213388.836847818,395201-DE-Rödelheim,Frankfurt,Germany,Europe,16,16,0,1.0,0.0,0slot-de1,11,indicative
+HyperSPG8w4jgdHgmA8ExrhRL1L1BriRTHD9UFdXJUud,Hyper 🫨,210594.412242809,20473-MX-Querétaro City,Queretaro,Mexico,North America,16,13,3,0.8125,0.1875,bloxroute-fra,4,indicative
+ABC1U4cf9DZMwqy8ktEr4WJj8VHmVBQibbC57gEJthwY,algo|stake,209944.122440403,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,7,1,0.875,0.125,nozomi-fra,2,indicative
+FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ,Prompt Logic,207491.442595105,206264-JP-Tokyo,Tokyo,Japan,Asia,12,10,2,0.8333,0.1667,0slot-de1,5,indicative
+Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix,Pine Stake,207187.51898235,20473-BR-Osasco,Osasco,Brazil,South America,24,20,4,0.8333,0.1667,bloxroute-fra,8,inferential
+SLNDCSGTEsA6KHpgR32MBt9UAurZnVSJGUtW2tRpdU2,Solend,206460.929932557,18450-US-Ogden,West Haven,United States,North America,12,12,0,1.0,0.0,0slot-de1,6,indicative
+mD1afZhSisoXfJLT8nYwSFANqjr1KPoDUEpYTEfFX1e,Block Parliament 🦉,206356.034778255,396356-JP-Tokyo,Tokyo,Japan,Asia,16,9,7,0.5625,0.4375,triton-fra,4,indicative
+Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3,Trillium,205703.497328108,60068-NL-Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,4,long_tail
+mXv18ov8qCiQGs3ieoen981LdgZzYJjJak6reK6fpNC,MX Validator,204460.260327311,396356-US-New York,New York,United States,North America,8,7,1,0.875,0.125,triton-fra,3,indicative
+8pyp3vfVPRziYdAYEyqkwytdBbdVbQmHqfQAVDcRV3w,Rustiq Technology,203417.265213874,12703-GB-Edinburgh,Edinburgh,United Kingdom,Europe,12,11,1,0.9167,0.0833,triton-fra,7,indicative
+UNrgBLmc8JT6A3dxXY9DWeHvDezt2DZQbhg1KPQfqEL,Unruggable,201359.716642308,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,24,24,0,1.0,0.0,0slot-de1,13,inferential
+MagiCBYNPD9iTBXqiFybAFCREQzG6MSM4LmFLXQZxuV,Magic Eden Validator,201054.839777916,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,12,12,0,1.0,0.0,0slot-de1,7,indicative
+bcZxRSozXDb61a77rxL6n9yumsbatqC7RFmZ8Xi5K8V,,200340.474066612,396356-US-Dallas,Dallas,United States,North America,20,16,4,0.8,0.2,triton-fra,5,inferential
+9Wmaz9VPpEnH67ZqrvYd9bcH66DtsGaEKcSQE1ac5wkf,LumLabs,200049.099902188,7979-SG-Asia/Singapore,Singapore,Singapore,Asia,20,18,2,0.9,0.1,0slot-de1,14,inferential
+2P9ZYA4vBoBBr56hrEFTmrd5ctuz3r7wtvRYmbgk6jRL,Sunshine,198902.565798264,20473-US-Piscataway,Piscataway,United States,North America,4,4,0,1.0,0.0,0slot-de1,4,long_tail
+2t53LvZfskcpXkdwLaBnfZLbNgyVHPu2BNFpcRBaEBhM,Kevred,195122.030863026,395201-DE-Fechenheim,Frankfurt,Germany,Europe,16,15,1,0.9375,0.0625,0slot-de1,5,indicative
+mastWEbKEMjvBCd1uaUBpNjWcfSPhXMWnH9tTrgzn1g,MAS DeFi,194579.251136915,20473-MX-Mexico City,Mexico City,Mexico,North America,8,4,4,0.5,0.5,0slot-de1,3,indicative
+soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N,SolStack by Corvus Labs,194253.031689263,18450-US-Ogden,West Haven,United States,North America,12,10,2,0.8333,0.1667,0slot-de1,4,indicative
+DCdTPyDbXNHrmdv4ZyPPzEfY4mPAqH4hDPtowAteoNgv,bloXroute US,193055.328487082,396356-US-New York,New York,United States,North America,16,14,2,0.875,0.125,0slot-de1,9,indicative
+7CR6whiYULVf1Knj4J5PxUS37opdk8UAx2WnDzBQKiVe,DataHive AI | Airdrop | 0% fee | full MEV,192654.684330037,20473-SG-Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,0slot-de1,3,indicative
+9FXD1NXrK6xFU8i4gLAgjj2iMEWTqJhSuQN8tQuDfm2e,Grassets Tech | Jito-BAM | IBRL,192076.863450717,39122-IE-Europe/Dublin,Dublin,Ireland,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+7VZM7YHcX73TpGoXDeBu61g4QKC86GwAEnew8dA7Y2xn,BLOCKSIZE,191354.78729765,395201-DE-Rüsselsheim am Main,Frankfurt,Germany,Europe,8,6,2,0.75,0.25,0slot-de1,3,indicative
+97jbhVBYcSmwGXjrx5PPWXucDsVBqwyoQ6rzP3B6eeMt,anarcheuz,190940.8132992,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,24,20,4,0.8333,0.1667,0slot-de1,9,inferential
+57i31UEyDg4koaZMZ1wAHbYuezXv3AVaHtvJgJarxt3f,[Public Good] Chive 🌱 - 0% Fee + MEV + BlockReward,190030.581319773,204770-US-Chicago,Chicago,United States,North America,16,15,1,0.9375,0.0625,0slot-de1,8,indicative
+2zykwzzo1pd3H2oSj5j5SRLTvmpa9Nr2S2Bh8tTVd5Tq,zim.one | 0️⃣0️⃣,189761.057336911,20473-CA-Toronto,Los Angeles,United States,North America,16,15,1,0.9375,0.0625,0slot-de1,8,indicative
+ANC1u9sY36q3mi2MyVhtz71un8yLgTsFBUuyLcSPzKsk,Anchorage Digital,188230.708319126,29802-HK-Tsuen Wan,Hong Kong,Hong Kong S.A.R.,Asia,12,10,2,0.8333,0.1667,0slot-de1,5,indicative
+73hojLdq1vZDSxeVQEqVFJ4iwLngdvEJPEpEHkSdv6BZ,SuperteamDE x Staking Facilities | Public Goods Validator,186468.228197627,174-DE-Munich,Munich,Germany,Europe,4,4,0,1.0,0.0,astralane-fra,1,long_tail
+nSGZ3tv2UhskkPqiB666yDVj7PTi9qKgDqvjHyw5JgM,OranG3cluB,186358.878439251,20473-US-Los Angeles,Los Angeles,United States,North America,20,20,0,1.0,0.0,triton-fra,9,inferential
+TREEir31FswHK7JZBS5oFQteS72dobi6inpmQha88dA,Tree Validator,185240.195592026,29066-DE-Frankfurt am Main,Frankfurt,Germany,Europe,3,2,1,0.6667,0.3333,astralane-fra,2,long_tail
+uEhHSnCXvWgtgvVaYscPHjG13G3peMmngQQ2ghC54i3,Satellite Staking,184822.188730637,20473-US-Piscataway,Piscataway,United States,North America,8,8,0,1.0,0.0,0slot-de1,7,indicative
+sTEAKPk59EtPPbixCweyv6oRLNCDEE8pnnef6gUfbiW,STEAK.NET 🥩,184707.221008926,395201-DE-Rödelheim,Frankfurt,Germany,Europe,12,11,1,0.9167,0.0833,astralane-fra,4,indicative
+SyndicAgdEphcy5xhAKZAomTYhcF8xhC7za2UD9xeug,Syndica,184345.187677859,16276-EN-London,London,United Kingdom,Europe,8,6,2,0.75,0.25,nozomi-fra,2,indicative
+2XmhZKHmfjku3T3nC9xKhgr5bm1CAmWXqNsNt49mo82C,Soldea Kitchen,184205.473686811,20473-FR-Aubervilliers,Aubervilliers,France,Europe,12,12,0,1.0,0.0,0slot-de1,7,indicative
+fdzip81euDS8jEZHx5H1mn27zGVMLzkgpQuzYRBfBYG,fd1.zip 📦,183090.767246556,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,4,3,1,0.75,0.25,0slot-de1,1,long_tail
+GwHH8ciFhR8vejWCqmg8FWZUCNtubPY2esALvy5tBvji,ART3MIS.CLOUD ☘️,182066.501737362,51088-NL-Amsterdam,Amsterdam,Netherlands,Europe,12,9,3,0.75,0.25,0slot-de1,6,indicative
+BTGPbq4KuFENn4CKuaKGqkaDd3TJD3TEgtMjSrsZnMLb,,181701.068433185,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,20,19,1,0.95,0.05,0slot-de1,10,inferential
+G4GT8z4AKWNoy3x6nuzxW83UfFXLXzrwn7DZQt4GvWdU,FREEZZ,181585.55616211,20473-US-Elk Grove Village,Elk Grove Village,United States,North America,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+Stakex4B2tpDHPWGvV1dninfiaYCGdakgTknpzPitLh,Stake.org,181570.757446807,395201-DE-Rödelheim,Frankfurt,Germany,Europe,12,9,3,0.75,0.25,0slot-de1,7,indicative
+1KXvrkPXwkGF6NK1zyzVuJqbXfpenPVPP6hoiK9bsK3,1000X.sh,181405.175636729,44486-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+8GLRbAstsabZuZUx73AoyfGi1FRCWSUhRgMugFyofEz7,Syncnode | 0% Fees  | Genesis Validator,180701.423138531,206264-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,16,15,1,0.9375,0.0625,0slot-de1,9,indicative
+3tzpLMWRkWucvTRWU5PjgKzN1iwJuV69yCCjmuuo4gTk,TruFin by Twinstake,180239.089350699,214783-NL-Europe/Amsterdam,London,United Kingdom,Europe,16,12,4,0.75,0.25,astralane-fra,6,indicative
+4vcmYPfLztUckU3c3FvXDwSq8aDNDqwEpvEiqAv97LGJ,,180140.867023963,16276-FR-Gravelines,Gravelines,France,Europe,16,16,0,1.0,0.0,nextblock-quic-fra,12,indicative
+sbidYi7fbif6qNsMpwBKvyF5DKcLCbjaegpADsKqNux,SolBlaze,179879.068211454,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,triton-fra,4,indicative
+EydLxzdWfD434DDxZYXkTcajvK5VKH7p6CofEDCRUkJ4,Bernardo Beacon,179448.710743551,174-US-Sunrise,London,United Kingdom,Europe,4,4,0,1.0,0.0,triton-fra,3,long_tail
+CVRr5oHCAAooVbYze7CvXtRp4FUtkMCSqBZU7MVu8v8e,Coverlet+MEV | 0% ALL FEES ✅,179295.516474497,6663-RO-Cluj-Napoca,Bucharest,Romania,Europe,8,8,0,1.0,0.0,0slot-de1,4,indicative
+4VrjyXQT61WFSjuG3ehgqZUK1jqvYqB46veQbXLotq3n,Vault X | 0% fee +MEV,178934.135663289,30058-IE-Dublin,Dublin,Ireland,Europe,12,8,4,0.6667,0.3333,triton-fra,5,indicative
+vaoJKVZYPAsqc52T2nNQhABR1gU6Cy2koDKfCQaEiva,polkachu.com,178449.729540319,29066--Europe/Vaduz,Strasbourg,France,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+N43JWBg42ZoUFMkHsRUVbP7wGVdxaHKanqaF9BBNiFC,Quantix,178444.620312851,47447-DE-Europe/Berlin,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+2UBhtRuyr9nvWsUnrbWrvJiYWEU8TVBD4PLYQJKiRa9H,Luna Labs,177429.927076712,44486-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,6,indicative
+DiveRaPKviyDnQyiiMFdV4rujsCBJzMNvPjKfvGNLGvL,Onchain Divers,176761.315158043,206264-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,16,14,2,0.875,0.125,triton-fra,7,indicative
+6gnbmed7kzwQVQ7ghsjgEuCoYmGeWciV2qCwni6WS6HU,Capital Alliance 🔥,176744.486762247,48014-DE-Hamburg,Frankfurt Main Flughafen,Albania,Europe,8,6,2,0.75,0.25,0slot-de1,3,indicative
+8AkVj5aAtJ27tYXeq89cnSf68V43NarFHMx2iSDjZv7c,Theta,175638.837851506,17506-JP-tabashi City,Tokyo,Japan,Asia,4,4,0,1.0,0.0,bloxroute-fra,1,long_tail
+capyS1jerxhFp1RehdWRG6kbWi8bnWF3fkEG2RGLsQf,capy,173941.97688765,396356-BR-São Paulo,São Paulo,Brazil,South America,8,8,0,1.0,0.0,astralane-quic-fra,3,indicative
+3CKKAoVi94EnfX8QcVxEmk8CAvZTc6nAYzXp1WkSUofX,Solid State Nodes,173313.196294126,20473-US-Santa Clara,Los Angeles,United States,North America,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+dxa6QFqLcByyHykLCAW5tv1VYNVQFV3v6oovM2h8inH,Fidelity Center for Applied Technology (FCAT®),173289.200000666,396356-US-New York,New York,United States,North America,20,18,2,0.9,0.1,triton-fra,10,inferential
+1ggyZGbYtEo1WrV1kmXfnvhPeSPxrYAXoDBeApnszLT,Iggyz,172946.213574309,20473-CA-Toronto,Toronto,Canada,North America,16,14,2,0.875,0.125,nozomi-fra,4,indicative
+idCE5k2BtTpwXdwAC7Var1enT9reut9fWECcxQP7LY7,🔥💃🇸🇬 CeriumXYZ,172708.961901527,16276-CA-Beauharnois,Singapore,Singapore,Asia,12,12,0,1.0,0.0,astralane-quic-fra,5,indicative
+JC7bH7HSZoDhwggBXtRF31cVt71WiizY2J6YDDQfG5er,Valid Blocks,172106.566716271,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,8,6,2,0.75,0.25,0slot-de1,1,indicative
+Fudp7uPDYNYQRxoq1Q4JiwJnzyxhVz37bGqRki3PBzS,huglester,171394.135692165,18450-US-Ogden,West Haven,United States,North America,8,8,0,1.0,0.0,nextblock-quic-fra,4,indicative
+8hAYbagNt7CMBooFfqVJhBgLqLffpjXTWJMk8yybjJsN,0xNull,171212.630411807,,Hong Kong,Hong Kong S.A.R.,Asia,12,8,4,0.6667,0.3333,astralane-quic-fra,5,indicative
+peNgUgnzs1jGogUPW8SThXMvzNpzKSNf3om78xVPAYx,PENGU Validator,170910.573182075,262287-US-America/Chicago,Chicago,United States,North America,8,6,2,0.75,0.25,triton-fra,3,indicative
+GiYSnFRrXrmkJMC54A1j3K4xT6ZMfx1NSThEe5X2WpDe,MonkeDAO,169290.538409701,210162-JP-Tokyo,Tokyo,Japan,Asia,8,5,3,0.625,0.375,helius-dual,5,indicative
+RLMS1pv3YKi7CSUCKTNcFN5fFkXJc2SmCwPhbQpqZJo,Realms Validator,168745.128380946,206264-JP-Tokyo,Tokyo,Japan,Asia,4,2,2,0.5,0.5,triton-fra,1,long_tail
+91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt,Stronghold,167452.205066988,214783-NL-Rotterdam,Amsterdam,Netherlands,Europe,12,12,0,1.0,0.0,0slot-de1,8,indicative
+8W8v28d1fBZE1fkaaHbowJM4hGZGnVHWNK1NyhUsob6Z,Michigan Blockchain,167268.738488607,395201-DE-Rödelheim,Frankfurt,Germany,Europe,12,9,3,0.75,0.25,0slot-de1,5,indicative
+8a4juhtQScHcXPAcqVF3otxLMqxZMDALcE3FEVGBnKu8,,166577.728095702,395201-DE-Rödelheim,Frankfurt,Germany,Europe,12,10,2,0.8333,0.1667,0slot-de1,7,indicative
+bitHUmbKSQDTGoyoiW3BeqaGWdyV5sS3nYt5SduUHfb,,166500.0011,9318-KR-Suwon,Seoul,South Korea,Asia,8,0,8,0.0,1.0,,0,indicative
+NdMV1C3XMCRqSBwBtNmoUNnKctYh95Ug4xb6FSTcAWr,Neodyme,165772.46354127,5405-DE-Berlin,Berlin,Germany,Europe,12,12,0,1.0,0.0,helius-dual,2,indicative
+7Nu9ckgtjobZ3MkbadGFKEvRymYuah9HmcxiUJKMM9NB,SoLyrae,165309.662432843,395201-US-Sterling,Sterling,United States,North America,8,8,0,1.0,0.0,0slot-de1,4,indicative
+jagBNeXYncnn1hzwSq1JJ16XhWTgQ7DCFVqndSJZ6vT,Jaguar,165179.888794746,396356-BR-São Paulo,São Paulo,Brazil,South America,12,12,0,1.0,0.0,0slot-de1,10,indicative
+5ivRNcK1yThcK3koZR1oikAfuNm6rj1LceMskayoVSzc,,164624.404510458,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,20,16,4,0.8,0.2,nextblock-quic-fra,4,inferential
+BuoZ7q6faiJNTN24r7Kcj8dp96axs5XPEKXmWGsh2pDE,,164503.801625466,20326-US-Newark,Newark,United States,North America,28,12,16,0.4286,0.5714,0slot-de1,6,inferential
+simpRo1FrQYGa1moicfgnPDp6KyE38d4gYrZzhjXYJb,Simpdigit,164449.892325536,396356-SG-Singapore,Singapore,Singapore,Asia,4,4,0,1.0,0.0,triton-fra,2,long_tail
+5AsoSeQtLoN8eLsf3wKrR3LwxHME4sTBGR6dpTCP1k3H,some name,162467.356769228,16276-CA-Beauharnois,Montreal,Canada,North America,4,4,0,1.0,0.0,bloxroute-quic-fra,2,long_tail
+7nzTzRZzezmugqE5ZjHRMxarhXunpwZ2PUdjV7uYzt7A,Solar | Empowering Youth | 0% Fee + MEV Rewards,162438.532848038,47447-DE-Europe/Berlin,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+H9ENbtmy2tWFtAJNmpC8xQtbcr1NTp4FXLdphRaG8L2T,Bubbles,160332.011824127,3402-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,astralane-quic-fra,3,long_tail
+nymsHergYedT9CJMgtGMvqXUTGcbs5o3MiWTJUbqTGY,Hypo Nyms,160127.929953197,3402-DE-Frankfurt am Main,Frankfurt,Germany,Europe,12,10,2,0.8333,0.1667,astralane-quic-fra,5,indicative
+parafiUS6h6oLhCFwhjvEmQJKw8pF1iXsxMJdTq46dS,ParaFi Technologies,159359.043506948,13767-US-America/Chicago,Riverton,United States,North America,16,16,0,1.0,0.0,0slot-de1,11,indicative
+8Nvaxzif1NrdvxNkRetjT8xJvd33EHkKVrfL8EDkgaNy,South,158883.189814884,7979-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,8,8,0,1.0,0.0,0slot-de1,5,indicative
+bay3wXfJsu9ds1zQBoQQ4DUwFGs3NP6q4gca9WM5G1z,Bay3,158433.984050932,44486-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,7,1,0.875,0.125,triton-fra,2,indicative
+sTepQGoReJq2tBKStL19DT6nnGHcGiAvFjyYaokLyuM,Step Finance,157754.700157094,20473-SG-Singapore,Singapore,Singapore,Asia,8,6,2,0.75,0.25,0slot-de1,5,indicative
+HLXxkmjb47spcmbbKi3UCfZ2qmFY29t8MN562AEmh2Qh,🧬 HelixNode 0% fee 🧬,157655.183744965,34123-RU-Moscow,Moscow,Russia,Europe,12,12,0,1.0,0.0,0slot-de1,8,indicative
+cybi55ebub37HZW9YmRaLh59Lh3kqaLTsEBQwW6vFkC,CyberAlex 👑 MEV,157500.113813667,20473-US-Dallas,Dallas,United States,North America,4,4,0,1.0,0.0,triton-fra,2,long_tail
+8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs,stake.systems,156723.533141307,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,16,16,0,1.0,0.0,0slot-de1,10,indicative
+74Xkp2iLXm315h69sFRiCFjmKnaWkMV8W2LgJwPRSgN5,,155691.916248451,214159-SE-Stockholm,Stockholm,Sweden,Europe,4,4,0,1.0,0.0,astralane-quic-fra,2,long_tail
+11AMA4mnNbsrPQeuoNN7uiZVJZtqEzQHrTfa5vnbcjk,11ama Validator,154983.057539933,213896-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,7,1,0.875,0.125,nextblock-quic-fra,3,indicative
+Av8EnYrPBnSJHK5e2wmTdnCpSy7nzmBgyFaUKSyLnBfe,AndrewInUA,154010.599408421,20473-CA-Toronto,Toronto,Canada,North America,16,14,2,0.875,0.125,0slot-de1,9,indicative
+PKdLMugp1Mf88Ji1GkdqRDBewaUh2cqg79CBEo6eJoQ,PK,150763.296394936,29066-FR-Strasbourg,Strasbourg,France,Europe,15,13,2,0.8667,0.1333,astralane-fra,4,indicative
+Ee8dX3qtwrDRnxYK6NGQfmMeKT3Qpp2QZHpxiAiw23W9,StakeNode777,150712.772004677,20473-US-Los Angeles,Los Angeles,United States,North America,24,22,2,0.9167,0.0833,0slot-de1,8,inferential
+6xFDLX751L7H9d5fQT9sf2SM5RWWE9LDgqz25pPDbWoJ,TdrSys,149878.983679743,206264-JP-Tokyo,Amsterdam,Netherlands,Europe,8,6,2,0.75,0.25,0slot-de1,2,indicative
+FFevTkywysWf8PJvH4DZkEp4v9ks9HJPJhZWbhhJiYnr,Hinode Technologies,149833.890130661,214783-NL-Rotterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,4,long_tail
+2AKKnirWVZMhnzuwqpizw9SwfZjGpRFLx2zCCNtPWpbc,The Chimpions,149825.435238784,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,12,12,0,1.0,0.0,astralane-fra,6,indicative
+HMWXfjaeSHhww1wvdBhqhHVP9v96mFB4LJ9xP2MXbDGH,CyberVillage,149525.571157756,47447-DE-Europe/Berlin,Frankfurt,Germany,Europe,8,7,1,0.875,0.125,triton-fra,6,indicative
+93Q99nhdKjuSe6WNXgMBbC3s8QVQEAoHKt91PNRkUkMn,STEALTH,148679.667773633,44486-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,triton-fra,3,long_tail
+BSGMRbK97DcgLe4u4kfNQnmTVZGVnwdtKQBJqWRBTZxU,Black Sea Gold,148415.665911411,204770-US-Chicago,Chicago,United States,North America,4,4,0,1.0,0.0,triton-fra,2,long_tail
+CTwsruptUccEtZGNxBDbuusHYxkBX3P6ndrxVjSG213y,CryptoVik,148328.95246741,216444-SG-Singapore,Singapore,Singapore,Asia,4,4,0,1.0,0.0,triton-fra,3,long_tail
+YuRBAsy9Stw1u46A8dMp7WQVBFweLP1PKuYibzYAMmQ,Yurbason,147671.601848146,48014-AL-Tirana,Frankfurt Main Flughafen,Albania,Europe,8,7,1,0.875,0.125,0slot-de1,4,indicative
+BitokuDHQiAhpUKrwx1VssAAoW5Rst8zB6gpfoaxM3Kh,Xandeum Labs low fee + MEV = 🔥APY %,147260.212433726,13649-US-Las Vegas,Charlotte,United States,North America,16,16,0,1.0,0.0,0slot-de1,9,indicative
+CLsFr1KZVbAyz16iFpwg2e4hiekR1unpwyxfNdjBMaoE,Vault,146802.508170938,7979-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX,0base.vc 🇰🇷 | MEV 🔥,146466.469318202,18450-US-America/Chicago,West Haven,United States,North America,8,6,2,0.75,0.25,astralane-quic-fra,4,indicative
+6k1YkmTKwPRUhChnxA9ryJmbtuQMbro4xFTL6mL9jycB,Sign Labs 🤟,146143.936753512,29802-US-Los Angeles,Los Angeles,United States,North America,24,24,0,1.0,0.0,triton-fra,18,inferential
+BNtHBLo1L2vAG7PBQ6mJvWz7GqVPxBnioXsY2Gjtubrg,CatalystX - Innovation OnChain,146133.271518851,20473-US-Los Angeles,Los Angeles,United States,North America,4,3,1,0.75,0.25,0slot-de1,2,long_tail
+5HYjArGt81naevDdwMaEx8yeGNw9jYBSDJa8YavT9Mp4,Sol Hack3rs,145249.81033699,7979-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,8,6,2,0.75,0.25,0slot-de1,5,indicative
+CpuDNi3iVoHXbaT8gHpzKe6rqeBasoYjEKi21q7NRVJS,val37,145122.066739488,20473-US-Santa Clara,Piscataway,United States,North America,8,8,0,1.0,0.0,0slot-de1,3,indicative
+fhsM2sxME8cHrrk3qvtMsRRDv5AoLFja7NjNnHeYZxe,Fountainhead 🌱 Funding Dev WITH max APY,144784.276364676,395201-DE-Fechenheim,Frankfurt,Germany,Europe,16,16,0,1.0,0.0,0slot-de1,8,indicative
+9q16BB7WGmBxf1nJTdxH5zPnBUhtHqdqXqRFjSjuM4k7,JDO Mainnet Validator,144608.5511379,213896-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,triton-fra,3,long_tail
+Hj2jzpAp57KyM3SmnYwJbDVrQ8tTWizMon2hhzYzwxet,A Unicorn Julia,144595.376923284,44486-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,triton-fra,5,indicative
+KTMkUG8WCw9FdH44jLMBpc1teGafnYL6SgP4fHHbsNM,⚔️ Epics DAO ⚔️  - ALL 0% Fees ⭐️,144163.573977517,200261-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,16,15,1,0.9375,0.0625,triton-fra,7,indicative
+8T8AJfUCXwPFwEMmjca8gCRSktPrqbUBVa6ggNyhLhFJ,StudentSOL,143892.944696691,7979-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,8,7,1,0.875,0.125,0slot-de1,4,indicative
+forb5u56XgvzxiKfRt4FVNFQKJrd2LWAfNCsCqL6P7q,Forbole,142880.218429761,16125-LT-Europe/Vilnius,Šiauliai,Lithuania,Europe,8,8,0,1.0,0.0,astralane-fra,4,indicative
+8aySXUFrqJz5kath6aVijrkBH8ZtxMWJGhYXwYBpKmHK,L0vd 0% fee +MEV,141741.239394973,34989-NO-Oslo,Oslo,Norway,Europe,4,4,0,1.0,0.0,triton-fra,3,long_tail
+DeXsDvvZzKhVux4YfDFE6p4acJLGzr8yKt5pSTjzZB8t,LootGo,141053.74395733,216444-SG-Singapore,Singapore,Singapore,Asia,12,12,0,1.0,0.0,triton-fra,7,indicative
+SWiz7QwnYPm61pWWUUkMhj4r5pZLP1SvYibdHcB2cov,BOOP Wizard,140371.849778444,44486-DE-Frankfurt am Main,Frankfurt,Germany,Europe,12,12,0,1.0,0.0,triton-fra,7,indicative
+8augxYLUge2iWmitQMwbcBL5VQEpsM6aJdRofhwpnzyw,Stake.Cake,140188.865200274,206264-JP-Tokyo,Tokyo,Japan,Asia,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+5aD6KB8g4MPt3xJafmMmun86hHMDnoFiGbd5gYiMFZw7,Daiko,139828.413141688,216444-SG-Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,triton-fra,5,indicative
+AmhQFcGvH2hjkucP78rn6GMKSbstYwyFpCDVKZUwBGrG,myhauz,139162.845698382,18450-US-Ogden,West Haven,United States,North America,8,8,0,1.0,0.0,nextblock-quic-fra,4,indicative
+ciTyjzN9iyobidMycjyqRRM7vXAHXkFzH3m8vEr6cQj,Phase Stake,136844.16976116,262287-NL-Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+3V2xaccDpFib4DbTksdiveNDmiwpXBqSWyjSof3w1Bg7,Aurora Validator,136605.849380318,20473-PL-Warsaw,Warsaw,Poland,Europe,8,8,0,1.0,0.0,triton-fra,4,indicative
+EKgSCR3ahdypkxXcBY43ZNxdmyZqPkKNPey3rwKjqbz7,,135414.430782019,400963-GB-Europe/London,New York,United States,North America,16,13,3,0.8125,0.1875,0slot-de1,9,indicative
+ADjyeNzWd8yhEjCVyAqT87eqoyGRbimERQsNhFQcXjop,💥InfiniteSOL💥 0% Fees,135024.217747421,204770-US-Chicago,Chicago,United States,North America,8,8,0,1.0,0.0,0slot-de1,4,indicative
+5XKJwdKB2Hs7pkEXzifAysjSk6q7Rt6k5KfHwmAMPtoQ,Moonlet,134295.177707191,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,8,7,1,0.875,0.125,helius-fra,2,indicative
+EN5F2BU5juUEWr9zRNNqKuQMi9zBUY1YLPHV5EyMrvnW,SunshineVR,134092.101063204,20473-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+LimeA3gMLb2SjxrKbP7NsWk1UwTZrw4B6Ctc9dmVU6E,LimeChain,132117.243250876,8860-BG-Europe/Sofia,Sofia,Bulgaria,Europe,16,13,3,0.8125,0.1875,triton-fra,10,indicative
+7PpXQgDb9eCHN1Uudgi77Wm89cRz4T85YgDw83qvaJXd,Nodance 💃 00,131615.824066758,20473-US-Los Angeles,Los Angeles,United States,North America,20,19,1,0.95,0.05,0slot-de1,7,inferential
+AiBEt9kE8yZ4CnaLfTCGMp7Fg2wCtqhPTfvJ8D3zrLfu,nodtech,131498.184259778,8285-LV-Riga,Riga,Latvia,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+CpgSfd6QUoBw1267rTtJoZhELqC5q7isKLojBifSbNEE,WestSide 🖖,130772.139273967,206264-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+7Nn8qBJey7vXtVFMNBbbuN8UkujU8Y6nWzbHVGuf49yV,livechanger,129673.896275035,20473-US-Los Angeles,Los Angeles,United States,North America,8,7,1,0.875,0.125,triton-fra,6,indicative
+BiGcsiuFCLuiTzXoQgfLdge9sfpwr55YzdT8Kp7bCXmS,,128725.891699289,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,12,11,1,0.9167,0.0833,astralane-fra,6,indicative
+NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3,nordstar ⭐ reliable staking +MEV,127980.583661392,34989-NO-Europe/Oslo,Oslo,Norway,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+9ppJrpsbbuGNjiMhhD52Ueco4KXUzVfrtNQ6tAcDab4f,johndoe,127813.191070245,16276-FR-Strasbourg,Strasbourg,France,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+GFXVa19rX6iwfs3sLS5UvX9Exu2usRsG4V5MRMDRo23V,GooseFX - 0% Fees,127666.76540937,213896-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,4,indicative
+5fSQdv4zsAJNx6RKpGho6sL6rY6a8nziaqcmwaRJB9NE,Blossom,127224.188049857,395201-DE-Fechenheim,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,7,indicative
+FCWkGAHDWK41ANjiaoPudkCZRkvTecaEkoZQugezUnpr,maxfillipov,127150.317882653,16276-FR-Strasbourg,Strasbourg,France,Europe,8,6,2,0.75,0.25,0slot-de1,4,indicative
+FSyAsxcE7g8pSSEu5nx7Hkz44rMZiYio5Wz8Lszh3Nbi,Honeybee 🐝 +Jito,126909.728880036,206264-NL-Europe/Amsterdam,Winschoten,Netherlands,Europe,4,3,1,0.75,0.25,triton-fra,3,long_tail
+TopjgY7N1fJdnW89S9fX6t7LF61nspgXGL1NpgAKhDG,TopReward,126823.742408681,395201-DE-Rödelheim,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,2,indicative
+FGiEdzde7Fco2WLpNQMat299hUVoykJdaA5hxdmCzHiS,Vnode,126645.773735814,396356-US-New York,New York,United States,North America,12,10,2,0.8333,0.1667,0slot-de1,3,indicative
+nodeEgRVkbYLAQePtMx2zCN7CGw7qRgzKMCBtjMfN1D,Node Integration,125196.062104931,20473-PL-Warsaw,Warsaw,Poland,Europe,12,12,0,1.0,0.0,0slot-de1,6,indicative
+D4r6Rcua2L7nHHhdaiZe2k2bTfPg2WQqcNYpG6bugvCG,Limitless Systems,123613.987178671,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,3,1,0.75,0.25,nextblock-quic-fra,2,long_tail
+4Kbcyn7JVPAWLRLPsNGTPmcNMvCkLTw51ZLRhqsUC6jP,,122864.144160585,18450-US-Ogden,West Haven,United States,North America,4,1,3,0.25,0.75,helius-dual,1,long_tail
+3rqEEEGjHRyndHuduBcjkf17rX3hgmGACpYTQYeZ5Ltk,StakeThat +MEV,122802.620670857,213896-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+8uPW9msN75rfaKiwy8y8NxEX5zSk2WejtVv5YhZr3jCo,Lumos Maxima,122634.045093469,395201-DE-Fechenheim,Tokyo,Japan,Asia,8,8,0,1.0,0.0,triton-fra,6,indicative
+LitxAVo3RnYXD2sX1TyRJxfnKy48amXgyGiysPZjZwE,Litx - 0% Commission,122491.415697007,214783-NL-Rotterdam,Amsterdam,Netherlands,Europe,4,3,1,0.75,0.25,0slot-de1,2,long_tail
+CeJjdkRwfqYjrb7ZgKgqTurxx88H6kZyRadJwNJBcQwC,,122484.118615541,16509-DE-Frankfurt am Main,Frankfurt,Germany,Europe,16,16,0,1.0,0.0,triton-fra,8,indicative
+5FbKKGdEaFcxGxxaLKVvBes2JxiKbreh8w2ZpMcSQ2a5,Table Rock Jungle Lodge,122466.873612063,20473-GB-Europe/London,Manchester,United Kingdom,Europe,8,8,0,1.0,0.0,nextblock-quic-fra,4,indicative
+9hQqNe3DQTiwhspatewA8EXhz12e6sq5UJVJ2qNRwnTf,Stake Shark,122389.908860631,262287-US-Chicago,Chicago,United States,North America,4,3,1,0.75,0.25,nozomi-fra,1,long_tail
+novaeuhY2JH2WHhc9KVTHDx2cyJZdXJC6faf4CtARZn,Nova Consortium,121864.933541034,402479-HK-Tsuen Wan,Tsuen Wan,Hong Kong S.A.R.,Asia,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+kom1oNHyyt84XLGVfi5Jo1qkVkU5xG1sBxPG19rWknE,Komorebi,121649.319632146,262287-NL-Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,nextblock-quic-fra,3,long_tail
+2N7v8pDKDYhtBUJBQUgxvysUjgM9s4ULPCmeEiPWTf6Z,HAKUHODO KEY3,120091.712146204,210162-JP-Tokyo,Tokyo,Japan,Asia,8,7,1,0.875,0.125,0slot-de1,4,indicative
+c3rtoMCHSbFrLRTAdw4iRowKSn4BrDtvSPbuyJwkHwx,Latitude.sh,118442.071375715,396356-BR-São Paulo,São Paulo,Brazil,South America,8,6,2,0.75,0.25,astralane-fra,5,indicative
+3BeharBd3j4sKQp7Qze27JLQLd9AEEwGTX9TC7dXYSNw,Dragon Trust Stake,118135.31004613,395201-DE-Rödelheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+4JahMMrVRS1gimWoXpD5H6KwKc2MrsoTDFMaStMttL1E,xSTAKE | 0% fee,117970.775739376,20326-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+MicoB9cA9R6jsicdhzWFjwd9HMkV8FA4o3WxYU6Z2yz,MICOBO,117921.430502111,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+GQiWnDYrzHMALWG9avt5FCu1wisAQHjGY5ve7GMBiPEe,Nam-dok-mai 🤑 stake-earn-repeat,117792.967782707,20473-US-San Jose,Santa Clara,United States,North America,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+HwN6eoEe9N3kwHi66hpQDBMFPk6ASQGthWKPX5MZmisp,Solya,117486.802333199,20473-SG-Singapore,Singapore,Singapore,Asia,20,19,1,0.95,0.05,triton-fra,8,inferential
+EAW9vxqogvdPNapq7QTDpiVTHK6o7begUhPVnf854VTc,Solana Qubits,117184.569620775,20473-US-Los Angeles,Los Angeles,United States,North America,8,8,0,1.0,0.0,triton-fra,4,indicative
+9pBHfuE19q7PRbupJf8CZAMwv6RHjasdyMN9U9du7Nx2,H2O Nodes💧,116898.010544237,58010-DE-Europe/Berlin,Butzbach,Germany,Europe,12,10,2,0.8333,0.1667,0slot-de1,6,indicative
+3Pfubj3ytkRxFAGwFb5vtacuZJUxko5Du39xie9MBXuC,[NODERS],116422.238300764,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,8,7,1,0.875,0.125,0slot-de1,2,indicative
+BLUEHGDihXD9CqqC5XFSQzDC3aS5jASohb2BAsXaJokR,Bluestone 💙,115558.583115787,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,0slot-de1,5,indicative
+AmjX7CerZbHrU814UeBp2gJC7gANNG3KrP4c3RyD7TSD,NTT DOCOMO GLOBAL,113843.582921954,210162-JP-Tokyo,Tokyo,Japan,Asia,4,4,0,1.0,0.0,bloxroute-fra,1,long_tail
+EPFZFVrXuveEQar9LaEkt5kDRPMnbvK54qu5FwCxpkcy,AiSol,113726.172365849,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,12,10,2,0.8333,0.1667,helius-dual,3,indicative
+99rG5AhkVagxJ7y8NpMAmy1h1u9GhT3h1Cimu2X3cwaJ,,112609.164436523,262287-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,5,3,0.625,0.375,triton-fra,3,indicative
+BuonuQoAR74GoMwCFhxKWVWWSGGt2wfbNmQ3cizaJ97G,Solarius☀️,112104.394253435,395201-DE-Hattersheim,Kriftel,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+5ghoFEVrsXeAPB6SUmBpZ2xq3KvHEjNMeSaBnxEBXkHV,DarkTower,111972.170551409,216444-SG-Singapore,Singapore,Singapore,Asia,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+VicAQ3U2GjjAuF3tPCtEQZdZKnpAAxkr5Q3zjDKmdo7,LightNode,110878.348589569,20473-US-Kent,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,nextblock-quic-fra,2,long_tail
+NLMSHTjmSiRxGJPs3uaqtsFBC2dTGYwK41U18Nmw5kH,T-STAKE Systems,110684.535985173,47447-DE-Europe/Berlin,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+3DaPk6TdeGnEBwTR8fEyZSLkdayk6vZXrqGZhAgYK8BV,Stand With Ukraine,110150.472315602,206264-JP-Tokyo,Tokyo,Japan,Asia,8,6,2,0.75,0.25,triton-fra,3,indicative
+5zm9g3zgAPWzX3wmUB2JtTkcwCqe74NWsTmt5wLFwCKK,00Tokyo,108232.824821596,216444-SG-Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,0slot-de1,7,indicative
+4uH4G6YiD5G8rU3mtPg73C2Uqamrqedy3FboTZcZrh6x,Windfall,108141.766716058,206264-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,4,2,2,0.5,0.5,helius-fra,1,long_tail
+RAuSNo4DRjo83uGhdgg4fPqYBVszi1KsrQGpqcPHK1D,Hubra,107729.410330219,29066-SG-Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,0slot-de1,6,indicative
+8nbE53mcKhy74HLiGZ1q5HRocwiCvgh49csSaHSdtukr,"Moutai Validator 🚀 Performant, Secure and NO Fees",107301.471868939,16276-EN-London,London,United Kingdom,Europe,16,15,1,0.9375,0.0625,nextblock-quic-fra,10,indicative
+BPKAfGkkzF5u1QRjjB1nWYYbPMUCMPJe1xZPmwEMNMCT,GateOmega | SolCircl.app,106227.610897001,395201-DE-Fechenheim,Frankfurt,Germany,Europe,3,2,1,0.6667,0.3333,triton-fra,1,long_tail
+HnwMGBAw5PxaX56eSYc969MorEy2NzEMPLkmBkdnJmeq,⭐StepByStep⭐ Jito BAM,105658.387614016,29802-SG-Singapore,Singapore,Singapore,Asia,4,4,0,1.0,0.0,triton-fra,2,long_tail
+LunaowJnt875WWoqDkhHhE93SNYHa6tfFNVn1rqc57c,LunaNova,105654.081530541,3170-GB-Europe/London,East Hendred,United Kingdom,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+4W3jdXyqhLCjzA3Liu8ZNjViwrc6N9YjSB7obbxfjcKE,Glory to Ukraine,105436.116622752,47447-DE-Europe/Berlin,Frankfurt,Germany,Europe,12,12,0,1.0,0.0,triton-fra,5,indicative
+SQDS9iwyWvT2mQbSZzuNKGoxuBug5jRHouF6SuMRBkA,Squads,104747.026921663,18450-US-Los Angeles,West Haven,United States,North America,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+EBk678aQvc3cUkfGyoehfw21JQfJXjmWuBeopYc89RSV,佛金疯 Solana Chinese Community,104099.052186135,18450-US-El Segundo,West Haven,United States,North America,8,8,0,1.0,0.0,astralane-fra,4,indicative
+bookoVmqw4QjVj5BbkFacouadx9M7816wyRkfM7A5Lo,The Library,103376.557623042,20473-SG-Singapore,Singapore,Singapore,Asia,14,14,0,1.0,0.0,triton-fra,7,indicative
+CjmXSapt1ouz3CZzgkRJckBEwMSo5fVdVrizLeRscwYD,Mad Lads,102540.014612291,26042-US-Draper,Corral City,United States,North America,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+E99w1XfS4UNM1xUKXWEuDmj8Mduy7u65jm2NCULTspSV,Project Super,102077.924290369,402479-HK-Tsuen Wan,São Paulo,Brazil,South America,12,12,0,1.0,0.0,0slot-de1,4,indicative
+SPHERExTW7GaMgS4RN6MbghYvXU2REfFWHgpxMH1P69,Sphere,101549.266640349,213896-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,3,1,0.75,0.25,0slot-de1,2,long_tail
+mrgn28BhocwdAUEenen3Sw2MR9cPKDpLkDvzDdR7DBD,Project 0 Horizon,99761.244683564,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,4,4,0.5,0.5,nozomi-fra,1,indicative
+9bkyxgYxRrysC1ijd6iByp9idn112CnYTw243fdH2Uvr,Legends,98309.821061959,18450-US-America/Chicago,West Haven,United States,North America,4,3,1,0.75,0.25,triton-fra,3,long_tail
+6xUK9Nbonr4eoJNtHGoUEMmYKoPz5mipKzyDBv6deX4d,LuSOL +MEV,98255.988619405,25160-GB-London,London,United Kingdom,Europe,4,3,1,0.75,0.25,0slot-de1,3,long_tail
+FNTPSUuRpDoJx1hwFmB5ncNLLMX42aE83P4hsFYUfNRL,Nodz,98093.027649677,204770-US-Chicago,Chicago,United States,North America,16,11,5,0.6875,0.3125,0slot-de1,8,indicative
+D8kuk3qEiVBGwYkuMGKfBDwuRi6jjRkzjAZg45fdaRLx,LuminaNodes,97740.2326077,20473-US-Atlanta,Atlanta,United States,North America,8,8,0,1.0,0.0,triton-fra,4,indicative
+EATpCzQNs8BzZh1mx1hXMAJm3o1MLXakTXr4UEmcsY7f,EAT TRIBE,96694.688586905,204770-US-Chicago,Chicago,United States,North America,4,3,1,0.75,0.25,0slot-de1,2,long_tail
+vahMVcSS3v6uwyFormV7FDAUbQSHwmy6vUedp1P7L42,StakeITeasy🚀High APY + 0% fee✅ + MEV🔥,96591.811080383,58061-NL-Haarlem,Haarlem,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+5ysfTZ42VT1TjnjzQShZSrix7wdVtjXwssocSeYKDs5d,LEVMA - 0% fee,96577.027138665,20473-US-Santa Clara,Santa Clara,United States,North America,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+ReFiqMfGnc7tW8WQtFFcJRPZSDAWDBnAsdoFYF2QnfR,ReFi Hub,96313.689007747,396356-AR-America/Argentina/Buenos_Aires,Buenos Aires,Argentina,South America,4,4,0,1.0,0.0,astralane-fra,2,long_tail
+9ueKvL3WiLM4mNUZrfWqPTYY2Np5YwzFTYvAiPibx1Zq,,95344.285140515,395201-DE-Rödelheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+AWZhUiQjrjtxL8MEMWsCFbMausFQKkdTnDsFW2i411hN,MeshMap,93775.514191872,29802-NL-Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+FdH9QEQBxPQfaF2JpcjgdfcMnDb7rjZkCDRCWLRjTQwj,Solana Ukraine 🇺🇦,93728.795474738,20473-US-Kent,Frankfurt,Germany,Europe,12,11,1,0.9167,0.0833,0slot-de1,7,indicative
+3x9nibnhgBHWKMRiGnsXJELRBjviQpKyigfrXtKW27KJ,Staking kiwi validator,93571.810318835,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+xLabscif2DLnYg39rQThqi7A9E45L9qiysRZhmZ1ARE,xLabs,92398.053608123,396356-AR-Buenos Aires,Buenos Aires,Argentina,South America,8,7,1,0.875,0.125,astralane-quic-fra,3,indicative
+DupN8puwoPdFo9EYm8AXemEn9cMsore1QmZzfPaxyUG4,Buffalo Steve,92093.370774255,20473-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+7HMHSdQkjDwz9Q5zAhEy83uzW3XHJchjdpMYapKXcKt5,GERSIA,91702.163516595,20473-US-Kent,Kent,United States,North America,8,7,1,0.875,0.125,0slot-de1,2,indicative
+By8MseMKtZQQaQjMHJiyetmc5AC8RZZv8C2ss33ktrHt,Wave,90971.754434567,395201-DE-Fechenheim,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,5,indicative
+hykfH9jUQqe2yqv3VqVAK5AmMYqrmMWmdwDcbfsm6My,Hayek,89892.242070753,206264-JP-Tokyo,Tokyo,Japan,Asia,12,10,2,0.8333,0.1667,triton-fra,3,indicative
+7knvB4bbqHCKuNp3ef2hJWdwqoH6WAUi55NQt6LdRfkx,AutoStake ⚡️ 0% fee,87865.944425888,201814-PL-Warsaw,Warsaw,Poland,Europe,4,0,4,0.0,1.0,,0,long_tail
+GvfaiJUhNCRZGVGumsEF1eHDb8JpAeFAyHSrTifyhrbt,Vybe Validator,87526.946482275,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,0slot-de1,4,indicative
+GGX3BEoZDqjxcw4AbCdu62ZTMrkpSgmPt81oP2mVuZNS,HashKey Cloud,86732.435551598,16276-FR-Roubaix,Wattrelos,France,Europe,4,1,3,0.25,0.75,0slot-de1,1,long_tail
+6qwYjs5vCSEKaTMBbHinnW8fvdGj1r8cpzPoAV1EHKsw,Fast Runner,86326.251529472,174-US-Sunrise,London,United Kingdom,Europe,4,4,0,1.0,0.0,triton-fra,3,long_tail
+GK2YYwmQk58xA2k2SeugY3i334SJVViqTT8sT5wim3Dk,Node1,86252.517481948,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,0slot-de1,7,indicative
+Fy7RCjDdFLG8wLn7TBKbccaKwYX1FetdSoVDREdUHf5o,3SDK,86141.756677338,20473-SG-Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,triton-fra,4,indicative
+GqDCbnafLmKkdqiqf278jDLXqjjZMB2sViZQtR82jPUf,SolLana,84754.566660142,20473-US-Los Angeles,Los Angeles,United States,North America,8,7,1,0.875,0.125,0slot-de1,3,indicative
+BirdeyeK5yooepHNNgaW2bGGDD2jmib4oSRFTHyELbZ1,Birdeye Plus,84713.35933558,20473-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,triton-fra,5,indicative
+3tm92VTxwyZ5MDhGoYR4tVTkwWYkzfam6hwBjauUACCk,kuma🐻validator kumaSOL LST🚀🚀,84544.17572121,20473-JP-Minamishinagawa,Tokyo,Japan,Asia,8,8,0,1.0,0.0,triton-fra,4,indicative
+32jCuWyy4aJjyv4gd4DSGBHmFU5KUSSfqbmPb9GpMin6,,84250.150363046,18450-US-Ogden,West Haven,United States,North America,4,3,1,0.75,0.25,helius-fra,2,long_tail
+Hu7pi2Xg5Kav8vSAUUr5CCZaEmMCzT6FgCTpueu3oBtW,,84215.71553822,396356-JP-Tokyo,Tokyo,Japan,Asia,8,8,0,1.0,0.0,blockrazor,2,indicative
+CiR8HNCfkjtcongPmP2DRdZPnFgjSbN5gsXdjmsXXHcB,Shiro,83947.180574178,20473-US-Elk Grove Village,Elk Grove Village,United States,North America,12,11,1,0.9167,0.0833,0slot-de1,6,indicative
+axy3tCRL3wmFMVG4c69rYurcf4fXhBo2RcuBj9ADnJ4,Somos Validator,83185.68099862,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+2dxz129YxB1xtf7Mx6HUT5JspexArNNtQt84FYueWZV7,NeNa 🌻,82751.602544465,16276-CA-Beauharnois,Montreal,Canada,North America,16,15,1,0.9375,0.0625,triton-fra,3,indicative
+DeepM3FDWaAb7o53rvyZk5YvHLG3FvDiVXJLRY78z51p,DeepStake,82535.398150968,20473-US-Los Angeles,Piscataway,United States,North America,16,16,0,1.0,0.0,0slot-de1,6,indicative
+BCJN2vZFAHDYmufBDcbD5UAQHSyerXfc6UQkgX3mSWuh,TomYum,82336.796117624,262287-US-New York,Wilmington,United States,North America,8,8,0,1.0,0.0,0slot-de1,4,indicative
+CpNnGGhgVATJAbzHUXdrcGfpPiGuZyPka4QUmH7YgavX,DICS - Degen Infrastructure Core Services,81397.500885008,18450-US-Ogden,West Haven,United States,North America,4,4,0,1.0,0.0,triton-fra,3,long_tail
+Bs19Z9SokV1s46jutN9tqqaCgYf1GsVyyytVfkzwn9qK,Empyrial,80341.021282932,20473-US-Los Angeles,Los Angeles,United States,North America,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+SscQkTYV2BFQYGGffAmTzvefrFrw6z9GNYiWHstVZ77,dogo validator,80302.114446389,395201-US-Sterling,Sterling,United States,North America,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+dmMwc4RazLHkvDZYrWAfbHQ6cViAvNa5szCJKaiun8S,Ded Monkes,79992.52124477,396356-JP-Tokyo,São Paulo,Brazil,South America,4,2,2,0.5,0.5,triton-fra,1,long_tail
+R2D2imoV8nXk1ngT9v4dEK65We4uLNyUarTBdWbFruq,🤖 RoboRun.xyz,78786.679554461,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,12,9,3,0.75,0.25,nextblock-quic-fra,3,indicative
+8cnksBVjDPspn3AvmxJd8JKUdh4uWDDXzDemPmDctaHi,StakeWave,78524.498980241,60068-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,triton-fra,3,long_tail
+1Link6hB1NpkCwJt3ZtpQKZszKauhEcKgiWjaU8PRDG,OneLink Solutions,78494.87299786,44486-DE-Frankfurt am Main,Frankfurt,Germany,Europe,8,6,2,0.75,0.25,triton-fra,3,indicative
+Fb77sbwgXmtjmkjkaoSckGp5yg3nqdtD8zf1dyxxiCSf,GXFC Validator,77699.339408501,59642-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,7,1,0.875,0.125,0slot-de1,6,indicative
+pineXRUnbaLNFMxaM3zBmFfTiKgQMGqT9jYHXZWq2Fw,Pine Analytics,77360.808866329,396356-JP-Tokyo,Mexico City,Mexico,North America,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+B94PGWcxE9iEDov8sZobTkqEY96Yb5gfcsYWSWpQxh6S,SUNREN,76420.877785345,6597-US-Duluth,Atlanta,United States,North America,8,8,0,1.0,0.0,0slot-de1,6,indicative
+6pEtDovpyd1zUMYPuNhMCPU37sUTEAtzzgoVVAh1G1JL,Zemnoi 👾,76199.499784639,206264-NL-Europe/Amsterdam,Winschoten,Netherlands,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+3Rv6ZVGUuRczP76322LyhTTYw2iM4avV4B5xFJocQJer,Gaxx Validator,75522.168092679,20473-US-Piscataway,Piscataway,United States,North America,8,5,3,0.625,0.375,triton-fra,3,indicative
+stacheBmGG5zMKuetUevAbc4m4dLbve1VPcpSur3voH,Hydex,75468.534140619,402479-HK-Tsuen Wan,Tsuen Wan,Hong Kong S.A.R.,Asia,16,16,0,1.0,0.0,0slot-de1,6,indicative
+gotasRuLTuJNZDtLHmaDJpEUjCWZqkHcuwbLhkgCwCX,Gotas,75275.286180793,396356-BR-São Paulo,São Paulo,Brazil,South America,8,7,1,0.875,0.125,astralane-fra,4,indicative
+mrgn4sJJu5GBa5wbKyjuASzhyCifvcedGoLtpKjB3Wf,Project 0 Meridian,74702.078884234,3402-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,3,1,0.75,0.25,astralane-fra,2,long_tail
+2X7WoaXX9KPqNrNfvguhnwo3rjFPNsfw2t75fGjWRthz,Stakely | 0% fee,74015.334486738,395201-JP-Asia/Tokyo,Tokyo,Japan,Asia,8,7,1,0.875,0.125,triton-fra,3,indicative
+sZAqxCSN5kkVfG2s65Bje4jzCkD2aLyk21qU95PMf2Y,Dual Validator,73877.092229383,206264-JP-Tokyo,Tokyo,Japan,Asia,7,4,3,0.5714,0.4286,triton-fra,2,indicative
+MargusJeV9bkePFLWbbzRNsMVo3Re6h9wKB5Ago8Tfj,MARGUS.ONE 💎 0% fee +MEV!,73086.160396583,58061-NL-Amsterdam,Amsterdam,Netherlands,Europe,8,8,0,1.0,0.0,nextblock-quic-fra,2,indicative
+FyLVPAKkgdAy8Gn9jnFYN5yjC1ubQWRkw2EHt2UnC8uA,Solary | 0% +MEV,72775.52972124,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,10,8,2,0.8,0.2,triton-fra,5,indicative
+CARBN9PY1Qej1aCg4885pfoYH8EHfjWuMy59pVa48ky,Cloak,71942.105149946,396356-BR-São Paulo,São Paulo,Brazil,South America,4,4,0,1.0,0.0,astralane-fra,3,long_tail
+As9NxA9bCfhrVLAFyGeWG5X5iLYPGhU3R7nLfX3tN6am,Elysium 🧊 0% fee,71867.761417212,206264-NL-Europe/Amsterdam,Winschoten,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+ECeaWy82CxpeJQr3EG3XNmYXc9NrVeWDH5ag9Lt6TPVR,SolX +Mev,71603.20892764,20326-US-Newark,Newark,United States,North America,8,8,0,1.0,0.0,0slot-de1,5,indicative
+avnujiRNoSRe9PcET42DPKznyfYnb2LRaZAsqv6REZo,AVNU,69464.517631947,396356-JP-Tokyo,Tokyo,Japan,Asia,4,3,1,0.75,0.25,0slot-de1,1,long_tail
+E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo,cp0x_by_STAKRspace,69244.942340281,206264-HK-Asia/Hong_Kong,Hong Kong,Hong Kong S.A.R.,Asia,8,8,0,1.0,0.0,astralane-quic-fra,3,indicative
+D1A4F2yh38JLQExKjDiCi4G2tCMwj93c3sikseSSePKe,,68890.280883254,16276-FR-Roubaix,Wattrelos,France,Europe,4,4,0,1.0,0.0,nextblock-quic-fra,3,long_tail
+Mwz8VgAEnPtfqS62r3ixrFiMJwnNfEwR141CGnsTo5k,Rain Works💧MEV💧0% fees,68761.954192464,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+mythxvB89eT3C1TKwwhsvdHfYq2aoCt2es8vLoDFYyk,Mythx,68112.130444169,396356-SG-Singapore,Singapore,Singapore,Asia,8,7,1,0.875,0.125,0slot-de1,4,indicative
+CtvdyHYt8cMuGVHFarV2RADfoCdnrbd8e9jAsB225uMW,SolanaBull 🚀,67138.536868196,206264-JP-Tokyo,Tokyo,Japan,Asia,4,4,0,1.0,0.0,triton-fra,2,long_tail
+5HCTsoKM7vwjubSZSyVWChaHQ9sNNRB1d2SuvL3eZ6Y6,Amber,66924.88047216,396356-DE-Frankfurt (Oder),Frankfurt,Germany,Europe,4,4,0,1.0,0.0,triton-fra,4,long_tail
+REA1zKzM5WjDEcpB27Zx2Rk16foNPtLGTETy93LLgNw,,66536.103001501,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+2icWF7TvxyycF7d1NHpMZYuJJqiRy2h7wmjFSbqUij1B,,65056.528750767,20326-NL-Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,helius-dual,3,long_tail
+MFLKSo4XDfrBf4FByx76zYM2dXSWcigag7ec2bCHTR4,The Mindfolk,64683.567223776,396356-BR-São Paulo,São Paulo,Brazil,South America,4,1,3,0.25,0.75,astralane-quic-fra,1,long_tail
+nateKhsYkrVc992UuTfAhEEFQqr2zQfpGg9RafNkxdC,Epoch.Day,64376.235393098,396356-JP-Tokyo,São Paulo,Brazil,South America,16,15,1,0.9375,0.0625,helius-dual,4,indicative
+YE11a5nVJtUNqsojkphYuWc7StqBzbCeFH6BjhAAUEV,Mellow Yellow,62709.6859532,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,4,3,1,0.75,0.25,0slot-de1,3,long_tail
+ABREU5YkQcfpDZymoQ97iGUgQcfgjctWUUxEMfumiPdV,ABREU Foundation,62608.910691945,396356-BR-São Paulo,São Paulo,Brazil,South America,8,8,0,1.0,0.0,astralane-fra,4,indicative
+CZanBzZHFzrGY5qKzaX3CNhJ5smHEMTWFFnoeUi4J6dr,Omakase,59787.205438891,204770-US-Chicago,Chicago,United States,North America,4,3,1,0.75,0.25,nozomi-fra,1,long_tail
+RoYFUUD7QD9aQ34UCMcwfye8dC5YvJeXz2J3mmoy5S4,Lifinity Protocol,59236.458018625,214783-US-New York,London,United Kingdom,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+4GEEKSwuiBHWTff9WaqrDcToZjbX6KYdyB4c578Zxse2,Sol4Geeks,59085.026503973,20473-US-Atlanta,Atlanta,United States,North America,8,6,2,0.75,0.25,triton-fra,2,indicative
+prt1st4RSxAt32ams4zsXCe1kavzmKeoR7eh1sdYRXW,Portals,59044.163547566,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,12,11,1,0.9167,0.0833,0slot-de1,8,indicative
+sce2zXNjLpPMcSCATTrLiQhAAvHNNMKypTFVtg2H37U,,58018.003123809,396356-ES-Madrid,Dallas,United States,North America,4,2,2,0.5,0.5,astralane-quic-fra,2,long_tail
+scb1Z7du8NVSaHFXsafSjRdXr6xBjWR3iugikL739Y1,,57991.303770828,396356-JP-Tokyo,Tokyo,Japan,Asia,4,3,1,0.75,0.25,helius-fra,2,long_tail
+sce1oTWYVXv7a7Hy2skxREozs5nwkQ4wDT8XJSi5tgE,,57972.210880181,396356-GB-City of London,London,United Kingdom,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+CVGwNaC1FaG95hRBHUuieDLyQU2hJuGhPduu2cMyHnw6,,57707.802360035,16509-JP-Tokyo,Tokyo,Japan,Asia,4,2,2,0.5,0.5,triton-fra,1,long_tail
+rapXHroUoGG3KvZ3qwjvGMdA7siWXwXpiNC1bYarvSC,Raposa Coffee,57215.235625429,396356-SG-Asia/Singapore,London,United Kingdom,Europe,16,16,0,1.0,0.0,0slot-de1,14,indicative
+2Eq6YD8P8QXTeoz9h6JHjgZ55t8RSxNdx4waMDCoPmQU,EvasMainnet,56885.076864591,23470-US-Los Angeles,Los Angeles,United States,North America,8,8,0,1.0,0.0,triton-fra,4,indicative
+mds1WWedpezW3qvgML4WgP341jZksYAy5SbMLwjP5KC,,56819.767485976,20326-US-Bluffdale,Bluffdale,United States,North America,4,4,0,1.0,0.0,syncro-fra,1,long_tail
+sfvTq7ojrEc5WdXcHijz676eX1pc5MgoLxbkYSdRDAB,soltop.sh,56513.876474458,396356-BR-São Paulo,São Paulo,Brazil,South America,8,5,3,0.625,0.375,astralane-quic-fra,3,indicative
+3DaifGfDESUzer5ggUeo6UDjqEKMkCpdNSrrvyuggHVe,Speedlanding Validator,56306.371982237,20326-JP-Tokyo,Tokyo,Japan,Asia,4,3,1,0.75,0.25,bloxroute-fra,1,long_tail
+adre1Xia7ekGsEqNgHeFc7MYwkfzTQNeJgQmZ2agAKZ,Systems,55383.780271011,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,8,8,0,1.0,0.0,0slot-de1,5,indicative
+sCANXAaS1a7yB8jz3USvGNLfd8DSc9r7TNzNSKKPkfY,Range,54190.369982423,20473-CL-Santiago,Santiago,Chile,South America,12,10,2,0.8333,0.1667,astralane-fra,6,indicative
+SaV6UWBaE8M3kwMBfAhQ6Tmvd2qdJRm94NTwLqtoyGd,South African Community Validator,53361.129156393,20473-ZA-Isando,Edenvale,South Africa,Africa,4,4,0,1.0,0.0,bloxroute-fra,2,long_tail
+G1eAmANVWf6ZeoxG4aMbS1APauyEDHqLxHFytzk5hZqN,Gleam,53293.184722835,396356-SG-Asia/Singapore,Singapore,Singapore,Asia,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+uxqVAFQfox97HazsPtkKiwhypQH6jEGXkQBHDtXshrk,Waterloo Blockchain,52345.666747167,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,1,3,0.25,0.75,triton-fra,1,long_tail
+tkmaiSoZ3F8MofkQBVWG6JYSCzyN6ioe7ReYXohx3WJ,Tokamai,51898.184882009,396356-DE-Frankfurt am Main,London,United Kingdom,Europe,4,4,0,1.0,0.0,astralane-fra,1,long_tail
+kREnNfJrPEHbrjSQDxmxZdGmN6hi7ewXZ3UZTURshrk,Rutgers Blockchain,50116.449393886,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+12i8gndWWWMTRzJBFhnYkobNgZB3XMUUJq75HeUrshrk,University of Minnesota Blockchain Club,50072.261853975,395201-DE-Fechenheim,Frankfurt,Germany,Europe,3,3,0,1.0,0.0,astralane-quic-fra,2,long_tail
+q1yPXLsYcJhzxhUYLewFDjYmsBh2gDFnYqrZ9VPshrk,Blockchain at Columbia,49991.671188618,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,astralane-fra,3,long_tail
+BSMe78Jk1BfeJDdHQj1aXVjrT2aMAYidyNAGQsTshrk,Dalhousie Blockchain Society,49979.022019006,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,3,1,0.75,0.25,astralane-fra,2,long_tail
+3KNGMiXwhy2CAWVNpLoUt25sNngFnX1mZpaiEeVccBA6,01node,49536.894559934,41536-RO-Europe/Bucharest,Bucharest,Romania,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+mALL2W6DUgDDtcyurC9v5YTF2CMMeuRwPBkf6tEoG3y,mallow,48816.592513314,396356-BR-São Paulo,Singapore,Singapore,Asia,4,2,2,0.5,0.5,nozomi-fra,1,long_tail
+65pHd5P2VrehonT1cdJ2JUnq5wi3WUgfL3A8RhYH7Kg7,,47772.425429164,20326-NL-Amsterdam,Frankfurt,Germany,Europe,8,8,0,1.0,0.0,astralane-fra,4,indicative
+ByszyWdqC3rVMWy8f6jwK5cmwkpwYdwsr7UL58xS5vnm,ILY♡ Validator ➕ Firedancer🔥 ||neochibi culture X:@ILY_validator,46193.081572863,20473-JP-Minamishinagawa,Tokyo,Japan,Asia,4,4,0,1.0,0.0,astralane-quic-fra,1,long_tail
+DCKyEmMENQMtLXgbmUoHRmgP9XdJ9HsR5WxrKnSDCzKA,Dicky,46059.283716206,396356-JP-Tokyo,São Paulo,Brazil,South America,8,8,0,1.0,0.0,helius-fra,4,indicative
+sTEVErNNwF2qPnV6DuNPkWpEyCt4UU6k2Y3Hyn7WUFu,STEVE,45063.692093936,396356-JP-Tokyo,São Paulo,Brazil,South America,4,1,3,0.25,0.75,helius-dual,1,long_tail
+huinBRP3muBuqZLMW8ARjdn4mBnEmFFcxiBzrkQz553,Huisky Staking,44603.283705907,395201-DE-Rödelheim,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+1i1yPyh843bTfi5qPgqozTbDcEX65rUNEFcUT2KAs2i,Lilith,44488.272100144,396356-JP-Tokyo,São Paulo,Brazil,South America,8,6,2,0.75,0.25,bloxroute-quic-fra,2,indicative
+2nhGaJvR17TeytzJVajPfABHQcAwinKoCG8F69gRdQot,WinStake Labs,43221.51995066,216444-SG-Singapore,Singapore,Singapore,Asia,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+DiFeTctQSaNczJNmZ5121kYqLaBe9wDpM9sjCzTELJLE,Serhio911,42778.672545594,57494-RU-Novosibirsk,Novosibirsk,Russia,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+GRT7yrpfF1TEvp3RmCzu5YZ74B4EueVMPg5NYtSiPwtD,Tramplin,41721.3045049,7979-NL-Europe/Amsterdam,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,0slot-de1,4,long_tail
+ark1hdnnfmusE24wGHkyVG1gdRCqfmXs9drasDAdABZ,,41668.777384591,16276-FR-Roubaix,Limburg an der Lahn,Germany,Europe,8,8,0,1.0,0.0,0slot-de1,3,indicative
+ChaossRPGKnsVhX1GfPC78yq5Sqju4cMThcAsKZNz5d6,Udder Chaos 🐄,34785.365648174,395201-DE-Fechenheim,Frankfurt,Germany,Europe,4,2,2,0.5,0.5,0slot-de1,1,long_tail
+7d7x84jiVtqpz9NK88ocLmu4L15uhdnzMEDmo8Py8oVi,Validatize Validator,34777.620938842,154126-AU-Australia/Sydney,Lane Cove,Australia,Oceania,4,4,0,1.0,0.0,triton-fra,1,long_tail
+gangtCrQg5RmKf5yxvhvZThPugPX58pDSdQ5UuS26vN,The Lotus Validator,32993.29617012,3402-DE-Frankfurt am Main,Frankfurt,Germany,Europe,4,4,0,1.0,0.0,astralane-fra,2,long_tail
+2bpfa8JbFfZUGUsedDsemu6vQUxbhcEM8ALSH3PgXd2d,EAC,29451.04961158,60414-FI-Europe/Helsinki,Helsinki,Finland,Europe,4,4,0,1.0,0.0,astralane-quic-fra,3,long_tail
+STaKesuXJH6UGRizuEVSWG1tyLu5ycKgWj3i1HUdvs5,Private,26760.665792329,20473-FR-Aubervilliers,Aubervilliers,France,Europe,4,4,0,1.0,0.0,triton-fra,3,long_tail
+4SgoyAwN26iu9Gpf12Bk1rnzp4G4yDUM3XVv4w7VQcAf,SkipLine,26545.076658077,214783-NL-Europe/Amsterdam,Los Angeles,United States,North America,4,4,0,1.0,0.0,triton-fra,2,long_tail
+AccReGBNBdUCEJ7ZyP231jw7uVJ3eF9u4cLBFAyqQuWm,Accretion | r0bre,25349.56836112,206264-SC-Indian/Mahe,Amsterdam,Netherlands,Europe,4,4,0,1.0,0.0,triton-fra,2,long_tail
+5N9r2ne7dPgHtzeHC5ETJ3DAueKQiXSU8KAmEZrrojT7,thugDAO Validator,23509.693475625,18450-US-Ogden,West Haven,United States,North America,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+orbit1bWKxnECKLqjhm5rybTiEC2GEYbecyebgEfM5q,OrbitFlare Validator,22060.911386216,206264-JP-Tokyo,Tokyo,Japan,Asia,4,4,0,1.0,0.0,0slot-de1,3,long_tail
+NWY18yrPHsTogTDq78HpB51D7gC5AGRsvJ5pPqSchkH,,20753.574016952,9009-RO-Bucharest,Bucharest,Romania,Europe,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+5yEnvhM4Ld3UZs2n173J2iR369E1ddcbQYeLSZxk4cYj,Dan's Validator,14326.171349496,262287-US-Chicago,Chicago,United States,North America,4,4,0,1.0,0.0,0slot-de1,2,long_tail
+FZrSKKsKfZJovcQWRQFDXz8DbHKCSRZLZqbBAGd1dG57,,5968.517320342,58061-NL-Amsterdam,Amsterdam,Netherlands,Europe,4,1,3,0.25,0.75,astralane-quic-fra,1,long_tail

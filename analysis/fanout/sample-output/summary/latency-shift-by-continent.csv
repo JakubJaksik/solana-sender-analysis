@@ -1,0 +1,40 @@
+continent,sender,n,p50_ms,p90_ms,fastest_on_continent,hl_shift_vs_fastest_ms
+Europe,0slot-de1,3148,82.49401649999999,205.1203662,nextblock-quic-fra,53.8727135
+Europe,allenhark-quic-ams,25,51.523497,217.75570520000016,nextblock-quic-fra,22.9626875
+Europe,allenhark-quic-fra,253,35.494951,85.7870472,nextblock-quic-fra,9.570077000000001
+Europe,astralane-fra,1970,49.916406,141.71575410000003,nextblock-quic-fra,22.880602500000002
+Europe,astralane-quic-fra,1344,54.370264,147.97621460000002,nextblock-quic-fra,26.112453000000002
+Europe,blockrazor,94,40.461864,106.96829620000001,nextblock-quic-fra,12.803494
+Europe,bloxroute-fra,105,34.993011,118.58885180000001,nextblock-quic-fra,9.895046999999998
+Europe,bloxroute-quic-fra,76,45.914854000000005,213.209385,nextblock-quic-fra,20.21643
+Europe,helius-dual,1590,26.830627,66.2291658,nextblock-quic-fra,1.2155134999999975
+Europe,helius-fra,104,36.0066125,111.3338495,nextblock-quic-fra,8.719431
+Europe,nextblock-quic-fra,708,26.172126,61.96051730000003,nextblock-quic-fra,0.0
+Europe,nozomi-fra,599,49.619803,141.20467560000006,nextblock-quic-fra,21.977146
+Europe,syncro-fra,242,36.3497485,83.66756060000002,nextblock-quic-fra,10.952958499999998
+Europe,triton-fra,1998,54.730180000000004,130.7988667,nextblock-quic-fra,26.825343500000002
+North America,0slot-de1,2157,161.484475,251.8987298,blockrazor,46.35204400000001
+North America,allenhark-quic-fra,59,118.778572,201.49240880000002,blockrazor,2.4430795000000103
+North America,astralane-fra,476,133.06878949999998,220.55273599999998,blockrazor,9.522027499999993
+North America,astralane-quic-fra,334,135.500635,238.47521089999995,blockrazor,13.61012749999999
+North America,blockrazor,34,109.67208049999999,173.2228638,blockrazor,0.0
+North America,bloxroute-fra,36,126.641503,210.8890625,blockrazor,12.635690000000004
+North America,bloxroute-quic-fra,25,122.547236,233.04307360000013,blockrazor,6.0670395
+North America,helius-dual,95,119.984699,201.2287624000001,blockrazor,7.764137500000004
+North America,helius-fra,52,164.83367149999998,217.3375652,blockrazor,40.0588415
+North America,nextblock-quic-fra,141,148.581067,176.206851,blockrazor,8.761249499999991
+North America,nozomi-fra,321,137.077728,225.987112,blockrazor,7.749943999999996
+North America,triton-fra,878,124.437551,197.63022100000006,blockrazor,9.405582000000003
+Asia,0slot-de1,764,240.233627,330.86594570000005,nextblock-quic-fra,54.913946499999994
+Asia,astralane-fra,71,197.00628,269.304058,nextblock-quic-fra,13.132699000000002
+Asia,astralane-quic-fra,70,185.6244825,257.8214803,nextblock-quic-fra,10.772119999999987
+Asia,blockrazor,178,176.4598455,212.30011260000006,nextblock-quic-fra,5.606190499999997
+Asia,bloxroute-fra,57,191.700371,252.1047588,nextblock-quic-fra,20.444894999999974
+Asia,bloxroute-quic-fra,53,192.156818,214.4590994,nextblock-quic-fra,19.370210999999983
+Asia,helius-dual,153,182.644517,227.13601660000003,nextblock-quic-fra,9.935370000000006
+Asia,helius-fra,131,180.666599,253.165315,nextblock-quic-fra,9.815956999999997
+Asia,nextblock-quic-fra,49,167.402478,433.7460042000003,nextblock-quic-fra,0.0
+Asia,nozomi-fra,139,193.10244,310.2870966,nextblock-quic-fra,14.966758999999996
+Asia,triton-fra,437,199.583461,242.40142720000006,nextblock-quic-fra,22.20840899999999
+South America,0slot-de1,33,231.406041,292.05119640000004,astralane-fra,43.70730000000003
+South America,astralane-fra,33,187.803412,227.3988578,astralane-fra,0.0

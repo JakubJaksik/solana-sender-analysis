@@ -1,0 +1,16 @@
+sender_name,pop,protocol_class,n_landed,same_slot,next_slot,next_slot_same_leader,next_leader,pct_same_slot,pct_next_slot,pct_next_leader,gate
+0slot-de1,0slot-de1,RELAY,6103,3416,2687,1970,717,55.9724725544814,44.0275274455186,11.74832049811568,inferential
+triton-fra,triton-fra,RELAY,3332,2429,903,608,295,72.89915966386555,27.100840336134453,8.853541416566626,inferential
+astralane-fra,astralane-fra,RELAY,2550,1915,635,499,136,75.09803921568627,24.901960784313726,5.333333333333334,inferential
+astralane-quic-fra,astralane-quic-fra,QUIC_TPU,2103,1537,565,426,139,73.08606752258679,26.86638135996196,6.609605325725154,inferential
+helius-dual,helius-fra,HTTP_JSONRPC,1845,1590,255,190,65,86.1788617886179,13.821138211382115,3.523035230352303,inferential
+nozomi-fra,nozomi-fra,RELAY,1068,762,306,269,37,71.34831460674157,28.651685393258425,3.464419475655431,inferential
+nextblock-quic-fra,nextblock-quic-fra,QUIC_TPU,1038,952,86,76,10,91.71483622350675,8.285163776493256,0.9633911368015413,inferential
+allenhark-quic-fra,allenhark-fra,QUIC_TPU,331,266,65,50,15,80.36253776435045,19.637462235649547,4.531722054380665,inferential
+blockrazor,blockrazor-fra,RELAY,310,197,113,108,5,63.54838709677419,36.45161290322581,1.6129032258064515,inferential
+helius-fra,helius-fra,HTTP_JSONRPC,294,225,69,58,11,76.53061224489795,23.46938775510204,3.741496598639456,inferential
+syncro-fra,syncro-fra,RELAY,272,222,50,31,19,81.61764705882352,18.38235294117647,6.985294117647059,inferential
+bloxroute-fra,bloxroute-fra,RELAY,212,161,51,44,7,75.94339622641509,24.056603773584907,3.30188679245283,inferential
+bloxroute-quic-fra,bloxroute-quic-fra,QUIC_TPU,187,128,59,49,10,68.44919786096256,31.550802139037433,5.347593582887701,inferential
+allenhark-quic-ams,allenhark-ams,QUIC_TPU,40,26,14,8,6,65.0,35.0,15.0,inferential
+jito-multi,jito-multiregion,JITO,2,1,1,0,1,50.0,50.0,50.0,long_tail

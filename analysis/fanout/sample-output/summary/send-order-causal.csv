@@ -1,0 +1,2 @@
+covariate,odds_ratio,or_ci_lo,or_ci_hi,p_value,or_ci_includes_1,verdict,model,n_attempts,n_strata,note
+send_order (centered within trigger),0.9868056997416457,0.9829902484002454,0.9906359606591961,1.818993708079862e-11,False,SIGNIFICANT,"Logit(sender+covariates, cluster=trigger)",281406,19687,"send_at_ns is a noisy proxy for true dispatch order (schedule.seed=null, order_idx discarded); within-trigger centered send-order rank has no effect on P(win)."

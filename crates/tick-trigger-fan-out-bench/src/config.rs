@@ -1,0 +1,599 @@
+//! Phase 3+ configuration.
+//!
+//! Single JSON file describes everything: RPC, wallet, gRPC sources,
+//! supervisor tuning, schedule generation, tx parameters, senders, run
+//! parameters. Designed to grow - adding fan-out vendors, durable nonce,
+//! Jito tip strategies etc. should only need new fields or new sender
+//! kinds, not structural changes.
+
+use serde::{Deserialize, Serialize};
+use std::path::{Path, PathBuf};
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct Config {
+    pub rpc: RpcConfig,
+    pub wallet: WalletConfig,
+    pub sources: SourcesConfig,
+    pub supervisor: SupervisorConfig,
+    pub schedule: ScheduleConfig,
+    pub tx: TxConfig,
+    pub senders: Vec<SenderConfig>,
+    pub run: RunConfig,
+    #[serde(default)]
+    pub nonce: NonceConfig,
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize, Default)]
+pub struct NonceConfig {
+    /// When true, preparer signs tx with `AdvanceNonceAccount` + nonce
+    /// blockhash from the manager instead of fresh blockhash from RPC.
+    #[serde(default)]
+    pub enabled: bool,
+    /// Path to `nonce-config.json` produced by `setup_nonces` (the bin from
+    /// `fan-out-bench`). Contains the nonce account pubkeys.
+    #[serde(default = "default_nonce_config_path")]
+    pub config_path: PathBuf,
+    /// RPC fallback poll interval for Stale nonces. 15s by default.
+    #[serde(default = "default_nonce_rpc_poll_secs")]
+    pub rpc_poll_interval_secs: u64,
+    /// Move a nonce to Stale if it stays in InFlight longer than this.
+    #[serde(default = "default_in_flight_deadline_secs")]
+    pub in_flight_deadline_secs: u64,
+    /// Move a nonce to Stale if it stays in AwaitingUpdate longer than this.
+    #[serde(default = "default_awaiting_update_deadline_secs")]
+    pub awaiting_update_deadline_secs: u64,
+}
+
+fn default_nonce_config_path() -> PathBuf {
+    PathBuf::from("nonce-config.json")
+}
+fn default_nonce_rpc_poll_secs() -> u64 {
+    15
+}
+fn default_in_flight_deadline_secs() -> u64 {
+    45
+}
+fn default_awaiting_update_deadline_secs() -> u64 {
+    15
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct RpcConfig {
+    pub url: String,
+    #[serde(default = "default_blockhash_refresh_secs")]
+    pub blockhash_refresh_secs: u64,
+}
+
+fn default_blockhash_refresh_secs() -> u64 {
+    5
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct WalletConfig {
+    pub keypair_path: PathBuf,
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct SourcesConfig {
+    pub shredstream_grpc_url: String,
+    pub yellowstone_grpc_url: String,
+    #[serde(default)]
+    pub yellowstone_auth_token: String,
+    #[serde(default = "default_source_channel_capacity")]
+    pub channel_capacity: usize,
+}
+
+fn default_source_channel_capacity() -> usize {
+    65536
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct SupervisorConfig {
+    #[serde(default = "default_entry_timeout_ms")]
+    pub entry_timeout_ms: u64,
+    #[serde(default = "default_slot_seal_lag_slots")]
+    pub slot_seal_lag_slots: u64,
+}
+
+fn default_entry_timeout_ms() -> u64 {
+    150
+}
+fn default_slot_seal_lag_slots() -> u64 {
+    10
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct ScheduleConfig {
+    /// `None` → seeded from system time (different every run).
+    /// `Some(N)` → reproducible.
+    #[serde(default)]
+    pub seed: Option<u64>,
+    /// How many slots per pump chunk.
+    #[serde(default = "default_chunk_size_slots")]
+    pub chunk_size_slots: u64,
+    /// Pump emits chunks `lead_slots` ahead of `current_slot` so the
+    /// engine has the schedule ready when the slot arrives.
+    #[serde(default = "default_lead_slots")]
+    pub lead_slots: u64,
+}
+
+fn default_chunk_size_slots() -> u64 {
+    30
+}
+fn default_lead_slots() -> u64 {
+    100
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct TxConfig {
+    /// Self-transfer amount (back to wallet). 1 lamport keeps it minimum
+    /// while still being a real tx with system_program::transfer ix.
+    #[serde(default = "default_self_transfer_lamports")]
+    pub self_transfer_lamports: u64,
+    /// Priority fee microlamports per CU (set via ComputeBudgetInstruction).
+    #[serde(default = "default_priority_fee")]
+    pub priority_fee_microlamports: u64,
+    /// Compute unit limit (set via ComputeBudgetInstruction).
+    #[serde(default = "default_compute_unit_limit")]
+    pub compute_unit_limit: u32,
+}
+
+fn default_self_transfer_lamports() -> u64 {
+    1
+}
+fn default_priority_fee() -> u64 {
+    5000
+}
+fn default_compute_unit_limit() -> u32 {
+    200_000
+}
+
+/// Sender kind discriminator. New protocols/vendors get a new variant.
+/// HTTP-based for now; QUIC/gRPC/custom clients will follow in later phases.
+#[derive(Debug, Clone, Copy, Deserialize, Serialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum SenderKind {
+    Helius,
+    Jito,
+    Triton,
+    #[serde(rename = "triton_sendtx")]
+    TritonSendTx,
+    Nozomi,
+    Astralane,
+    #[serde(rename = "astralane_quic")]
+    AstralaneQuic,
+    Nextblock,
+    #[serde(rename = "nextblock_quic")]
+    NextblockQuic,
+    Bloxroute,
+    #[serde(rename = "bloxroute_quic")]
+    BloxrouteQuic,
+    Syncro,
+    #[serde(rename = "0slot")]
+    ZeroSlot,
+    #[serde(rename = "allenhark")]
+    AllenHark,
+    #[serde(rename = "blockrazor")]
+    BlockRazor,
+}
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct SenderConfig {
+    pub id: u8,
+    pub name: String,
+    pub kind: SenderKind,
+    /// For single-endpoint senders (Helius): full URL.
+    /// For multi-region senders (Jito): URL template with `{region}` placeholder,
+    /// e.g. `"https://{region}.mainnet.block-engine.jito.wtf"`.
+    pub endpoint_url: String,
+    /// Optional API key for senders that authenticate via header (Syncro:
+    /// `Authorization: Bearer <key>`). Empty = keyless/public. Secret - config only.
+    #[serde(default)]
+    pub api_key: String,
+    /// Path to a client TLS certificate (PEM) for mTLS senders (bloXroute QUIC:
+    /// `external_gateway_cert.pem` from the portal). Empty = unused.
+    #[serde(default)]
+    pub tls_cert_path: String,
+    /// Path to the client TLS private key (PEM) for mTLS senders (bloXroute QUIC:
+    /// `external_gateway_key.pem`). Empty = unused. Secret - config only.
+    #[serde(default)]
+    pub tls_key_path: String,
+    #[serde(default)]
+    pub tip_lamports: u64,
+    #[serde(default = "default_enabled")]
+    pub enabled: bool,
+    /// Multi-region fan-out targets (Jito-style senders). Empty for
+    /// single-endpoint senders.
+    #[serde(default)]
+    pub regions: Vec<String>,
+    /// Outbound IPs to rotate through when sending. Empty = OS-chosen default.
+    /// Used to spread rate-limit budget across multiple source IPs.
+    #[serde(default)]
+    pub outbound_ips: Vec<String>,
+    /// Minimum interval between successive sends to this sender, in
+    /// milliseconds. When > 0, the sender locally throttles itself: if a
+    /// trigger fires while last send was within `min_send_interval_ms`,
+    /// the call short-circuits with `error="throttled_local"` instead of
+    /// hitting the network. 0 (default) = no throttling.
+    ///
+    /// Diagnostic tool: helps verify whether vendor rate-limit errors are
+    /// volume-driven (drop sends with throttling, errors should go away)
+    /// vs. caused by something else (errors persist even at low rate).
+    #[serde(default)]
+    pub min_send_interval_ms: u64,
+
+    // ── Jito sender fields (ignored by other kinds) ──
+    #[serde(default = "default_tip_percentile")]
+    pub tip_percentile: u32,
+    #[serde(default = "default_tip_floor_lamports")]
+    pub tip_floor_lamports: u64,
+    #[serde(default = "default_tip_ceiling_lamports")]
+    pub tip_ceiling_lamports: u64,
+    #[serde(default = "default_tip_refresh_interval_ms")]
+    pub tip_refresh_interval_ms: u64,
+}
+
+fn default_enabled() -> bool {
+    true
+}
+fn default_tip_percentile() -> u32 { 75 }
+fn default_tip_floor_lamports() -> u64 { 15_000 }
+fn default_tip_ceiling_lamports() -> u64 { 2_000_000 }
+fn default_tip_refresh_interval_ms() -> u64 { 30_000 }
+
+#[derive(Debug, Clone, Deserialize, Serialize)]
+pub struct RunConfig {
+    /// Top-level dir under which each run gets its own subdirectory.
+    pub output_dir: PathBuf,
+    /// Stop run if wallet balance drops below this (avoids draining).
+    #[serde(default = "default_min_balance_lamports")]
+    pub min_balance_lamports: u64,
+    /// How long a trigger waits for its tx to be observed before being
+    /// emitted as UNKNOWN_PENDING. 90 s comfortably covers mainnet finality.
+    #[serde(default = "default_observation_deadline_secs")]
+    pub observation_deadline_secs: u64,
+    /// Total run duration as a humantime string (e.g. "5m", "60s").
+    /// Parse with `humantime::parse_duration(&run.duration)`.
+    pub duration: String,
+    /// Send rate hint per slot: 1 trigger per slot is the default.
+    /// Each scheduled (slot, tick) fires exactly once.
+    #[serde(default = "default_triggers_per_slot")]
+    pub triggers_per_slot: u32,
+}
+
+fn default_min_balance_lamports() -> u64 {
+    1_500_000
+}
+fn default_observation_deadline_secs() -> u64 {
+    90
+}
+fn default_triggers_per_slot() -> u32 {
+    1
+}
+
+impl Config {
+    pub fn load(path: &Path) -> anyhow::Result<Self> {
+        let text = std::fs::read_to_string(path)?;
+        let cfg: Config = serde_json::from_str(&text)?;
+        Ok(cfg)
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn parses_minimal_config() {
+        let json = r#"{
+          "rpc": { "url": "https://api.mainnet.solana.com" },
+          "wallet": { "keypair_path": "/tmp/wallet.json" },
+          "sources": {
+            "shredstream_grpc_url": "http://127.0.0.1:9999",
+            "yellowstone_grpc_url": "https://example.com:2053",
+            "yellowstone_auth_token": "tok"
+          },
+          "supervisor": {},
+          "schedule": {},
+          "tx": {},
+          "senders": [
+            { "id": 0, "name": "helius-dual", "kind": "helius",
+              "endpoint_url": "http://x", "tip_lamports": 200000 }
+          ],
+          "run": {
+            "output_dir": "runs",
+            "duration": "60s",
+            "triggers_per_slot": 1
+          }
+        }"#;
+        let cfg: Config = serde_json::from_str(json).unwrap();
+        assert_eq!(cfg.senders.len(), 1);
+        assert_eq!(cfg.supervisor.entry_timeout_ms, 150);
+        assert_eq!(cfg.supervisor.slot_seal_lag_slots, 10);
+        assert_eq!(cfg.tx.priority_fee_microlamports, 5000);
+        assert_eq!(cfg.schedule.chunk_size_slots, 30);
+        assert_eq!(cfg.run.triggers_per_slot, 1);
+    }
+
+    #[test]
+    fn disabled_sender_parses() {
+        let json = r#"{ "id":1, "name":"x", "kind":"helius",
+          "endpoint_url":"http://x", "tip_lamports":1000, "enabled":false }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert!(!s.enabled);
+    }
+
+    #[test]
+    fn jito_sender_with_regions_and_ips_parses() {
+        let json = r#"{
+          "id": 2, "name": "jito-multi", "kind": "jito",
+          "endpoint_url": "https://{region}.mainnet.block-engine.jito.wtf",
+          "tip_lamports": 10000,
+          "regions": ["frankfurt", "amsterdam", "london", "ny"],
+          "outbound_ips": ["10.0.0.1", "10.0.0.2"]
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::Jito);
+        assert_eq!(s.regions, vec!["frankfurt", "amsterdam", "london", "ny"]);
+        assert_eq!(s.outbound_ips, vec!["10.0.0.1", "10.0.0.2"]);
+        assert_eq!(s.tip_lamports, 10000);
+    }
+
+    #[test]
+    fn jito_sender_with_full_bundle_fields_parses() {
+        let json = r#"{
+          "id": 2, "name": "jito", "kind": "jito",
+          "endpoint_url": "https://{region}.mainnet.block-engine.jito.wtf/api/v1/transactions",
+          "regions": ["frankfurt", "amsterdam"],
+          "outbound_ips": ["1.2.3.4", "1.2.3.5"],
+          "tip_percentile": 75,
+          "tip_floor_lamports": 20000,
+          "tip_ceiling_lamports": 1500000,
+          "tip_refresh_interval_ms": 30000
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.tip_percentile, 75);
+        assert_eq!(s.tip_floor_lamports, 20_000);
+        assert_eq!(s.tip_ceiling_lamports, 1_500_000);
+        assert_eq!(s.tip_refresh_interval_ms, 30_000);
+    }
+
+    #[test]
+    fn triton_sender_kind_parses_with_defaults() {
+        let json = r#"{
+          "id": 3, "name": "triton-fra", "kind": "triton",
+          "endpoint_url": "https://my-app.mainnet.rpcpool.com/TOKEN"
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::Triton);
+        assert_eq!(s.tip_lamports, 0); // no tip for Triton
+        assert!(s.enabled);
+    }
+
+    #[test]
+    fn triton_sendtx_sender_kind_parses_header_auth_and_path_auth() {
+        // Header-auth form: host base in endpoint_url, token in api_key.
+        let header_auth = r#"{
+          "id": 8, "name": "triton-sendtx-fra", "kind": "triton_sendtx",
+          "endpoint_url": "https://my-app.mainnet.rpcpool.com", "api_key": "TOKEN-123"
+        }"#;
+        let s: SenderConfig = serde_json::from_str(header_auth).unwrap();
+        assert_eq!(s.kind, SenderKind::TritonSendTx);
+        assert_eq!(s.api_key, "TOKEN-123");
+        assert_eq!(s.tip_lamports, 0); // no tip for Triton sendtx
+        assert!(s.enabled);
+
+        // Token-in-path form: token in endpoint_url, api_key empty.
+        let path_auth = r#"{
+          "id": 8, "name": "triton-sendtx-fra", "kind": "triton_sendtx",
+          "endpoint_url": "https://my-app.mainnet.rpcpool.com/TOKEN-123"
+        }"#;
+        let s2: SenderConfig = serde_json::from_str(path_auth).unwrap();
+        assert_eq!(s2.kind, SenderKind::TritonSendTx);
+        assert_eq!(s2.api_key, "");
+    }
+
+    #[test]
+    fn astralane_sender_kind_parses_with_regions_ips_and_key() {
+        let json = r#"{
+          "id": 3, "name": "astralane-fra", "kind": "astralane",
+          "endpoint_url": "https://{region}.gateway.astralane.io",
+          "api_key": "astra-key-123",
+          "regions": ["fr", "ams"],
+          "outbound_ips": ["1.2.3.4", "1.2.3.5"],
+          "tip_lamports": 100000,
+          "min_send_interval_ms": 200
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::Astralane);
+        assert_eq!(s.api_key, "astra-key-123");
+        assert_eq!(s.regions, vec!["fr", "ams"]);
+        assert_eq!(s.outbound_ips, vec!["1.2.3.4", "1.2.3.5"]);
+        assert_eq!(s.tip_lamports, 100_000);
+        assert_eq!(s.min_send_interval_ms, 200);
+    }
+
+    #[test]
+    fn astralane_quic_sender_kind_parses() {
+        let json = r#"{
+          "id": 4, "name": "astralane-quic-fra", "kind": "astralane_quic",
+          "endpoint_url": "fr.gateway.astralane.io:7000",
+          "api_key": "astra-key-123",
+          "outbound_ips": ["1.2.3.4"],
+          "tip_lamports": 100000,
+          "min_send_interval_ms": 200
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::AstralaneQuic);
+        assert_eq!(s.endpoint_url, "fr.gateway.astralane.io:7000");
+        assert_eq!(s.api_key, "astra-key-123");
+        assert_eq!(s.outbound_ips, vec!["1.2.3.4"]);
+        assert_eq!(s.tip_lamports, 100_000);
+    }
+
+    #[test]
+    fn nextblock_sender_kind_parses() {
+        let json = r#"{
+          "id": 5, "name": "nextblock-fra", "kind": "nextblock",
+          "endpoint_url": "https://frankfurt.nextblock.io/api/v2/submit",
+          "api_key": "nb-key-123",
+          "outbound_ips": ["1.2.3.4"],
+          "tip_lamports": 1000000,
+          "min_send_interval_ms": 200
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::Nextblock);
+        assert_eq!(s.api_key, "nb-key-123");
+        assert_eq!(s.tip_lamports, 1_000_000);
+        assert_eq!(s.outbound_ips, vec!["1.2.3.4"]);
+    }
+
+    #[test]
+    fn nextblock_quic_sender_kind_parses() {
+        let json = r#"{
+          "id": 6, "name": "nextblock-quic-fra", "kind": "nextblock_quic",
+          "endpoint_url": "frankfurt.nextblock.io:11100",
+          "api_key": "nb-key-123",
+          "outbound_ips": ["1.2.3.4"],
+          "tip_lamports": 1000000,
+          "min_send_interval_ms": 200
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::NextblockQuic);
+        assert_eq!(s.endpoint_url, "frankfurt.nextblock.io:11100");
+        assert_eq!(s.api_key, "nb-key-123");
+    }
+
+    #[test]
+    fn bloxroute_sender_kind_parses_with_regions() {
+        let json = r#"{
+          "id": 7, "name": "bloxroute-fra", "kind": "bloxroute",
+          "endpoint_url": "http://{region}.solana.dex.blxrbdn.com/api/v2/submit",
+          "api_key": "blx-token-123",
+          "regions": ["germany", "global"],
+          "tip_lamports": 1000000,
+          "min_send_interval_ms": 200
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::Bloxroute);
+        assert_eq!(s.api_key, "blx-token-123");
+        assert_eq!(s.regions, vec!["germany", "global"]);
+        assert_eq!(s.tip_lamports, 1_000_000);
+    }
+
+    #[test]
+    fn bloxroute_quic_sender_kind_parses_with_tls_paths() {
+        let json = r#"{
+          "id": 8, "name": "bloxroute-quic-fra", "kind": "bloxroute_quic",
+          "endpoint_url": "{region}.solana.dex.blxrbdn.com:443",
+          "regions": ["germany", "global"],
+          "tls_cert_path": "/etc/blx/external_gateway_cert.pem",
+          "tls_key_path": "/etc/blx/external_gateway_key.pem",
+          "tip_lamports": 1000000, "min_send_interval_ms": 200
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::BloxrouteQuic);
+        assert_eq!(s.regions, vec!["germany", "global"]);
+        assert_eq!(s.tls_cert_path, "/etc/blx/external_gateway_cert.pem");
+        assert_eq!(s.tls_key_path, "/etc/blx/external_gateway_key.pem");
+    }
+
+    #[test]
+    fn nozomi_sender_kind_parses_with_regions_and_key() {
+        let json = r#"{
+          "id": 9, "name": "nozomi-fra", "kind": "nozomi",
+          "endpoint_url": "http://{region}.nozomi.temporal.xyz",
+          "api_key": "noz-key-123",
+          "regions": ["fra2", "ams1", "lon1"],
+          "tip_lamports": 1000000
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::Nozomi);
+        assert_eq!(s.api_key, "noz-key-123");
+        assert_eq!(s.regions, vec!["fra2", "ams1", "lon1"]);
+        assert_eq!(s.tip_lamports, 1_000_000);
+    }
+
+    #[test]
+    fn jito_defaults_when_fields_omitted() {
+        let json = r#"{
+          "id": 2, "name": "jito", "kind": "jito",
+          "endpoint_url": "https://{region}.x",
+          "regions": ["frankfurt"]
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.tip_percentile, 75);
+        assert_eq!(s.tip_floor_lamports, 15_000);
+        assert_eq!(s.tip_ceiling_lamports, 2_000_000);
+        assert_eq!(s.tip_refresh_interval_ms, 30_000);
+    }
+
+    #[test]
+    fn helius_sender_without_regions_still_parses() {
+        let json = r#"{ "id":0, "name":"helius", "kind":"helius",
+          "endpoint_url":"http://x", "tip_lamports":5000 }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert!(s.regions.is_empty());
+        assert!(s.outbound_ips.is_empty());
+    }
+
+    #[test]
+    fn syncro_sender_kind_parses_with_optional_api_key() {
+        let with_key = r#"{
+          "id": 4, "name": "syncro-fra", "kind": "syncro",
+          "endpoint_url": "https://sfls.l2.p2p.org",
+          "api_key": "k-123", "tip_lamports": 100000, "min_send_interval_ms": 20
+        }"#;
+        let s: SenderConfig = serde_json::from_str(with_key).unwrap();
+        assert_eq!(s.kind, SenderKind::Syncro);
+        assert_eq!(s.api_key, "k-123");
+        assert_eq!(s.min_send_interval_ms, 20);
+
+        // api_key defaults to empty (public keyless) when omitted.
+        let no_key = r#"{
+          "id": 4, "name": "syncro-fra", "kind": "syncro",
+          "endpoint_url": "http://sfls-geo-fra.l2.p2p.org/public",
+          "tip_lamports": 100000, "min_send_interval_ms": 1000
+        }"#;
+        let s2: SenderConfig = serde_json::from_str(no_key).unwrap();
+        assert_eq!(s2.api_key, "");
+    }
+
+    #[test]
+    fn zeroslot_sender_kind_parses_from_0slot_string() {
+        let json = r#"{
+          "id": 5, "name": "0slot-de1", "kind": "0slot",
+          "endpoint_url": "http://de1.0slot.trade",
+          "api_key": "k-xyz", "tip_lamports": 1000000, "min_send_interval_ms": 200
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::ZeroSlot);
+        assert_eq!(s.api_key, "k-xyz");
+        assert_eq!(s.min_send_interval_ms, 200);
+    }
+
+    #[test]
+    fn allenhark_sender_kind_parses_from_allenhark_string() {
+        let json = r#"{
+          "id": 6, "name": "allenhark-fra", "kind": "allenhark",
+          "endpoint_url": "84.32.223.83:4433", "api_key": "",
+          "tip_lamports": 1000000
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::AllenHark);
+        assert_eq!(s.tip_lamports, 1_000_000);
+    }
+
+    #[test]
+    fn blockrazor_sender_kind_parses_from_blockrazor_string() {
+        let json = r#"{
+          "id": 7, "name": "blockrazor-fra", "kind": "blockrazor",
+          "endpoint_url": "http://frankfurt.solana.blockrazor.xyz:443",
+          "api_key": "tok", "tip_lamports": 100000, "min_send_interval_ms": 350
+        }"#;
+        let s: SenderConfig = serde_json::from_str(json).unwrap();
+        assert_eq!(s.kind, SenderKind::BlockRazor);
+        assert_eq!(s.api_key, "tok");
+        assert_eq!(s.min_send_interval_ms, 350);
+    }
+}

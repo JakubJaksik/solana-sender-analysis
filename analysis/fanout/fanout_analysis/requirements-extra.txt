@@ -1,0 +1,6 @@
+scipy
+statsmodels
+seaborn
+plotly
+pyarrow
+pytest

@@ -1,0 +1,10 @@
+sender_name,protocol_class,send_error_total,throttled_local,http_429,server_500,rpc_err_codes
+jito-multi,JITO,17066,13783,3274,0,-32097
+nozomi-fra,RELAY,13804,13804,0,0,
+blockrazor,RELAY,8855,8833,0,0,
+allenhark-quic-ams,QUIC_TPU,1882,0,0,0,
+helius-dual,HTTP_JSONRPC,32,0,0,0,
+helius-fra,HTTP_JSONRPC,32,0,0,0,
+bloxroute-fra,RELAY,25,0,0,0,
+astralane-fra,RELAY,3,0,3,0,
+triton-fra,RELAY,1,0,0,0,

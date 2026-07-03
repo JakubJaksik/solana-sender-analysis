@@ -1,0 +1,18 @@
+sender,archetype,tip_floor_lamports,min_send_interval_ms,attempts_paid,landings,land_rate_operational,cost_per_landing_sol,total_tip_spend_sol,total_onchain_spend_sol,assumption_source,tip_source_stale
+helius-fra,per_tx,5000,0,22386,294,0.01313203501876005,1.1e-05,0.00147,0.003234,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+blockrazor,per_tx,100000,500,21012,310,0.013846703591209576,0.000106,0.031,0.03286,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",True
+helius-dual,per_tx,200000,0,22382,1845,0.08241021976058603,0.000206,0.369,0.38007,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+0slot-de1,per_tx,1000000,0,22386,6103,0.27260139360371627,0.001006,6.103,6.139618,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+allenhark-quic-ams,per_tx,1000000,0,22388,40,0.0017866714311238164,0.001006,0.04,0.04024,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+allenhark-quic-fra,per_tx,1000000,0,22375,331,0.01478470609254958,0.001006,0.331,0.332986,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+allenhark-quic-ny,per_tx,1000000,0,0,0,0.0,0.001006,0.0,0.0,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",True
+allenhark-quic-tk,per_tx,1000000,0,0,0,0.0,0.001006,0.0,0.0,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",True
+astralane-fra,per_tx,1000000,0,22387,2550,0.1139003037341433,0.001006,2.55,2.5653,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+astralane-quic-fra,per_tx,1000000,0,19107,2103,0.09393425049133465,0.001006,2.103,2.115618,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+bloxroute-fra,per_tx,1000000,0,22382,212,0.009469358584956226,0.001006,0.212,0.213272,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+bloxroute-quic-fra,per_tx,1000000,0,19370,187,0.008352688940503842,0.001006,0.187,0.188122,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+jito-multi,per_tx,1000000,1200,19985,2,8.933357155619081e-05,0.001006,0.002,0.002012,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",True
+nextblock-quic-fra,per_tx,1000000,0,19187,1038,0.046364123637663034,0.001006,1.038,1.044228,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",False
+nozomi-fra,per_tx,1000000,1200,20004,1068,0.0477041272110059,0.001006,1.068,1.074408,"config:tip_lamports (on-chain tip + base fee, paid per LANDED tx)",True
+triton-fra,subscription,0,0,22385,3332,0.1488297302126139,6e-06,0.0,0.019992,config:tip_lamports (subscription/credit archetype; on-chain tip + flat fee NOT in data),True
+syncro-fra,subscription,100000,0,22388,272,0.01214936573164195,0.000106,0.0272,0.028832,config:tip_lamports (subscription/credit archetype; on-chain tip + flat fee NOT in data),True

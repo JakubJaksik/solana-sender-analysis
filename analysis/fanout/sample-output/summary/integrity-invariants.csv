@@ -1,0 +1,10 @@
+name,observed,expected,pass,critical
+row_count_eq_triggers_x_senders,380596,380596,True,True
+rows_per_trigger_balanced,[17],[17],True,True
+signatures_unique_1to1,380596,380596,True,True
+single_winner_no_multiland,1,<=1,True,True
+geo_leader_coverage,1.0,1.0,True,True
+winner_distribution,"{0: 2701, 1: 19687}","keys in {0,1}, sum == n_triggers",True,False
+landed_eq_winners,19687,19687,True,False
+geo_continent_coverage,1.0,1.0,True,False
+observation_source,"SS=19687,YS=0",(informational),True,False

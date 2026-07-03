@@ -1,0 +1,111 @@
+sender_name,region_type,region,n,p50_ticks,p90_ticks,p99_ticks
+0slot-de1,sv_continent,Europe,3052,14.0,31.0,74.0
+0slot-de1,sv_continent,North America,2153,27.0,42.0,89.36000000000013
+0slot-de1,sv_continent,Asia,849,40.0,53.0,185.79999999999973
+allenhark-quic-ams,sv_continent,Europe,22,7.0,16.800000000000004,65.60999999999996
+allenhark-quic-fra,sv_continent,Europe,247,6.0,15.400000000000006,37.69999999999996
+allenhark-quic-fra,sv_continent,North America,63,21.0,34.0,481.2000000000029
+astralane-fra,sv_continent,Europe,1925,9.0,20.0,43.27999999999997
+astralane-fra,sv_continent,North America,485,22.0,35.0,53.0
+astralane-fra,sv_continent,Asia,106,35.0,51.0,147.65000000000003
+astralane-quic-fra,sv_continent,Europe,1556,9.0,21.0,42.90000000000009
+astralane-quic-fra,sv_continent,North America,410,22.0,36.0,61.0
+astralane-quic-fra,sv_continent,Asia,111,32.0,47.0,222.1000000000001
+blockrazor,sv_continent,Europe,94,7.0,22.400000000000006,39.06999999999999
+blockrazor,sv_continent,North America,35,20.0,31.0,39.25999999999996
+blockrazor,sv_continent,Asia,177,31.0,39.0,49.40000000000009
+bloxroute-fra,sv_continent,Europe,104,6.0,22.700000000000003,52.579999999999984
+bloxroute-fra,sv_continent,North America,36,22.0,33.0,41.79999999999998
+bloxroute-fra,sv_continent,Asia,58,35.0,41.300000000000004,339.36999999999983
+bloxroute-quic-fra,sv_continent,Europe,83,7.0,25.599999999999994,43.53999999999998
+bloxroute-quic-fra,sv_continent,North America,31,23.0,41.0,118.39999999999999
+bloxroute-quic-fra,sv_continent,Asia,65,35.0,41.6,45.72
+helius-dual,sv_continent,Europe,1558,4.0,11.0,41.720000000000255
+helius-dual,sv_continent,North America,112,19.0,32.0,37.89
+helius-dual,sv_continent,Asia,167,32.0,41.0,123.78000000000023
+helius-fra,sv_continent,Europe,98,6.0,18.0,32.18000000000001
+helius-fra,sv_continent,North America,54,28.0,37.7,159.35
+helius-fra,sv_continent,Asia,135,32.0,41.0,57.66
+nextblock-quic-fra,sv_continent,Europe,821,5.0,11.0,34.399999999999864
+nextblock-quic-fra,sv_continent,North America,160,26.0,32.0,40.0
+nextblock-quic-fra,sv_continent,Asia,57,30.0,55.19999999999998,163.44
+nozomi-fra,sv_continent,Europe,597,9.0,23.0,38.0
+nozomi-fra,sv_continent,North America,324,22.0,38.39999999999998,56.76999999999998
+nozomi-fra,sv_continent,Asia,140,34.0,49.0,69.21999999999997
+syncro-fra,sv_continent,Europe,228,5.0,9.0,16.72999999999999
+syncro-fra,sv_continent,North America,20,24.5,36.2,40.42999999999999
+triton-fra,sv_continent,Europe,1911,10.0,19.0,49.0
+triton-fra,sv_continent,North America,925,23.0,35.0,62.51999999999998
+triton-fra,sv_continent,Asia,482,36.0,46.0,256.38
+0slot-de1,sv_country,Germany,1284,12.0,24.0,73.53000000000065
+0slot-de1,sv_country,United States,1620,29.0,44.0,94.80999999999995
+0slot-de1,sv_country,Netherlands,1055,14.0,30.0,61.38000000000011
+0slot-de1,sv_country,United Kingdom,115,18.0,46.20000000000002,194.26
+0slot-de1,sv_country,Japan,286,44.0,56.0,101.59999999999991
+0slot-de1,sv_country,Singapore,469,39.0,49.0,64.32
+0slot-de1,sv_country,Lithuania,307,20.0,31.0,50.0
+0slot-de1,sv_country,Canada,523,25.0,30.0,62.559999999999945
+allenhark-quic-fra,sv_country,Germany,68,11.0,16.0,38.949999999999974
+allenhark-quic-fra,sv_country,United States,53,24.0,34.0,595.1999999999964
+allenhark-quic-fra,sv_country,Netherlands,44,6.0,25.200000000000045,839.8400000000004
+allenhark-quic-fra,sv_country,United Kingdom,118,5.0,12.0,26.97999999999999
+astralane-fra,sv_country,Germany,855,8.0,21.0,43.76000000000022
+astralane-fra,sv_country,United States,360,23.0,37.0,53.410000000000025
+astralane-fra,sv_country,Netherlands,503,9.0,19.80000000000001,44.0
+astralane-fra,sv_country,United Kingdom,268,10.0,20.0,32.329999999999984
+astralane-fra,sv_country,Japan,29,36.0,47.2,51.72
+astralane-fra,sv_country,Singapore,54,32.0,42.400000000000006,51.47
+astralane-fra,sv_country,Lithuania,106,11.0,16.5,37.70000000000002
+astralane-fra,sv_country,Canada,80,22.0,30.0,43.889999999999944
+astralane-quic-fra,sv_country,Germany,665,8.0,20.600000000000023,39.360000000000014
+astralane-quic-fra,sv_country,United States,311,25.0,39.0,87.09999999999934
+astralane-quic-fra,sv_country,Netherlands,404,9.5,21.0,39.96999999999997
+astralane-quic-fra,sv_country,United Kingdom,220,10.0,21.19999999999999,44.81
+astralane-quic-fra,sv_country,Japan,28,33.0,44.3,56.57000000000001
+astralane-quic-fra,sv_country,Singapore,59,31.0,39.0,49.42
+astralane-quic-fra,sv_country,Lithuania,96,11.0,20.5,48.54999999999997
+astralane-quic-fra,sv_country,Canada,64,20.0,28.700000000000003,39.54999999999996
+blockrazor,sv_country,Germany,51,7.0,16.0,28.5
+blockrazor,sv_country,United States,31,20.0,31.0,39.69999999999999
+blockrazor,sv_country,Netherlands,30,5.5,9.100000000000001,38.550000000000004
+blockrazor,sv_country,Japan,173,31.0,39.0,49.80000000000001
+bloxroute-fra,sv_country,Germany,51,10.0,30.0,60.5
+bloxroute-fra,sv_country,United States,27,22.0,33.0,42.87999999999998
+bloxroute-fra,sv_country,United Kingdom,20,5.0,9.300000000000004,17.66999999999999
+bloxroute-fra,sv_country,Japan,46,35.0,41.5,418.4499999999981
+bloxroute-quic-fra,sv_country,Germany,29,11.0,23.199999999999992,44.03999999999999
+bloxroute-quic-fra,sv_country,United States,23,23.0,39.60000000000001,105.06000000000009
+bloxroute-quic-fra,sv_country,Netherlands,20,5.5,34.2,41.66999999999999
+bloxroute-quic-fra,sv_country,United Kingdom,23,4.0,13.8,15.780000000000001
+bloxroute-quic-fra,sv_country,Japan,53,35.0,41.800000000000004,45.959999999999994
+helius-dual,sv_country,Germany,692,3.0,10.0,36.62000000000057
+helius-dual,sv_country,United States,48,29.0,33.0,37.53
+helius-dual,sv_country,Netherlands,373,4.0,9.800000000000011,34.83999999999992
+helius-dual,sv_country,United Kingdom,464,5.0,9.0,40.22000000000003
+helius-dual,sv_country,Japan,149,32.0,41.0,88.52000000000027
+helius-dual,sv_country,Canada,61,17.0,20.0,35.39999999999998
+helius-fra,sv_country,Germany,47,5.0,16.199999999999996,27.699999999999996
+helius-fra,sv_country,United States,48,29.0,38.0,159.65
+helius-fra,sv_country,Netherlands,31,6.0,13.0,31.4
+helius-fra,sv_country,Japan,125,32.0,41.0,54.840000000000046
+nextblock-quic-fra,sv_country,Germany,422,3.0,12.0,26.58000000000004
+nextblock-quic-fra,sv_country,United States,147,27.0,32.0,40.0
+nextblock-quic-fra,sv_country,Netherlands,282,5.0,9.0,37.56999999999999
+nextblock-quic-fra,sv_country,United Kingdom,50,6.0,11.0,23.159999999999968
+nextblock-quic-fra,sv_country,Singapore,44,29.0,33.0,53.540000000000006
+nozomi-fra,sv_country,Germany,124,10.0,27.700000000000003,39.53999999999999
+nozomi-fra,sv_country,United States,274,25.0,40.0,57.26999999999998
+nozomi-fra,sv_country,Netherlands,284,7.0,18.0,37.0
+nozomi-fra,sv_country,United Kingdom,124,9.0,17.700000000000003,35.769999999999996
+nozomi-fra,sv_country,Japan,102,34.5,49.0,67.94999999999997
+nozomi-fra,sv_country,Singapore,27,29.0,38.400000000000006,55.09999999999998
+syncro-fra,sv_country,United States,20,24.5,36.2,40.42999999999999
+syncro-fra,sv_country,Netherlands,208,5.0,7.0,15.79000000000002
+triton-fra,sv_country,Germany,511,9.0,18.0,60.89999999999998
+triton-fra,sv_country,United States,884,23.0,35.0,61.33999999999992
+triton-fra,sv_country,Netherlands,587,9.0,17.0,47.27999999999997
+triton-fra,sv_country,United Kingdom,173,7.0,17.0,93.84000000000017
+triton-fra,sv_country,Japan,163,40.0,47.80000000000001,78.7199999999998
+triton-fra,sv_country,Singapore,297,35.0,42.0,62.72000000000037
+triton-fra,sv_country,Lithuania,375,14.0,21.0,42.0
+triton-fra,sv_country,Canada,31,23.0,40.0,85.29999999999997

@@ -1,0 +1,66 @@
+{
+  "section": "S0",
+  "run_id": "20260610-161650,20260610-161746,20260610-161813,20260610-164405,20260611-064816",
+  "epoch": 980,
+  "single_winner": {
+    "0": 2701,
+    "1": 19687
+  },
+  "all_pass": true,
+  "invariants": [
+    {
+      "name": "row_count_eq_triggers_x_senders",
+      "observed": 380596,
+      "expected": 380596,
+      "pass": true
+    },
+    {
+      "name": "rows_per_trigger_balanced",
+      "observed": "[17]",
+      "expected": "[17]",
+      "pass": true
+    },
+    {
+      "name": "signatures_unique_1to1",
+      "observed": 380596,
+      "expected": 380596,
+      "pass": true
+    },
+    {
+      "name": "single_winner_no_multiland",
+      "observed": 1,
+      "expected": "<=1",
+      "pass": true
+    },
+    {
+      "name": "geo_leader_coverage",
+      "observed": 1.0,
+      "expected": 1.0,
+      "pass": true
+    },
+    {
+      "name": "winner_distribution",
+      "observed": "{0: 2701, 1: 19687}",
+      "expected": "keys in {0,1}, sum == n_triggers",
+      "pass": true
+    },
+    {
+      "name": "landed_eq_winners",
+      "observed": 19687,
+      "expected": 19687,
+      "pass": true
+    },
+    {
+      "name": "geo_continent_coverage",
+      "observed": 1.0,
+      "expected": 1.0,
+      "pass": true
+    },
+    {
+      "name": "observation_source",
+      "observed": "SS=19687,YS=0",
+      "expected": "(informational)",
+      "pass": true
+    }
+  ]
+}

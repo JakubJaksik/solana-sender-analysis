@@ -1,0 +1,42 @@
+identity,name,gossip_ip,vapp_country,vapp_dc,vapp_asn,vapp_asn_org,gip_country,gip_city,gip_asn,gip_asn_org,country_mismatch,asn_mismatch
+JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB,Forward Industries,86.54.153.250,GB,400963-GB-Europe/London,400963,,US,Secaucus,400963.0,Galaxy Digital LP,True,False
+Gv9gguvrAkgQtB5g5a3Un7trcHCxLYsk8vSojLmQMsWV,,208.91.110.230,JP,20326-JP-Tokyo,20326,,US,Newark,20326.0,TeraSwitch Networks Inc.,True,False
+AWcCdYG7Dy6GX45c6QMPbgGwgRZPKcBDT4bXGb3QrVRV,,185.218.204.89,NL,57043-NL-Europe/Amsterdam,57043,,CH,Zurich,57043.0,HOSTKEY B.V.,True,False
+G9vCpJUUSpEm4zPwzSNpDmZ8MGwLEbiSLV59EBzCGvzM,AP Node,3.115.51.244,JP,16509-JP-Tokyo,16509,,JP,Tokyo,16509.0,"Amazon.com, Inc.",False,False
+GBQ2GvTzmjXMu97dr7WUnLKYTNim1aoZsYS53KYXAAAA,Bitwise Onchain Solutions | Jito BAM,79.127.239.96,NL,60068-NL-Amsterdam,60068,,NL,Amsterdam,60068.0,Datacamp Limited,False,False
+7cVfgArCheMR6Cs4t6vz5rfnqd56vZq4ndaBrY5xkxXy,Blockdaemon 🧱👿 Validator,64.130.42.70,NL,20326-NL-Amsterdam,20326,,NL,Amsterdam,20326.0,TeraSwitch Networks Inc.,False,False
+2Wf9V9rPeVRUTfmWdPedCJuWVr6MFfyLuigEq42DuMDc,Blueprint,134.65.192.69,DE,395201-DE-Fechenheim,395201,,DE,Fechenheim,395201.0,Allnodes Inc,False,False
+CW9C7HBwAMgqNdXkNgFg9Ujr3edR2Ab9ymEuQnVacd1A,Coinbase 02,64.130.63.125,GB,20326-GB-City of London,20326,,GB,London,20326.0,TeraSwitch Networks Inc.,False,False
+FNKgX9dYUhYQFRTM9bkeKoRpsyEtZGNMxbdQLDzfqB8a,Coinbase 04,64.130.42.137,NL,20326-NL-Amsterdam,20326,,NL,Amsterdam,20326.0,TeraSwitch Networks Inc.,False,False
+HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU,Helius,64.130.57.215,DE,20326-DE-Frankfurt am Main,20326,,DE,Frankfurt,20326.0,TeraSwitch Networks Inc.,False,False
+JupmVLmA8RoyTUbTMMuTtoPWHEiNQobxgTeGTrPNkzT,Jupiter,64.130.41.46,DE,20326-DE-Frankfurt am Main,20326,,DE,Frankfurt,20326.0,TeraSwitch Networks Inc.,False,False
+3B2mGaZoFwzAnWCoZ4EAKdps4FbYbDKQ48jo8u1XWynU,Low Fee Validation TOP API 🔥,77.81.119.170,ES,39020-ES-Seville,39020,,ES,Seville,39020.0,Comvive Servidores S.L.,False,False
+6WgdYhhGE53WrZ7ywJA15hBVkw7CRbQ8yDBBTwmBtAHN,Luganodes,85.195.104.157,DE,29066-DE-Frankfurt am Main,29066,,DE,Frankfurt am Main,29066.0,velia.net Internetdienste GmbH,False,False
+CoG8d9Fp2TFJRkAmrPMiPsGhQWHzdTTVoegEp9svRgmJ,Nansen | Stake to Stack Points,107.155.95.94,SG,29802-SG-Singapore,29802,,SG,Singapore,29802.0,"HIVELOCITY, Inc.",False,False
+DWvDTSh3qfn88UoQTEKRV2JnLt5jtJAVoiCo3ivtMwXP,P2P.org,170.23.153.203,NL,7979-NL-Europe/Amsterdam,7979,,NL,Amsterdam,7979.0,"Servers.com, Inc.",False,False
+Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix,Pine Stake,216.238.102.89,BR,20473-BR-Osasco,20473,,BR,Osasco,20473.0,"The Constant Company, LLC",False,False
+6xWLi1TDSh65fWsSqE1zdvANTSuVDRMx4ghsGJwgunS8,Solana Validator,134.65.193.112,DE,395201-DE-Fechenheim,395201,,DE,Fechenheim,395201.0,Allnodes Inc,False,False
+SLNDCSGTEsA6KHpgR32MBt9UAurZnVSJGUtW2tRpdU2,Solend,108.171.214.242,US,18450-US-Ogden,18450,,US,Salt Lake City,18450.0,"WebNX, Inc.",False,False
+Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM,Staking Facilities | MEV 🔥,94.158.242.125,DE,9002-DE-Frankfurt am Main,9002,,DE,Frankfurt am Main,9002.0,RETN Limited,False,False
+5Cchr1XGEg7dbBXByV5NY2ad8jfxAM7HA3x8D56rq9Ux,Upbit Staking,35.88.175.229,US,16509-US-Boardman,16509,,US,Portland,16509.0,"Amazon.com, Inc.",False,False
+DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy,binance staking,67.202.63.79,US,14618-US-Ashburn,14618,,US,Ashburn,14618.0,"Amazon.com, Inc.",False,False
+shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj,blueshift,45.139.135.100,DE,395201-DE-Rüsselsheim am Main,395201,,DE,Rüsselsheim am Main,395201.0,Allnodes Inc,False,False
+6TkKqq15wXjqEjNg9zqTKADwuVATR9dW3rkNnsYme1ea,melea 🚀 SOL 🤑2K,149.255.37.94,NL,29802-NL-Amsterdam,29802,,NL,Amsterdam,29802.0,"HIVELOCITY, Inc.",False,False
+CEL22Qx7p85qY6gmhCZaYJrrnynJitkVRMQo6qZdT8Ns,🚀🚀Super🚀🚀 Validator,198.13.133.78,JP,20326-JP-Tokyo,20326,,JP,Tokyo,20326.0,TeraSwitch Networks Inc.,False,False
+5EhGYUyQNrxgUbuYF4vbL2SZDT6RMfhq3yjeyevvULeC,,64.130.44.125,JP,20326-JP-Tokyo,20326,,JP,Tokyo,20326.0,TeraSwitch Networks Inc.,False,False
+4SNKY7GCp7ohY4AawND5Cc2D71sWMWN3Uifo854yvtks,,64.130.37.141,US,20326-US-Newark,20326,,US,Newark,20326.0,TeraSwitch Networks Inc.,False,False
+6y7V8dL673XFzm9QyC5vvh3itWkp7wztahBd2yDqsyrK,,5.199.172.178,LT,16125-LT-Vilnius,16125,,LT,Šiauliai,16125.0,UAB Cherry Servers,False,False
+BtsmiEEvnSuUnKxqXj2PZRYpPJAc7C34mGz8gtJ1DAaH,,64.130.47.154,DE,20326-DE-Frankfurt am Main,20326,,DE,Frankfurt,20326.0,TeraSwitch Networks Inc.,False,False
+J6etcxDdYjPHrtyvDXrbCkx3q9W1UjMj1vy1jBFPJEbK,,64.130.37.138,US,20326-US-Newark,20326,,US,Newark,20326.0,TeraSwitch Networks Inc.,False,False
+GYx8kpp7SsRwtQEEsGQjAxb4hFMMmT91kFJuDeky3YGQ,,64.130.44.60,JP,20326-JP-Tokyo,20326,,JP,Tokyo,20326.0,TeraSwitch Networks Inc.,False,False
+BTGPbq4KuFENn4CKuaKGqkaDd3TJD3TEgtMjSrsZnMLb,,206.223.224.207,SG,396356-SG-Asia/Singapore,396356,,SG,Singapore,396356.0,Latitude.sh,False,False
+HpcB5Qg8Y9E73dUkot5e8HkgAJbExsYeUzniY4bCuKac,,5.199.172.177,LT,16125-LT-Vilnius,16125,,LT,Šiauliai,16125.0,UAB Cherry Servers,False,False
+5ZqveVffQPiUbkjBg4KD9kib1MKHLqiFno4ke9jSq9qk,,64.130.40.183,DE,20326-DE-Frankfurt am Main,20326,,DE,Frankfurt,20326.0,TeraSwitch Networks Inc.,False,False
+9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ,,,DE,16509-DE-Frankfurt am Main,16509,,,,,,False,False
+4mtXJ5pUcMMB4t8cLbi7zfDJCHfYLRrQb4qSLmh57sKL,,202.8.10.166,IE,20326-IE-Dublin,20326,,IE,Dublin,20326.0,TeraSwitch Networks Inc.,False,False
+2GUnfxZavKoPfS9s3VSEjaWDzB3vNf5RojUhprCS1rSx,,63.254.165.79,JP,20326-JP-Tokyo,20326,,JP,Tokyo,20326.0,TeraSwitch Networks Inc.,False,False
+G3a3iYZKNLbivothF3twqcaTCEvoPb9uJ2bFc9DNKkBQ,,64.130.41.61,DE,20326-DE-Frankfurt am Main,20326,,DE,Frankfurt,20326.0,TeraSwitch Networks Inc.,False,False
+HnfPZDrbJFooiP9vvgWrjx3baXVNAZCgisT58gyMCgML,,198.13.130.222,SG,20326-SG-Singapore,20326,,SG,Singapore,20326.0,TeraSwitch Networks Inc.,False,False
+Aw5wEMXhbygFLR7jHtHpih8QvxVBGAMTqsQ2SjWPk1ex,,198.13.134.20,NL,20326-NL-Amsterdam,20326,,NL,Amsterdam,20326.0,TeraSwitch Networks Inc.,False,False
+3SkE34PVeGck2ArEffFKjihrQgURsvnoTAhitsNXNzXd,,185.189.44.170,SE,214159-SE-Stockholm,214159,,SE,Stockholm,214159.0,UAB Cherry Servers,False,False
+9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP,,64.130.42.146,NL,20326-NL-Amsterdam,20326,,NL,Amsterdam,20326.0,TeraSwitch Networks Inc.,False,False

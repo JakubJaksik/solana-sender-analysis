@@ -1,0 +1,12 @@
+test,sender_name,pop_city,landed_operational,n_operational,landrate_operational,landed_eu_subset,sender_a,sender_b,n_strata,or_pooled,cmh_stat,cmh_p,strata,feasible
+allenhark_proximity_descriptive,allenhark-quic-fra,Frankfurt,331.0,912.0,0.36293859649122806,247.0,,,,,,,,
+allenhark_proximity_descriptive,allenhark-quic-ams,Amsterdam,40.0,912.0,0.043859649122807015,22.0,,,,,,,,
+allenhark_proximity_descriptive,allenhark-quic-ny,New York,0.0,912.0,0.0,0.0,,,,,,,,
+allenhark_proximity_descriptive,allenhark-quic-tk,Tokyo,0.0,912.0,0.0,0.0,,,,,,,,
+cmh_stratified_by_continent,,,,,,,0slot-de1,triton-fra,4.0,2.1559830716925417,1043.9871733059747,0.0,"Europe,North America,Asia,South America",True
+cmh_stratified_by_continent,,,,,,,0slot-de1,allenhark-quic-fra,4.0,24.509970154370336,6111.025215487297,0.0,"Europe,North America,Asia,South America",True
+cmh_stratified_by_continent,,,,,,,0slot-de1,helius-dual,4.0,4.023863702004443,2772.8283490293547,0.0,"Europe,North America,Asia,South America",True
+cmh_stratified_by_continent,,,,,,,0slot-de1,blockrazor,4.0,16.46566561683728,3654.784252844978,0.0,"Europe,North America,Asia,South America",True
+cmh_stratified_by_continent,,,,,,,triton-fra,allenhark-quic-fra,4.0,11.619592457215946,2681.062672546261,0.0,"Europe,North America,Asia,South America",True
+cmh_stratified_by_continent,,,,,,,triton-fra,helius-dual,4.0,1.937679579788245,481.9886478655729,0.0,"Europe,North America,Asia,South America",True
+cmh_stratified_by_continent,,,,,,,triton-fra,blockrazor,4.0,7.589256840301742,1476.4959036535402,0.0,"Europe,North America,Asia,South America",True

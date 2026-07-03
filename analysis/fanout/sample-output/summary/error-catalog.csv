@@ -1,0 +1,68 @@
+category,sender,count,send_error,http_status,rpc_err_code,rpc_err_message,classification_in_run,recommended_classification,affects_denominator
+SendError,allenhark-quic-ams,1806,quic: aborted by peer: the cryptographic handshake failed: error 120: peer doesn't support any known protocol,,,,SendError,SendError,False
+SendError,allenhark-quic-ams,76,quic: read error: connection lost,,,,SendError,SendError,False
+SendError,astralane-fra,3,HTTP 429: ,429.0,,,SendError,SendError,False
+SendError,blockrazor,4,HTTP 403: rpc error: code = PermissionDenied desc = request rate limited,403.0,,HTTP 403: rpc error: code = PermissionDenied desc = request rate limited,SendError,SendError,False
+SendError,blockrazor,18,network: error sending request for url (http://frankfurt.solana.blockrazor.xyz:443/v2/sendTransaction?auth=UAgA6NHAYueDksHLYHFMDswAPEyLlhQvYj87QVDoCVDYRxNT1DNXDWfkXVjDfeTXGWp2k4cAMQ2IB3BOLbNGOWgj8TLiRDnd&mode=fast),,,,SendError,SendError,False
+SendError,blockrazor,8833,throttled_local,,,,SendError,SendError,False
+SendError,bloxroute-fra,14,network: error sending request for url (http://germany.solana.dex.blxrbdn.com/api/v2/submit),,,,SendError,SendError,False
+SendError,bloxroute-fra,11,network: error sending request for url (http://global.solana.dex.blxrbdn.com/api/v2/submit),,,,SendError,SendError,False
+SendError,helius-dual,1,"HTTP 408 body: <html><body><h1>408 Request Time-out</h1>
+Your browser didn't send a complete request in time.
+</body></html>
+",408.0,,"non-JSONRPC body: <html><body><h1>408 Request Time-out</h1>
+Your browser didn't send a complete request in time.
+</body></html>
+",SendError,SendError,False
+SendError,helius-dual,31,network: error sending request for url (http://fra-sender.helius-rpc.com/fast),,,,SendError,SendError,False
+SendError,helius-fra,1,"HTTP 408 body: <html><body><h1>408 Request Time-out</h1>
+Your browser didn't send a complete request in time.
+</body></html>
+",408.0,,"non-JSONRPC body: <html><body><h1>408 Request Time-out</h1>
+Your browser didn't send a complete request in time.
+</body></html>
+",SendError,SendError,False
+SendError,helius-fra,31,network: error sending request for url (http://fra-sender.helius-rpc.com/fast?swqos_only=true),,,,SendError,SendError,False
+SendError,jito-multi,3242,Rate limit exceeded. Limit: 1 per second for txn requests,429.0,-32097.0,Rate limit exceeded. Limit: 1 per second for txn requests,SendError,SendError,False
+SendError,jito-multi,1,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 11768ms,429.0,-32097.0,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 11768ms,SendError,SendError,False
+SendError,jito-multi,28,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 120000ms,429.0,-32097.0,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 120000ms,SendError,SendError,False
+SendError,jito-multi,1,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 1713ms,429.0,-32097.0,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 1713ms,SendError,SendError,False
+SendError,jito-multi,1,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 2353ms,429.0,-32097.0,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 2353ms,SendError,SendError,False
+SendError,jito-multi,1,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 5165ms,429.0,-32097.0,Rate limit exceeded. Limit: 1 per second for txn requests. Back-off triggered: Retry after 5165ms,SendError,SendError,False
+SendError,jito-multi,9,network: error sending request for url (https://mainnet.block-engine.jito.wtf/api/v1/transactions),,,,SendError,SendError,False
+SendError,jito-multi,13783,throttled_local,,,,SendError,SendError,False
+SendError,nozomi-fra,13804,throttled_local,,,,SendError,SendError,False
+SendError,triton-fra,1,network: error sending request for url (https://matchfl-mainnet-b119.mainnet.rpcpool.com/a1e6e19f-f2c6-4fb6-8b90-600f389385bc),,,,SendError,SendError,False
+UnknownPending_sent_but_lost,0slot-de1,16284,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,allenhark-quic-ams,20466,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,allenhark-quic-fra,22044,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,astralane-fra,19834,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,astralane-quic-fra,17343,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,blockrazor,11847,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,bloxroute-fra,22145,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,bloxroute-quic-fra,19211,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,helius-dual,18275,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,helius-fra,19829,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,jito-multi,2917,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,nextblock-quic-fra,18289,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,nozomi-fra,5133,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,syncro-fra,22116,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_sent_but_lost,triton-fra,19055,,,,"sent (send_at_ns>0, ack received) but never observed landing",UnknownPending,UnknownPending,False
+UnknownPending_never_sent,0slot-de1,1,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,allenhark-quic-fra,13,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,allenhark-quic-ny,22388,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,astralane-fra,1,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,astralane-quic-fra,2942,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,blockrazor,1376,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,bloxroute-fra,6,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,bloxroute-quic-fra,2990,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,helius-dual,6,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,helius-fra,2,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,jito-multi,2403,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,nextblock-quic-fra,3061,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+UnknownPending_never_sent,nozomi-fra,2383,,,,"never sent (send_at_ns==0, rtt_ms null) -- excluded from conditional denom",UnknownPending,exclude (never_sent),True
+BUG_A_dead_pop_misclassified,allenhark-quic-tk,22388,never_sent,,,"dead PoP (84.247.153.145): send never attempted, recorded UnknownPending",UnknownPending,SendError (exclude from conditional denom),True
+BUG_B_helius_500_misclassified,helius-dual,2230,,500.0,,HTTP 500 server error recorded as UnknownPending,UnknownPending,"SendError (reclassify, exclude from conditional denom)",True
+BUG_B_helius_500_misclassified,helius-fra,2231,,500.0,,HTTP 500 server error recorded as UnknownPending,UnknownPending,"SendError (reclassify, exclude from conditional denom)",True
+BUG_C_rtt_zero_throttle,<throttled SendError rows>,36420,throttled_local,,,rtt_ms==0: client-throttled send attempt recorded with zero RTT (already SendError),SendError,SendError (distinguish from never_sent by rtt_ms==0),False
+BUG_C_rtt_null_no_send,<never_sent rows>,62435,,,,rtt_ms==null: genuine no-send (send_at_ns==0) == never_sent indicator,UnknownPending/SendError mix,"exclude (never_sent), keyed by rtt_ms==null",True
